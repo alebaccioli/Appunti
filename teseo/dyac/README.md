@@ -6,4 +6,5 @@ Pagina del corso: [Agenzia Formativa TESEO](http://www.teseoagenzia.it/digital-y
 
 ## Materie
 
+- [Composizione di una newsletter](appunti/composizione-di-una-newsletter.md)
 - [Modalità di accesso all'informazione](appunti/modalita-di-accesso-all-informazione.md)
