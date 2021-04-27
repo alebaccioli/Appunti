@@ -34,7 +34,7 @@ Possiamo mandare newsletter di argomenti specifici a certe categorie di iscritti
 
 Una volta inviate le newsletter è importante fare un'**analisi dei dati** per capire se la newsletter ha raggiunto gli obiettivi di comunicazione che ci siamo prefissati. Per esempio possiamo sapere in che percentuale i nostri iscritti hanno aperto la newsletter rispetto a quanti l'hanno ricevuta, quanti minuti è rimasta aperta e cosa si è cliccato.
 
-In base a questi dati, e cioè al **profilo** dell'utente, possiamo capire se l'iscritto è interessato a un certo argomento ed eventualmente contattarlo per fargli delle proposte su certi prodotti o servizi, es. [SubitoSito](https://www.subitosito.it/).
+In base a questi dati, e cioè al **profilo** dell'utente, possiamo capire se l'iscritto è interessato a un certo argomento ed eventualmente contattarlo per fargli delle proposte su certi prodotti o servizi, es. [*SubitoSito*](https://www.subitosito.it/).
 
 ### 1.2. Social Network
 
