@@ -1,26 +1,26 @@
 # Composizione di una newsletter
 
-- **Docente**: Daniele Rocca ([Facebook](https://www.facebook.com/people/Daniele-Rocca/100009687019760/))
-- **Appunti**: Alessandro Baccioli ([GitHub](https://alebaccioli.github.io/appunti/))
-- **Licenza**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
+**Docente**: Daniele Rocca ([Facebook](https://www.facebook.com/people/Daniele-Rocca/100009687019760/))  
+**Appunti**: Alessandro Baccioli ([GitHub](https://alebaccioli.github.io/appunti/))  
+**Licenza**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
 
-**Lezioni**:
+**Indice**:
 
-- [1. Newsletter e DEM](#1-newsletter-e-dem)
+- [1. Tipi di comunicazione](#1-tipi-di-comunicazione)
   - [1.1. Newsletter](#11-newsletter)
   - [1.2. Social Network](#12-social-network)
   - [1.3. DEM](#13-dem)
   - [1.4. Esempi](#14-esempi)
-  - [1.5. Creare un indirizzario](#15-creare-un-indirizzario)
-- [2. Farsi conoscere dalle aziende](#2-farsi-conoscere-dalle-aziende)
-  - [2.1. Abfly](#21-abfly)
-  - [2.2. Made in Tuscany](#22-made-in-tuscany)
-  - [2.3. Finestre sull'Arte](#23-finestre-sullarte)
-  - [2.4. Considerazioni finali](#24-considerazioni-finali)
+- [2. Creare un indirizzario](#2-creare-un-indirizzario)
+- [3. Farsi conoscere dalle aziende](#3-farsi-conoscere-dalle-aziende)
+  - [3.1. Abfly](#31-abfly)
+  - [3.2. Made in Tuscany](#32-made-in-tuscany)
+  - [3.3. Finestre sull'Arte](#33-finestre-sullarte)
+- [4. Considerazioni finali](#4-considerazioni-finali)
 
-## 1. Newsletter e DEM
+## 1. Tipi di comunicazione
 
-**Data**: 12/04/2021
+**Data lezione**: 12/04/2021
 
 ### 1.1. Newsletter
 
@@ -72,7 +72,7 @@ Una DEM può avere le seguenti caratteristiche:
 - un'anteprima per provare il prodotto prima dell'acquisto
 - email inviata a cadenza non definita o comunque evitando d'importunare l'iscritto, es. trimestrale
 
-### 1.5. Creare un indirizzario
+## 2. Creare un indirizzario
 
 In qualche modo dobbiamo raccogliere degli indirizzi per inviare le nostre newsletter o DEM.
 
@@ -84,11 +84,9 @@ Possiamo fare una partnership con un **portale** del settore, ossia un sito web 
 
 Molte di queste promozioni prevedono costi, è quindi necessario fare una valutazione dei costi/benefici. Possiamo però a nostra volta permettere ad altre aziende di pubblicizzare la loro attività sfruttando il nostro sistema di newsletter e i nostri iscritti, ottenendo in cambio un compenso.
 
-## 2. Farsi conoscere dalle aziende
+## 3. Farsi conoscere dalle aziende
 
-**Data**: 19/04/2021
-
-### 2.1. Abfly
+**Data lezione**: 19/04/2021
 
 Molto spesso le newsletter subiscono una cattiva sorte: possono essere ignorate perché finite in mezzo ad una moltitudine di altre email, venire cestinate perché ripetitive o finire in automatico nella cartella spam.
 
@@ -96,13 +94,15 @@ Possiamo provare a prendere indirizzi email pubblici (rilasciati direttamente da
 
 Per catturare l'attenzione di possibili clienti possiamo provare a creare dei prodotti che ci permettano di differenziarci e far vedere cosa sappiamo fare.
 
+### 3.1. Abfly
+
 Uno dei primi progetti del docente è stato [***Abfly***](https://www.danaeproject.com/abfly-magazine/), una rivista gratuita da lasciare all'aeroporto di Pisa. I costi di stampa e distribuzione erano a suo carico, mentre gli introiti erano rappresentati dalle inserzioni pubblicitarie. La rivista contiene articoli di artisti, informazioni su altri paesi collegati all'aeroporto, spazi riservati agli inserzionisti. A fine rivista uno spazio dove viene pubblicizzato un altro suo prodotto.
 
 In questo modo ha creato uno strumento che gli ha permesso di avere visibilità presso le aziende, ora poteva offrire un servizio di pubblicità. Non inviava più le email di prima per promuovere la propria attività, ma piuttosto chiedeva loro se erano interessati a partecipare alla rivista.
 
 Invece di vendere qualcosa a grandi aziende come *Moschino*, impresa particolarmente difficile per aziende piccole, vendiamo la possibilità di avere uno spazio in questa rivista. Per un'azienda minore stare al fianco di una grande azienda permette di avere grande visibilità.
 
-### 2.2. Made in Tuscany
+### 3.2. Made in Tuscany
 
 Ad un certo punto il docente ritenne di avere competenze da spendere nell'artigianato artistico e nel turismo, per esempio ceramiche di arredo e oggettistica in marmo. Avrebbe potuto proporre ad aziende di questo settore uno spazio su *Abfly*, ma la rivista era solo cartacea e molte aziende pensavano (succede anche oggi) che il prodotto cartaceo fosse di bassa circolazione e quindi rappresentasse uno scarso investimento.
 
@@ -118,7 +118,7 @@ La newsletter della *Danae Project* chiedeva: "Vuoi far parte dell'aeroporto di 
 
 *Consiglio*: non innamorarsi di un progetto o di un'idea, se s'intravede un'altra opportunità meglio andare oltre.
 
-### 2.3. Finestre sull'Arte
+### 3.3. Finestre sull'Arte
 
 Il docente decide poi di entrare nella realtà di [***Finestre sull'Arte***](https://www.finestresullarte.info/), un sito che si occupava di comunicazione sull'arte. Il sito era già avviato, ma ai tempi aveva scarsi risultati.
 
@@ -136,7 +136,7 @@ Anche gli enti del turismo dei vari comuni possono essere potenziali clienti. Pe
 
 Agli enti e musei invia: "Comprate un banner sul sito", mentre agli iscritti: "Comprate la rivista online o gli audiolibri, oppure visitate queste mostre".
 
-### 2.4. Considerazioni finali
+## 4. Considerazioni finali
 
 La newsletter va usata quando si ha un segmento di clientela ben specifico, altrimenti la invieremmo a caso. Serve quindi creare un piano di marketing.
 
@@ -158,4 +158,11 @@ Grammatica: ok
 Codice: ok
 Sezioni e TOC: ok
 Pagina: ok
+-->
+
+<!--
+Data: 29/04/2021
+Grammatica: ok
+Sezioni e TOC: ok
+Info corso: ok
 -->
