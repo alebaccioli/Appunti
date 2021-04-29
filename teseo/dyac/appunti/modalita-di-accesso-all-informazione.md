@@ -1,35 +1,32 @@
 # Modalità di accesso all'informazione
 
-**Docente**: Lorenzo Cristofori - **Appunti**: [Alessandro Baccioli](https://alebaccioli.github.io/appunti/) - **Licenza**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
+**Docente**: Lorenzo Cristofori ([sito](https://www.lorenzocristofori.it/))  
+**Appunti**: Alessandro Baccioli ([GitHub](https://alebaccioli.github.io/appunti/))  
+**Licenza**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
 
-**Lezioni**:
+**Indice**:
 
-- [1. Hardware e file](#1-hardware-e-file)
-  - [1.1. Hardware](#11-hardware)
-  - [1.2. Periferiche](#12-periferiche)
-  - [1.3. Memoria di un dispositivo](#13-memoria-di-un-dispositivo)
-  - [1.4. Tipi di file](#14-tipi-di-file)
-- [2. Digitalizzazione](#2-digitalizzazione)
-  - [2.1. Collegamenti](#21-collegamenti)
-  - [2.2. Unità di misura](#22-unità-di-misura)
-  - [2.3. Digitalizzare le informazioni](#23-digitalizzare-le-informazioni)
-- [3. Comunicazione](#3-comunicazione)
-  - [3.1. Modifica della comunicazione](#31-modifica-della-comunicazione)
-  - [3.2. Informazioni tramite immagini](#32-informazioni-tramite-immagini)
-  - [3.3. Infografiche](#33-infografiche)
-  - [3.4. PowerPoint](#34-powerpoint)
-  - [3.5. Internet e WWW](#35-internet-e-www)
-  - [3.6. HTML](#36-html)
+- [1. Hardware](#1-hardware)
+- [2. Memoria](#2-memoria)
+  - [2.1. Cartelle](#21-cartelle)
+  - [2.2. File](#22-file)
+  - [2.3. Collegamenti](#23-collegamenti)
+  - [2.4. Unità di misura](#24-unità-di-misura)
+- [3. Digitalizzare le informazioni](#3-digitalizzare-le-informazioni)
+- [4. Sintetizzazione delle informazioni](#4-sintetizzazione-delle-informazioni)
+  - [4.1. Modifica della comunicazione](#41-modifica-della-comunicazione)
+  - [4.2. Informazioni tramite immagini](#42-informazioni-tramite-immagini)
+  - [4.3. Infografiche](#43-infografiche)
+  - [4.4. PowerPoint](#44-powerpoint)
+- [5. Internet](#5-internet)
+  - [5.1. WWW](#51-www)
+  - [5.2. HTML](#52-html)
 
-## 1. Hardware e file
+## 1. Hardware
 
-**Data**: 07/04/2021
-
-### 1.1. Hardware
+**Data lezione**: 07/04/2021
 
 Per **hardware** si intende l'insieme delle componenti meccaniche che costituiscono un dispositivo come un computer. La definizione comprende anche dispositivi esterni, chiamati **periferiche**, che permettono di inviare e di ricevere informazioni da un computer.
-
-### 1.2. Periferiche
 
 Le periferiche possono essere suddivise in periferiche di **input** o di **output**:
 
@@ -39,9 +36,11 @@ Le periferiche possono essere suddivise in periferiche di **input** o di **outpu
   - il touchscreen di un cellulare fa sia da schermo che da input dei tocchi sullo schermo
   - un gamepad invia comandi al computer ma riceve anche un *feedback* della vibrazione
 
-### 1.3. Memoria di un dispositivo
+## 2. Memoria
 
 Una **memoria** permette di archiviare le informazioni. Possiamo vederla come un grande contenitore, all'interno del quale posso mettere altri contenitori più piccoli. Questo permette di organizzare le informazioni in modo da recuperarle più velocemente.
+
+### 2.1. Cartelle
 
 Per esempio, possiamo creare un contenitore, cioè una **cartella**, per archiviare le nostre foto. Ma nel caso avessimo migliaia di foto sarebbe comunque difficile andare a recuperare foto relative a un certo periodo. Possiamo quindi creare ulteriori cartelle, per esempio una per ogni anno, in modo da organizzarle meglio.
 
@@ -51,9 +50,9 @@ Ogni file ha un indirizzo che permette di individuarlo all'interno della memoria
 C:\Foto\2020\spiaggia.jpg
 ```
 
-Quindi ogni indirizzo contiene dei contenitori (cartelle) e dei contenuti (file). Esistono anche i **collegamenti**, ma è un argomento che verrà trattato successivamente.
+Quindi ogni indirizzo contiene dei contenitori (cartelle) e dei contenuti (file).
 
-### 1.4. Tipi di file
+### 2.2. File
 
 I **file** possono essere documenti, foto, musica, film. Anche i programmi sono composti da file. Essi contengono informazioni scritte in un **codice binario** (cioè una sequenza formata da `0` e `1`) che viene letto dal dispositivo.
 
@@ -71,21 +70,19 @@ Esempi di estensioni:
 
 *Windows* normalmente non mostra l'estensione dei file per sicurezza, perché modificando impropriamente l'estensione di un file questo potrebbe poi non essere riconosciuto dal dispositivo.
 
-## 2. Digitalizzazione
+### 2.3. Collegamenti
 
 **Data**: 14/04/2021
 
-### 2.1. Collegamenti
-
 Spesso abbiamo bisogno di un file o una cartella, memorizzati da qualche parte nella nostra memoria, in una posizione più facile da raggiungere, per esempio sul desktop.
 
-Un **collegamento** è un puntatore a un file o a una cartella. Possiamo vederlo come un'interruttore che ci permette di utilizzare una lampadina posta più distante. Le icone dei collegamenti si distinguono grazie alla presenza di una freccia.
+Un **collegamento** è un puntatore a un file o a una cartella. Possiamo vederlo come un interruttore che ci permette di utilizzare una lampadina posta più distante. Le icone dei collegamenti si distinguono grazie alla presenza di una freccia.
 
 Dentro al menù *Start* abbiamo una lista dei programmi che possiamo avviare, ma questi non sono memorizzati all'interno del menù *Start*, ma piuttosto da qualche parte nella memoria. Nel menù *Start* abbiamo quindi dei collegamenti che puntano ai file che avviano i programmi.
 
 Anche il web è fatto di collegamenti: ciascuna pagina può avere al proprio interno dei collegamenti ad altri file.
 
-### 2.2. Unità di misura
+### 2.4. Unità di misura
 
 L'unità di misura di una memoria è il **bit** (b), un'informazione che può avere il valore di `0` o `1`.
 
@@ -98,7 +95,7 @@ I multipli di un Byte sono:
 - 1024 MB = 1 GigaByte (GB)
 - 1024 GB = 1 TeraByte (TB)
 
-### 2.3. Digitalizzare le informazioni
+## 3. Digitalizzare le informazioni
 
 **Digitalizzare** significa trasformare un'informazione in linguaggio informatico, nello specifico in codice binario. Per esempio, possiamo prendere un documento cartaceo e digitalizzarlo usando uno scanner, oppure creare direttamente un documento digitale.
 
@@ -117,19 +114,19 @@ Possono esserci anche degli svantaggi:
 
 È quindi consigliabile utilizzare un **OCR** (Optical Character Recognition), un riconoscimento ottico dei caratteri capace di riconoscere il testo di un'immagine e di convertirlo in caratteri utilizzabili in un computer.
 
-## 3. Comunicazione
+## 4. Sintetizzazione delle informazioni
 
-**Data**: 21/04/2021
-
-### 3.1. Modifica della comunicazione
+**Data lezione**: 21/04/2021
 
 L'informatizzazione ha obbligato a modificare il modo con cui vengono comunicate le informazioni. Internet ha apportato una maggiore comunicazione, spesso fino ad arrivare ad un eccesso. Viene sempre più richiesta oggigiorno una sintetizzazione delle informazioni anche facendo uso di immagini.
 
-Una volta si tendeva a comunicare senza delle regole ben precise, l'importante era che l'informazione arrivasse in qualche modo. Oggi è diverso: se inviassi un'email con i caratteri scritti tutti in maiuscolo  (su Internet ha il significato di urlare) il messaggio risulterebbe fastidioso aldilà delle informazioni che contiene. È importante quindi anche il modo di comunicare.
+### 4.1. Modifica della comunicazione
+
+Una volta si tendeva a comunicare senza delle regole ben precise, l'importante era che l'informazione arrivasse in qualche modo. Oggi è diverso: se inviassi un'email con i caratteri scritti tutti in maiuscolo (su Internet ha il significato di urlare) il messaggio risulterebbe fastidioso aldilà delle informazioni che contiene. È importante quindi anche il modo di comunicare.
 
 Un tipo di scrittura a mano può comunicare qualcosa a chi legge, mentre un testo digitale di per sé è asettico. È importante quindi scegliere un carattere giusto rispetto al contesto: un invito ad una festa elegante richiederà un tipo di carattere differente rispetto a un invito ad una festa per bambini. Scegliere un tipo di carattere arzigogolato solo perché sembra bello a noi può invece inficiare la leggibilità di chi legge.
 
-### 3.2. Informazioni tramite immagini
+### 4.2. Informazioni tramite immagini
 
 Le informazioni vengono sempre più spesso veicolate tramite un sistema digitale, ma la tendenza degli ultimi tempi è quella di spostarsi verso una sintetizzazione tramite immagini, un'**iconografia**.
 
@@ -139,7 +136,7 @@ A seconda del contesto possiamo usare differenti tipi di immagini. Una foto raff
 
 Le icone si stanno sintetizzando ulteriormente rispetto al passato in modo che l'informazione arrivi in maniera ancor più immediata. Anche su sistemi diversi (es. *Apple*, *Android*) un utente è in grado di riconoscere certi simboli universali, come una cornetta per telefonare.
 
-### 3.3. Infografiche
+### 4.3. Infografiche
 
 Quando viene fatta una presentazione al pubblico, spesso si usano delle slide per accompagnare quello che viene esposto in modo che l'informazione venga recepita meglio. Ma certe volte le slide vengono utilizzate in modo sbagliato, per esempio utilizzando slide piene di testo scritto. Non ha molto senso mettere grandi quantità di testo da leggere mentre l'interlocutore sta parlando, non aiuta molto la comunicazione.
 
@@ -167,7 +164,7 @@ Questa serie di passaggi testuali può essere sintetizzata proprio da un'infogra
 
 ![Infografica creata con Word](immagini/infografica-word.png)
 
-### 3.4. PowerPoint
+### 4.4. PowerPoint
 
 ***PowerPoint*** è un software che utilizza delle **diapositive** (o **slide**) per raggruppare i contenuti. Qualsiasi concetto voglia inserire in *PowerPoint* devo organizzarlo in un collage di diapositive, in modo da potersi spostare da una all'altra a seconda dell'argomento trattato in aula.
 
@@ -179,11 +176,13 @@ Trascinando un'immagine da un angolo possiamo allargare o ridurre l'immagine man
 
 Si possono applicare animazioni su certi elementi (es. un'immagine) e transizioni tra una slide e l'altra. Non sono obbligatorie, ma se fatte bene attirano l'attenzione su un elemento particolare della nostra slide aiutando la comunicazione.
 
-### 3.5. Internet e WWW
+## 5. Internet
 
 Per **Internet** si intende un insieme di computer e dispositivi collegati tra loro. Nello specifico una parte della memoria interna di quel dispositivo è collegato a Internet. È il principio di condivisione.
 
 I computer che offrono i servizi Internet come il web, chiamati **server**, sono continuamente collegati a Internet. La prima arcaica versione di Internet fu creata per scopi militari e si chiamava *ARPAnet*. Poi Internet venne diffusa tra le università, ma allora era possibile scambiarsi solo piccoli messaggi date le ridotte capacità dei calcolatori. 
+
+### 5.1. WWW
 
 Solo a partire dagli anni '90 ci fu una rivoluzione conosciuta come il **WWW** (World Wide Web). Un WWW (spesso abbreviato in **web**) è un'insieme di cartelle all'interno delle quali sono inserite altre cartelle. Ciascun **sito** è una cartella del web all'interno della quale troviamo le **pagine**. I siti Internet quindi funzionano come le cartelle all'interno di un computer.
 
@@ -193,7 +192,7 @@ Quando scrivo il nome di un sito, es. www.lorenzocristofori.it, un sistema autom
 
 Le pagine sono collegate tra loro tramite un **link** (collegamento). I link possono essere **interni** (all'interno del mio sito) o **esterni** (portano a un sito diverso).
 
-### 3.6. HTML
+### 5.2. HTML
 
 Le pagine sono create tramite un'insieme di linguaggi, in particolar modo l'**HTML** (HyperText Markup Language). Si tratta di semplice testo abbinato a una  serie di ***marker*** (chiamati **tag**) che definiscono come deve essere visualizzato quel testo. Non viene considerato come un vero linguaggio di programmazione ma piuttosto di marcazione, è un concetto leggermente diverso. 
 
@@ -235,4 +234,11 @@ Grammatica: ok
 Codice: ok
 Sezioni e TOC: ok
 Pagina: ok
+-->
+
+<!--
+Data: 29/04/2021
+Grammatica: ok
+Sezioni e TOC: ok
+Info corso: ok
 -->
