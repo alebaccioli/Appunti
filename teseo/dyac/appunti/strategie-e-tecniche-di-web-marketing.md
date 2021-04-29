@@ -326,7 +326,7 @@ Un segmento deve avere questi requisiti:
 
 - **misurabilità**:
   - è possibile quantificare le caratteristiche fondamentali del segmento per stimarne gli obiettivi conseguibili
-  - il segmento non può essere approssimativo, dobbiamo dire quante *personas* possono esserci in un determinato segmento, quindi quantificale
+  - il segmento non può essere approssimativo, dobbiamo dire quante *personas* possono esserci in un determinato segmento, quindi quantificarle
   - frasi come "molto fedeli" o "acquistano spesso" non indicano nulla di per sé, piuttosto dobbiamo determinare dei parametri specifici come "se fa più di 50 acquisti l'anno è molto fedele" o "tra i 20 e 50 acquisti è mediamente fedele", in modo da avere indicatori misurabili
 - **accessibilità**:
   - devo avere disponibilità di media e di veicoli che consentano di sviluppare politiche mirate su quel segmento
