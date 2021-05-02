@@ -21,6 +21,13 @@
 - [5. Internet](#5-internet)
   - [5.1. WWW](#51-www)
   - [5.2. HTML](#52-html)
+    - [5.2.1. Struttura di una pagina](#521-struttura-di-una-pagina)
+  - [5.3. Hosting e dominio](#53-hosting-e-dominio)
+  - [5.4. CMS](#54-cms)
+  - [5.5. Blog](#55-blog)
+    - [5.5.1. Categorie e tag](#551-categorie-e-tag)
+    - [5.5.2. Hashtag](#552-hashtag)
+  - [5.6. Strumenti di web marketing](#56-strumenti-di-web-marketing)
 
 ## 1. Hardware
 
@@ -188,39 +195,9 @@ Solo a partire dagli anni '90 ci fu una rivoluzione conosciuta come il **WWW** (
 
 Internet, oltre al WWW, permette di usufruire di altri servizi come la posta elettronica, l'instant messaging (le chat), le video conferenze.
 
-Quando scrivo il nome di un sito, es. www.lorenzocristofori.it, un sistema automatico mi porta alla **pagina indice** del sito. Un sito è da considerare come un insieme di pagine, non esiste un sito senza pagine.
+Quando scrivo il nome di un sito, es. `www.lorenzocristofori.it`, un sistema automatico mi porta alla **pagina indice** del sito. Un sito è da considerare come un insieme di pagine, non esiste un sito senza pagine.
 
 Le pagine sono collegate tra loro tramite un **link** (collegamento). I link possono essere **interni** (all'interno del mio sito) o **esterni** (portano a un sito diverso).
-
-### 5.2. HTML
-
-Le pagine sono create tramite un'insieme di linguaggi, in particolar modo l'**HTML** (HyperText Markup Language). Si tratta di semplice testo abbinato a una  serie di ***marker*** (chiamati **tag**) che definiscono come deve essere visualizzato quel testo. Non viene considerato come un vero linguaggio di programmazione ma piuttosto di marcazione, è un concetto leggermente diverso. 
-
-I tag HTML iniziano con il simbolo di minore `<`, poi abbiamo il nome del tag e infine il simbolo di maggiore `>`, es `<html>`. Molti tag (ma non tutti) devono essere chiusi da qualche parte inserendo lo stesso tag ma con il simbolo `/` davanti al nome, es. `</html>`. All'interno di due tag aperto e chiuso mettiamo il contenuto che vogliamo.
-
-Il tag `<html>` è il più importante perché definisce l'area all'interno della quale abbiamo il codice della nostra pagina. I file che contengono le pagine devono avere un estensione `.html`.
-
-Anche se il nostro testo ha delle rientranze, queste vengono normalmente ignorate dall'HTML. È necessario avvisarlo che si vuole andare accapo per esempio inserendo un tag `<p>` che definisce un **paragrafo** di testo.
-
-I tag possono avere degli **attributi** che ne definiscono le proprietà. La sintassi è `<tag attributo="valore">Testo</tag>`.
-
-```html
-<html>
-<p align="center"><font color="red" size="10">Digital Skill</font></p>
-<p>Teseo Formazione</p>
-<img src="immagine.jpg">
-</html>
-```
-
-In questo esempio abbiamo il codice per generare:
-
-- un paragrafo di testo allineato al centro, con testo rosso e dimensione del testo `10`
-- un paragrafo normale senza formattazione
-- un'immagine (da notare che `<img>` non richiede tag di chiusura)
-
-Il **browser**, cioè il programma che ci consente di visualizzare le pagine come *Chrome*, riceve questo codice e lo interpreta. Come si può vedere dal codice, le pagine *non* contengono le immagini, ma solo dei riferimenti ad esse. Un documento in *Word* invece integra l'immagine all'interno del documento stesso.
-
-Si può vedere il codice HTML di una pagina cliccando col tasto destro su una pagina e poi su *Visualizza sorgente pagina* o similare.
 
 <!--
 Data: 26/04/2021
@@ -241,4 +218,196 @@ Data: 29/04/2021
 Grammatica: ok
 Sezioni e TOC: ok
 Info corso: ok
+-->
+
+### 5.2. HTML
+
+Le pagine sono create tramite un'insieme di linguaggi, in particolar modo l'**HTML** (HyperText Markup Language). Si tratta di semplice testo abbinato a una serie di *marker* (chiamati **tag**) che definiscono come deve essere visualizzato quel testo. Non viene considerato come un vero linguaggio di programmazione ma piuttosto di marcazione, è un concetto leggermente diverso. 
+
+I tag HTML iniziano con il simbolo di minore `<`, poi abbiamo il nome del tag e infine il simbolo di maggiore `>`, es `<html>`. Molti tag (ma non tutti) devono essere chiusi da qualche parte inserendo lo stesso tag ma con il simbolo `/` davanti al nome, es. `</html>`. All'interno di due tag aperto e chiuso mettiamo il contenuto che vogliamo.
+
+Il **browser**, cioè il programma che ci consente di visualizzare le pagine come *Chrome*, riceve questo codice e lo interpreta.
+
+Si può vedere il codice HTML di una pagina cliccando col tasto destro su una pagina e poi su *Visualizza sorgente pagina* o similare.
+
+Quando si visita un sito web, la prima pagina che viene mostrata è chiamata **homepage** ed è salvata in un file con nome `index.html`. Il browser sa da solo che per accedere a quella pagina deve aprire il file con quel nome.
+
+[*Notepad++*](https://notepad-plus-plus.org/) è un editor di testo che aiuta nella compilazione del codice HTML suggerendo i tag mentre li stiamo scrivendo.
+
+[*Flaticon*](https://www.flaticon.com/): sito per icone
+
+*Mirroid* è un'app che permette di portare lo schermo del cellulare sul PC.
+
+#### 5.2.1. Struttura di una pagina
+
+**Data lezione**: 28/04/2021
+
+Il tag `<html>` è il più importante perché definisce l'area all'interno della quale abbiamo il codice della nostra pagina. I file che contengono le pagine devono avere un'estensione `.html`.
+
+La struttura di una pagina HTML comprende una **testa** `<head>` che contiene codice che non vediamo nella pagina e un **corpo** `<body>` che contiene gli elementi che vediamo.
+
+Anche se il nostro testo ha delle rientranze, queste vengono normalmente ignorate dall'HTML. È necessario avvisarlo che si vuole andare accapo per esempio inserendo un tag `<p>` che definisce un **paragrafo** di testo.
+
+Il tag `<a>` permette di **collegare** una pagina all'altra. Il tag `<img>` premette di inserire un'**immagine**.
+
+I tag possono avere degli **attributi** che ne definiscono le proprietà. La sintassi è `<tag attributo="valore">Testo</tag>`.
+
+Possiamo definire la nostra pagina `index.html`:
+
+```html
+<html>
+  <head>
+
+  </head>
+  <body>
+
+    <p align="center">
+      <font size="10" color="blue">Ciao da Teseo</font>
+    </p>
+  
+    <a href="pagina2.html">
+      <font size="5">Vai a pagina 2</font>
+    </a>
+  
+  </body>
+</html>
+```
+
+Gli spazi prima dei tag non sono obbligatori e vengono ignorati dall'HTML. Migliorano la leggibilità del codice strutturandolo a livelli.
+
+Abbiamo messo un collegamento a una pagina con il nome `pagina2.html`. Ora la definiamo:
+
+```html
+<html>
+  <head>
+
+  </head>
+  <body>
+  
+    <p>
+      <font size="9" color="red">Benvenuti Pagina 2</font>
+    </p>
+
+    <img src="immagini/torre.jpg">
+
+  </body>
+</html>
+```
+
+Da notare che `<img>` non richiede tag di chiusura.
+
+Come si può vedere dal codice, le pagine *non* contengono le immagini, ma solo dei riferimenti ad esse. Un documento in *Word* invece integra l'immagine all'interno del documento stesso.
+
+### 5.3. Hosting e dominio
+
+Le nostre pagine si trovano attualmente nella nostra memoria. Per essere reperibili anche da altre persone dobbiamo metterle in uno spazio da qualche parte su Internet.
+
+Un sito web ha bisogno di due cose:
+
+- un **hosting**:
+  - è lo spazio di un hard disk di un server web sempre disponibile, conterrà le nostre pagine
+  - una delle ditte più famose in Italia che offre questo servizio è *Aruba*, ma ovviamente ne esistono molte altre
+  - tipicamente si tratta di un servizio a pagamento, i costi variano a seconda del pacchetto di servizi
+- un **dominio**:
+  - è il nome del sito web su Internet, nessuno in tutto il mondo può avere lo stesso nome, non esistono siti con domini identici
+  - `lorenzocristofori.it` è un dominio diverso da `lorenzocristofori.com`
+  - `lorenzocristofori` è il **nome** del sito, `it` è il **suffisso**, nome e suffisso insieme formano il dominio
+  - il suffisso `com` denota connotazione internazionale, `it` italiana
+
+Molti servizi come *Aruba* offrono pacchetti hosting + dominio incluso.
+
+I domini vengono gestiti da un'authority internazionale che ne registra la proprietà. La registrazione di un dominio ha una durata, se un domino scade qualcun altro potrebbe poi comprarlo e usarlo senza problemi.
+
+Una volta qualcuno registrava a suo nome i domini associati al nome di personaggi famosi per poi rivenderli, ora questo comportamento è maggiormente regolamentato.
+
+Non ci sono servizi gratuiti che rilasciano domini, ma registrandosi a servizi tipo *Blogspot* si può ottenere un sottodominio col nome scelto, es. `paperino.blogspot.com`.
+
+**Annotazione mia**: *Blogspot* ora si chiama *Blogger*.
+
+I suffissi si differenziano per:
+
+- nazioni: it, eu, fr, uk
+- tipologia tradizionale: com, net, org (senza scopo di lucro), gov (enti governativi)
+- novità degli ultimi anni: blog, design, me e molti altri
+
+Aziende come *Google* hanno tantissimi domini con stesso nome e suffissi diversi.
+
+### 5.4. CMS
+
+L'HTML è la base delle pagine, ma come visto in precedenza richiede che i contenuti vengano aggiornati a mano. I siti Internet si sono evoluti, alcuni hanno pagine che sono in grado di compilarsi in automatico tramite l'utilizzo di **database**.
+
+A seconda di quello che cerchiamo, la pagina (che normalmente ha un'estensione `.php` o `.asp`) andrà a richiedere i relativi dati al database. Una volta ottenuti la pagina integrerà i dati e li mostrerà all'utente.
+
+Per es. quando facciamo una ricerca su *Google*, la pagina di ricerca si compila in automatico in base a quello che abbiamo cercato. La pagina non è stata generata a mano con codice HTML, ma si è generata in automatico.
+
+I **CMS** (Content Management System) permettono di fare questo, sono delle piattaforme già pronte che possiamo personalizzare per costruire il nostro sito. I contenuti che inseriamo in questa piattaforma vengono salvati in un database, e il CMS li userà per compilare le pagine al posto nostro.
+
+*WordPress* è il più conosciuto. Moltissimi siti web sono costruiti con questo CMS, ma ne esistono altri come *Joomla*. *Blogspot* usa un suo CMS.
+
+Quando inseriamo i contenuti in un CMS vediamo già l'aspetto della pagina finale, come succede in *Word*. Questo meccanismo viene chiamato *WYSIWYG* (What You See Is What You Get). Quando invece scriviamo una pagina in HTML non vediamo i risultati della pagina ma solo il codice.
+
+### 5.5. Blog
+
+*WordPress* nacque come piattaforma per i **blog**. I blog sono uno spazio solitamente personale dove vengono esposti propri pensieri o articoli su un argomento. I visitatori possono interagire commentando gli articoli.
+
+Alcuni blog hanno avuto molto successo e hanno attirato interesse e pubblicità.
+
+#### 5.5.1. Categorie e tag
+
+Un argomento è tipicamente strutturato in articoli, chiamati **post**. Per gestire in modo organizzato i post di un blog sono nati i termini **categorie** e **tag** (etichetta).
+
+Un blog può essere visto come un grande contenitore. Per organizzare meglio gli argomenti vengono utilizzate le categorie, es. hardware, software, cellulari per l'argomento tecnologia.
+
+Certe volte però gli articoli trattano di concetti che possono stare in più categorie, cioè hanno connessioni trasversali. I tag vengono usati per organizzare i concetti trasversalmente, sono usati come argomento di ricerca.
+
+Quando creiamo un post su *WordPress* possiamo definire la categoria e i tag. Anche *Facebook* e i social hanno i tag, possiamo per es. taggare una persona. Perfino *WhatsApp* permette di taggare i partecipanti di un gruppo con il simbolo `@`.
+
+Proviamo a fare un esempio di categorie e tag.
+
+Argomento: ricette di cucina.
+
+Categorie:
+
+- primi piatti
+- secondi piatti
+- dessert
+
+Tag:
+
+- ricetta in 5 minuti
+- ricetta senza glutine
+- ricetta ipocalorica
+
+#### 5.5.2. Hashtag
+
+L'**hashtag**, simbolo hash `#`, è stato utilizzato per la prima volta da *Twitter* e funziona in maniera un po' diversa dai tag. Si usa per categorizzare in modo trasversale tutti i post fatti da tutte le persone che hanno usato quell'hashtag. I tag devono essere ben specifici in modo da orientare l'utente, gli hashtag possono essere molto più generici.
+
+Non siamo obbligati a mettere un hashtag su *Twitter* o *Instagram*, ma se lo facciamo il nostro post comparirà quando una persona cercherà quel tipo di hashtag. Gli hashtag si possono usare anche su *Facebook*, ma non sono molto utilizzati.
+
+### 5.6. Strumenti di web marketing
+
+Una **landing page** è una pagina con una struttura specifica che l'utente raggiunge tipicamente dopo aver cliccato su una pubblicità. La pagina di solito tratta di un singolo argomento o prodotto.
+
+Le pagine solitamente sono isolate dal resto del sito e hanno lo scopo di attirare più utenti possibili.
+
+Es. una landing page con 10 ricette di cucina, se poi l'utente si iscrive  alla newsletter vengono inviate periodicamente altre ricette.
+
+Il **SEO** (Search Engine Optimization) è un insieme di ottimizzazioni per facilitare ai motori di ricerca come *Google* il compito di indicizzare e posizionare meglio la nostra pagina nella lista dei risultati.
+
+Un sito che si trova nella prima pagina dei risultati di una ricerca è importantissimo a livello commerciale.
+
+Chi studia SEO deve capire come fa *Google* (e ovviamente gli altri motori di ricerca) a decidere chi sta prima e chi dopo. Queste scelte vengono fatte da un algoritmo che scansiona i siti e mette i risultati in un database. L'algoritmo è segreto, quindi capire come funziona è difficile.
+
+Il ripetersi di certe **parole chiave** (**keyword**), come "torta al limone", aiuta il motore di ricerca a collegare il sito alla parola chiave e indicizzarlo meglio per quella parola. È quindi consigliabile cercare di spingere su certe parole chiave quando inseriamo i nostri contenuti, ma senza esagerare.
+
+Le parole chiave però non bastano. Le ricerche di oggi sono sempre più colloquiali. Si fa una ricerca vocale o con *Alexa*, ci si sposta sempre di più dalla singola parola all'argomento di cui si sta parlando. Il motore di ricerca collega le varie parole e ne determina l'argomento, chiamato **topic**.
+
+Inoltre anche i risultati sono sempre più personalizzati, per es. se si cerca una pizzeria verranno mostrate in primo luogo le pizzerie nelle vicinanze.
+
+<!--
+Data: 02/05/2021
+Grammatica: ok
+Codice: ok
+Sezioni e TOC: ok
+Pagina: ok
 -->
