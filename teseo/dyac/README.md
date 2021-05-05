@@ -8,5 +8,6 @@ Pagina del corso: [Agenzia Formativa TESEO](http://www.teseoagenzia.it/digital-y
 
 - [Analisi del contesto](appunti/analisi-del-contesto.md)
 - [Composizione di una newsletter](appunti/composizione-di-una-newsletter.md)
+- [Elaborazione del piano di marketing](appunti/elaborazione-del-piano-di-marketing.md)
 - [Modalità di accesso all'informazione](appunti/modalita-di-accesso-all-informazione.md)
 - [Strategie e tecniche di web marketing](appunti/strategie-e-tecniche-di-web-marketing.md)
