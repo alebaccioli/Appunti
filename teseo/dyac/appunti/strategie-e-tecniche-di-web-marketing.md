@@ -31,6 +31,12 @@
   - [6.4. Segmenti obiettivo](#64-segmenti-obiettivo)
     - [6.4.1. Copertura completa del mercato](#641-copertura-completa-del-mercato)
     - [6.4.2. Focalizzazione su alcuni segmenti](#642-focalizzazione-su-alcuni-segmenti)
+- [7. Posizionamento](#7-posizionamento)
+  - [7.1. Determinazione del posizionamento](#71-determinazione-del-posizionamento)
+  - [7.2. Ciclo di attività](#72-ciclo-di-attività)
+  - [7.3. Customer journey](#73-customer-journey)
+- [8. Ambiente competitivo](#8-ambiente-competitivo)
+  - [8.1. Analizzare i siti dei concorrenti](#81-analizzare-i-siti-dei-concorrenti)
 
 ## 1. Introduzione
 
@@ -402,4 +408,126 @@ Grammatica: ok
 Codice: ok
 Sezioni e TOC: ok
 Pagina: ok
+-->
+
+## 7. Posizionamento
+
+**Data lezione**: 04/05/2021
+
+Un concetto di marketing fondamentale che affianca la segmentazione è il posizionamento. Una volta segmentato il mercato si costruisce la proposta di valore e si va poi a definire il posizionamento.
+
+Il **posizionamento** del prodotto (e/o della marca) indica come questo si colloca nella mente dei consumatori con riferimento all'**insieme evocato**, ovvero alle alternative di scelta percepite per soddisfare un bisogno o un desiderio, e in base agli attributi che determinano risposte differenziate degli acquirenti.
+
+Il posizionamento è il modo in cui un prodotto entra nella mente del consumatore. L'insieme evocato è l'insieme delle alternative di scelta rispetto al bisogno. Per es. se si sente il bisogno di una bibita gassata, nella mente di molti consumatori arriva immediatamente l'immagine di *Coca-Cola*, *Sprite* e altri. Un prodotto ***top of the mind*** è in cima alla lista di scelte rispetto all'insieme evocato.
+
+*Coca-Cola* nel corso degli anni ha lavorato molto bene nel costruire una customer value proposition legata al suo prodotto. Questo le ha permesso di raggiungere un posizionamento *top of the mind* facendo leva sulle variabili del marketing mix.
+
+Ha un gusto particolare, un packaging distinguibile (la bottiglia in vetro ha una forma inconfondibile), cura nella comunicazione (enormi investimenti in pubblicità), distribuzione capillare (tra i prodotti più distribuiti al mondo, non si trova solo in alcuni paesi africani).
+
+È riuscita a differenziare la propria offerta rispetto a quella dei concorrenti definendo degli attributi **tangibili** (es. gusto) e **intangibili** (es. marca). Si è creata così una stabile preferenza per la marca da parte di un target definito.
+
+L'impresa cerca di entrare nell'insieme evocato, se poi raggiunge il *top of the mind* è un trionfo.
+
+### 7.1. Determinazione del posizionamento
+
+Il posizionamento è un processo lungo: una startup che lancia un business online richiederà, secondo certe stime, almeno un anno e mezzo prima di costruire un posizionamento solido. Mentre i cosiddetti prodotti *breakthrough* sono talmente innovativi che sbaragliano i concorrenti e permettono di avere un posizionamento immediato.
+
+Il posizionamento può cambiare nel tempo, l'impresa può pensare a un riposizionamento del prodotto quando non è più contenta della percezione del consumatore. Per es. la *Passat* veniva percepita in passato come un'auto da pensionati, noiosa e con prestazioni mediocri. *Volkswagen* ha investito parecchio per riposizionarla in un target più giovanile e per famiglie.
+
+Un posizionamento può avere elementi:
+
+- di **parità** (*POP*, Points of Parity): indicano aspetti della marca non unici ma piuttosto condivisibili con altre marche
+- di **differenziazione** (*POD*, Points of Difference): indicano caratteristiche e benefici che i consumatori associano con certezza a un brand in particolare
+
+Un posizionamento efficace non può basarsi sui *POP*, ma piuttosto sulle caratteristiche che differenziano prodotto o marca rispetto ai concorrenti. Il posizionamento deve essere esclusivo e difficilmente imitabile, cioè la concorrenza non dovrebbe essere in grado di copiare la customer value proposition. *Zalando* ha introdotto il reso gratuito, è un elemento di differenziazione rispetto alla concorrenza.
+
+Il consumatore si aspetta di trovare certi elementi ormai entrati nelle sue aspettative. Una volta l'aria condizionata in auto era un elemento di differenziazione, adesso è data per scontata. Oggigiorno ci si aspetta una consegna rapida quando si acquista online, una volta era un elemento di differenziazione per aziende come *Amazon*.
+
+Passaggi principali di un posizionamento:
+
+1. individuazione del mercato di riferimento
+2. indagine sulle caratteristiche più importanti di un prodotto nelle valutazioni dei consumatori, es. rapidità nella consegna, guida sulle taglie, varietà nell'assortimento, reso gratuito
+3. rilevazione dell'importanza stabilita rispetto agli aspetti di valore, es. per una persona può essere più importante la guida sulle taglie che il reso gratuito
+4. rilevazione dei giudizi dei consumatori su questi elementi di valore rispetto alle altre marche
+5. applicazione di strumenti statistici per l'elaborazione di tutti questi dati
+6. costruzione di mappe che rappresentino i giudizi espressi dai consumatori con riferimento agli attributi ricercati e alle diverse marche, cioè esportazione grafica del posizionamento di un prodotto o servizio
+
+Per es. il grafico del posizionamento delle marche nel settore abbigliamento ha come ascissa il contenuto moda (stile, design) e come coordinata il prezzo (sempre importante). All'interno del grafico vi sono i vari marchi posizionati in base agli elementi di valore.
+
+Le variabili scelte come ascissa e coordinata dipendono dal prodotto e dalla marca. Nel valutare il posizionamento di *Ferrari* o di altre marche di lusso, il prezzo non è un value element determinante per il posizionamento.
+
+### 7.2. Ciclo di attività
+
+È sempre importante conoscere il consumatore per poter segmentare il mercato e per posizionare il prodotto, tutte le strategie sono basate sulla conoscenza del consumatore.
+
+Si possono individuare diversi stadi del **ciclo di attività** del consumatore:
+
+1. **pre-acquisto**:
+   - riconosce un problema e percepisce un bisogno, per es. si è rotta la lavatrice
+   - va quindi alla ricerca di informazioni per soddisfare il bisogno, per es. il nome di un idraulico o di un negozio che vende lavatrici
+   - valuta le alternative, per es. i prezzi per ordinare un pezzo di ricambio o le caratteristiche di modelli diversi di lavatrice
+2. **acquisto**: opera la sua scelta ed effettua l'acquisto del prodotto
+3. **post-acquisto**: comincia a usare il prodotto, consumarlo, capirlo e valutarlo
+
+In alcuni casi non c'è la fase di pre-acquisto:
+
+- un monopolio obbliga le scelte del consumatore
+- un bisogno improvviso non permette di avere il tempo necessario per fare ricerche ed analizzare le alternative
+- gli acquisti d'impulso vengono fatti spesso in assenza di un vero bisogno, per es. i prodotti messi vicino alle casse incentivano l'acquisto da parte dei consumatori in fila anche se non hanno un bisogno reale da soddisfare
+
+### 7.3. Customer journey
+
+Anche l'impresa ha diverse fasi di attività che permettono di seguire, curare e trattenere il consumatore anche dopo aver acquistato. Questo comportamento mira a fidelizzare il consumatore.
+
+Il **customer journey** è il "viaggio" del consumatore visto dall'impresa durante la soddisfazione di un bisogno. I punti di contatto tra impresa e cliente sono chiamati ***touchpoint***.
+
+In tempi passati l'impresa entrava in contatto con il cliente principalmente tramite il venditore di un punto vendita, non c'era essenzialmente un contatto diretto. Doveva concentrarsi sulla distribuzione per far sì che il venditore fosse esperto nel gestire il cliente.
+
+Grazie all'evoluzione apportata da Internet adesso l'impresa può entrare in contatto con il cliente già nella fase di pre-acquisto. In base a certe statistiche, la primissima azione che un consumatore fa quando percepisce un bisogno è prendere lo smartphone e cercare informazioni su un motore di ricerca come *Google*.
+
+Fasi del customer journey:
+
+1. **awareness**: in questa fase il consumatore viene a conoscenza dell'offerta dell'impresa tramite per es. uno spot in TV o una pubblicità online
+2. **consideration**: il consumatore tiene in considerazione l'offerta dell'impresa nel momento in cui deve decidere come soddisfare un bisogno, facendo ricerche per es. sul blog o sulla pagina social dell'impresa
+3. **purchase**: il consumatore decide di effettuare l'acquisto e si collega all'impresa tramite per es. il sito web ufficiale, il servizio clienti o lo store fisico
+4. **retention**: è la fase post-acquisto in cui l'impresa cerca di mantenere i contatti con il consumatore tramite per es. la registrazione dell'acquisto per far parte della community, faq sull'utilizzo, newsletter, punti fedeltà
+5. **advocacy**: il consumatore particolarmente soddisfatto potrebbe fare recensioni o commenti sui social positivi, trasformandosi inconsciamente in sponsor di un brand o prodotto
+
+Le **SERP** (Search Engine Results Pages) sono le pagine che contengono i risultati di una ricerca fatta su un motore di ricerca come *Google* o *Booking*. È importantissimo per l'azienda essere nelle primissime pagine dei risultati, altrimenti fallirebbe un importante *touchpoint*. In base a certi studi, in tempi passati un utente arrivava a considerare massimo tre pagine di risultati in media, ma oggi arriva a malapena in fondo alla prima pagina.
+
+È inoltre importante che il sito sia chiaro e fornisca informazioni utili, altrimenti genererebbe un'insicurezza nel cliente. Per es. guida sulle taglie non chiara, personal shopper non presente, nessun servizio clienti online, sito non ottimizzato per smartphone. Anche recensioni negative su *YouTube* o sui social possono interrompere il customer journey.
+
+Il sito [*Vincos*](https://vincos.it/) raccoglie utili informazioni riguardanti il mondo del marketing, per es. i trend di utilizzo dei social in un determinato periodo. Queste analisi sono importanti per capire i comportamenti del nostro target e per fare gli investimenti più opportuni.
+
+Non bisogna fare l'errore di investire indistintamente su più social media solo perché pensiamo sia meglio essere presenti dappertutto. La gestione di un social richiede tempo e risorse, è importante capire qual è il social più utilizzato dal nostro target. Per es. dalle analisi l'impresa potrebbe capire che se vuole rivolgersi a un target di età superiore ai 55 anni, *Instagram* non è il social più adeguato.
+
+Da evitare inoltre di duplicare i contenuti in social diversi. Ciascun social ha le sue caratteristiche e parla a un'audience in maniera leggermente diversa. Il tipo di comunicazione deve essere adeguato e personalizzato.
+
+## 8. Ambiente competitivo
+
+L'analisi dell'**ambiente competitivo** è finalizzata a studiare i soggetti con cui l'impresa andrà a interfacciarsi sul mercato, cioè i competitors. Per poter delimitare uno spazio competitivo se possibile difendibile, l'impresa deve prima di tutto conoscerli e capire come si muovono in termini strategici.
+
+### 8.1. Analizzare i siti dei concorrenti
+
+Anche in questo caso il digitale ci alleggerisce questo sforzo di analisi della concorrenza. Siti come [*Alexa*](https://www.alexa.com/), [*SimilarWeb*](https://www.similarweb.com/) e [*Semrush*](https://it.semrush.com/) permettono di analizzare i siti dei concorrenti.
+
+I dati che possiamo ottenere includono la posizione del sito in un paese o in una categoria, il traffico dei visitatori, il numero medio in minuti di permanenza sulla pagina, le aree geografiche.
+
+Il *bounce rate* è la frequenza di rimbalzo, cioè quando un utente entra in un sito ma esce immediatamente. Una percentuale molto alta rappresenta un problema, magari il sito è fatto male e l'utente va via perché non trova le informazioni che cerca.
+
+Le fonti di traffico ci dicono in che modo l'utente è arrivato sul sito. Per es. su *Booking* ci arrivano principalmente in maniera diretta scrivendo l'indirizzo. Questo perché il pubblico conosce bene la marca e va direttamente sul sito. 
+
+In altri casi i visitatori arrivano sul sito indirettamente dopo aver fatto una ricerca su un motore di ricerca. In quel caso vengono indicate le parole chiave usate per la ricerca e se queste sono organiche (non di marketing) o a pagamento.
+
+I *referral* sono visite fatte a seguito di un click su un link o un banner presente su un altro sito.
+
+Tutta questa serie di informazioni già rappresentano un customer journey, ci fanno vedere come si comporta un utente che per es. vuole prenotare un viaggio su *Booking*.
+
+<!--
+Data: 07/05/2021
+Pagina: ok
+Apostrofi: ok
+Grammatica: ok
+Numeri sezione: ok
+Codice: ok
 -->
