@@ -38,6 +38,14 @@
     - [7.2.2. Metodo dei prezzi correnti](#722-metodo-dei-prezzi-correnti)
     - [7.2.3. Metodo del valore percepito](#723-metodo-del-valore-percepito)
   - [7.3. Break even operativo](#73-break-even-operativo)
+- [8. Piano delle vendite](#8-piano-delle-vendite)
+  - [8.1. Stimare le vendite](#81-stimare-le-vendite)
+  - [8.2. Presentazione dei risultati](#82-presentazione-dei-risultati)
+  - [8.3. Esempio di piano delle vendite](#83-esempio-di-piano-delle-vendite)
+    - [8.3.1. Piano degli investimenti](#831-piano-degli-investimenti)
+    - [8.3.2. Conto economico](#832-conto-economico)
+    - [8.3.3. Piano di cassa](#833-piano-di-cassa)
+- [9. Il piano di web marketing](#9-il-piano-di-web-marketing)
 
 ## 1. Introduzione
 
@@ -586,6 +594,134 @@ Nome file: ok
 
 <!--
 Data: 05/05/2021
+Pagina: ok
+Apostrofi: ok
+Grammatica: ok
+Numeri sezione: ok
+Codice: ok
+-->
+
+## 8. Piano delle vendite
+
+**Data lezione**: 06/05/2021
+
+Una volta definito il prezzo delle varie linee di prodotto o servizio, possiamo ora fare delle previsioni sulle vendite attraverso il **piano delle vendite**.
+
+Per sviluppare un piano delle vendite occorre scegliere:
+
+- la **tecnica d'indagine**:
+  - tecniche di **analisi storica** dei trend di vendita (stime quantitative): si dà per scontato che la quota dell'impresa all'interno di un certo mercato sia in linea con il trend storico, bisogna fare attenzione ad eventuali imprevisti
+  - tecniche di **proiezione del futuro** (stime quali-quantitative): l'impresa sta investendo in nuovi prodotti o sul potenziamento delle sue caratteristiche, si avranno delle stime in qualche modo in controtendenza rispetto al passato (sia in positivo che in negativo)
+  - **combinazione** delle due tecniche
+- il **livello di approfondimento dell'indagine**
+
+Nel caso di nuove aziende o nuove proposte non è possibile far altro che definire proiezioni sul futuro.
+
+### 8.1. Stimare le vendite
+
+Le **stime quantitative** possono essere:
+
+- **estrapolazione storica**:
+  - sono tecniche matematico-statistiche che, partendo dai risultati degli anni precedenti, proiettano sul futuro scenari di vendita
+  - una volta erano molto interessanti, oggi rimangono sempre importanti ma i mercati cambiano ancor più velocemente
+  - **trend di base**: è la crescita del fatturato nel lungo periodo ipotizzando che non ci siano fattori di disturbo o che comunque non influiscano sulle medie storiche, più il settore è stabile più le previsioni sulle vendite sono attendibili
+  - **trend ciclico**: oscillazione che storicamente influenza l'andamento del piano vendite, si alternano periodi espansivi a periodi recessivi, dipende molto dal settore
+  - **trend stagionale**: influenza della stagione sulle vendite, in certi settori è molto importante mentre in altri le esigenze del mercato non sono più stagionali e sono diventate abitudinarie, per es. una volta certi prodotti ortofrutticoli definivano lo scandire delle stagioni, adesso anche a causa della globalizzazione non è più così
+- **trend settoriale**:
+  - l'impresa applica una proiezione di crescita in base al settore di appartenenza, se aumenta il mercato aumentano anche le vendite
+  - in certi settori può essere un ragionamento rischioso, se aumenta il mercato delle auto non automaticamente ci sarà un aumento delle vendite, poteva essere vero in tempi passati ma oggi i consumatori sono cambiati
+
+Le **stime quali-quantitative** possono essere:
+
+- **fattori di mercato**:
+  - l'obiettivo di questo approccio è legare l'andamento delle vendite a uno o più fattori di mercato fortemente correlati con il fatturato, se abbiamo stime su questi fattori abbiamo una previsione sulle vendite
+  - es. chi vende caschi va a vedere quante immatricolazioni di ciclomotori ci sono state in un certo periodo
+- **indagini di mercato**:
+  - le indagini di mercato offrono informazioni dirette sul mercato senza necessità di correlazione con altri mercati
+  - la piccola azienda ne può fare di qualitative, le quantitative generalmente richiedono investimenti più importanti
+- **stime e pareri di esperti**:
+  - stime fatte da opinion leader, oppure si possono vedere i comportamenti dell'azienda leader di mercato, se fa dei cambiamenti ci sarà un motivo e si può provare a seguirla su questa scia
+  - in questa categoria tendono a far parte gli influencer, non esattamente "esperti" ma fanno parte della tendenza
+
+In alcuni casi si è ancora più pratici. Un'impresa non ha dati né fondi per fare ricerche di mercato, ma più o meno sa qual è il prezzo di mercato. Farà previsioni su quanto dovrà vendere il primo anno per sopravvivere, il secondo anno per generare utile, ecc. Si può fare ma è rischioso senza dati concreti.
+
+### 8.2. Presentazione dei risultati
+
+Dopo questo si prendono le stime e si sintetizzano, si verificano i dati per linee di prodotto o di servizio e si calcolano quali potrebbero essere i lotti minimi di vendita per raggiungere il break even point oppure per capire quanto possiamo permetterci i prodotti cane.
+
+I prodotti cane sono quei prodotti che hanno raggiunto la fase di declino (secondo il ciclo di vita del prodotto) o che comunque non danno utile o peggio perdite. Quando le perdite sono insostenibili vengono eliminati. In alcuni casi si parla obsolescenza programmata, si fa cioè in modo che il prodotto duri per un determinato periodo perché si sa già che nel frattempo verranno lanciati altri prodotti e questo non servirà più. Oppure non si trovano più pezzi di ricambio o questi costano quanto un prodotto nuovo. Il cane può essere talvolta un pezzo di ricambio per un prodotto stella che tiene posto in magazzino.
+
+I risultati possono comprendere:
+
+- le **ASA** (Aree Strategiche di Affari): nelle grandi aziende si chiamano *asset*, sono linee di prodotto o servizio sufficienti per tenere in piedi l'azienda e per avere una posizione sul mercato
+- il **canale di vendita**:
+  - una volta era fisico, senza vetrina fisica non si poteva far vedere il prodotto al cliente
+  - la scelta strategica nel piano di marketing dei *Benetton* fu di arrivare direttamente sul mercato con punti di vendita propri o in franchising tutti uguali, erano la novità del momento
+  - oggi si parla di multicanalità, es. *Zara* ha il negozio fisico, il grande store e il proprio e-commerce
+  - si può arrivare al cliente spesso anche solo online, es. video on demand
+
+Nella catena distributiva del settore abbigliamento l'ultimo passaggio incide sul prezzo dal 100% al 150% (o addirittura 200%). Questo è dovuto a vari fattori, tra cui il servizio del venditore che consiglia e assiste il cliente. La tecnologia costa molto meno rispetto alla gestione di punti di vendita fisici.
+
+Il piano delle vendite può essere presentato in più **periodi** e con **orizzonti temporali** diversi. Una volta si faceva tipicamente ogni 5 anni, oggi il mercato cambia così velocemente che ogni 2, massimo 3 anni rappresentano il limite realistico. In certi contesti può anche essere richiesto un piano delle vendite per 5-6 anni, ma già dal 4° anno le previsioni sono poco attendibili.
+
+### 8.3. Esempio di piano delle vendite
+
+In questo esempio vediamo l'apertura da zero di un centro estivo.
+
+#### 8.3.1. Piano degli investimenti
+
+In questa sezione ci sono gli investimenti necessari per l'apertura del centro. Questi possono essere:
+
+- immateriali: es. notaio, consulenze, sito Internet, promozioni
+- materiali: es. opere murarie, insegna, arredi, attrezzature
+
+Per questi investimenti possiamo vedere l'ammortamento annuo e il totale.
+
+**Annotazione mia**: l'ammortamento è un procedimento amministrativo-contabile con cui il costo di un bene viene ripartito nel corso di più esercizi in relazione alla loro durata economica.
+
+Il totale degli investimenti rappresenta il capitale necessario per avviare il centro, l'ammortamento mostra quanto incidono annualmente questi costi.
+
+#### 8.3.2. Conto economico
+
+Questa sezione mette a confronto il totale dei ricavi con il totale dei costi.
+
+Nei ricavi abbiamo le linee di prodotti e servizi derivanti dall'incrocio della matrice prodotto-mercato.
+
+Definiamo per ogni linea l'importo unitario calcolato in precedenza con i vari metodi, in genere si parte da un prezzo non distante da quello già definito dal mercato. Moltiplicando questo prezzo per le quantità annue previste si avranno i ricavi annui.
+
+#### 8.3.3. Piano di cassa
+
+Vengono fatte le previsioni delle entrate e dei costi mese per mese. Viene fatto generalmente per i primi 3 anni.
+
+Alcuni servizi sono più constanti nei mesi, altre attività rendono più o meno in base alle stagioni.
+
+In base alle ipotesi di ricavo, ai costi variabili e ai costi fissi si può vedere l'utile e il punto di pareggio. Volendo quest'ultimo lo possiamo calcolare anche per singola linea di prodotto. Se vediamo un saldo negativo nel secondo mese possiamo per es. programmare un fido.
+
+Più la fase precedente al piano delle vendite è accurata, più i numeri riportati saranno affidabili. È chiaro che si potrebbero manipolare i dati in modo da avere una situazione positiva, ma i dati devono essere supportati dalle analisi fatte in precedenza.
+
+Negli anni '70 poteva avere senso fare praticamente a tavolino il piano delle vendite, perché il mercato era in crescita e non subiva mutamenti come quelli che si verificano oggi. Adesso è necessario ragionare tramite il piano di marketing. Forse fanno eccezione i prodotti a maturità indefinita come *Coca-Cola*, ma anche lei lancia qualcosa di nuovo ogni tanto per adeguarsi sempre al mercato o per ragioni d'immagine.
+
+## 9. Il piano di web marketing
+
+Oramai certe attività vengono fatte sul web o in ogni caso non si può prescindere dal web. Il **piano di web marketing** (PWM) è costituito dall'insieme dei canali attraverso i quali possiamo portare traffico in target all'interno del sito. Il PWM può concentrarsi sulla 3ª *P* (es. i social) e sulla 4ª *P* (es. e-commerce) oppure essere completamente concentrato sul web.
+
+Un B&B senza *Booking* potrebbe non avere successo, questo servizio permette una pubblicità che un piccolo B&B non può permettersi. Per quanto alto possa essere il compenso di *Booking* (si parla del 18-20% sulla transazione) lo è meno di una pubblicità autonoma oppure può essere in linea con la provvigione che dava in precedenza all'agenzia turistica.
+
+Lo scopo del PWM è trovare nuovi clienti e potenziare quelli attuali portandoli all'acquisto in maniera più diretta, un corteggiamento graduale verso il cliente per arrivare alla vendita.
+
+I canali che lo compongono possono prevedere:
+
+- posizionamento organico sui motori di ricerca (SEO)
+- sponsorizzazioni sui motori di ricerca e social
+- DEM
+- blog
+  
+Dal punto di vista della metodologia non cambia molto rispetto a un tipico piano di marketing. Prima si analizzava un mercato tradizionale, ora un mercato sul web. Non si parla di quante persone entrano in un negozio ma di quante entrano in un sito.
+
+Il primo step consiste in un'analisi degli *asset* digitali già presenti dell'azienda, la reputazione sua e dei suoi prodotti. Poi si fanno le strategie e poi si sviluppa il piano operativo che mette in pratica le strategie.
+
+<!--
+Data: 08/05/2021
 Pagina: ok
 Apostrofi: ok
 Grammatica: ok
