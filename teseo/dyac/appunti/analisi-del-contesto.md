@@ -29,6 +29,14 @@
       - [7.1.1.4. Fattori tecnologici](#7114-fattori-tecnologici)
       - [7.1.1.5. Fattori ecologici](#7115-fattori-ecologici)
       - [7.1.1.6. Fattori legislativi (o giuridici)](#7116-fattori-legislativi-o-giuridici)
+      - [7.1.1.7. Fattori sanitari](#7117-fattori-sanitari)
+    - [7.1.2. Spazio competitivo](#712-spazio-competitivo)
+      - [7.1.2.1. Concorrenti attuali](#7121-concorrenti-attuali)
+      - [7.1.2.2. Potenziali nuovi entranti](#7122-potenziali-nuovi-entranti)
+      - [7.1.2.3. Prodotti e servizi sostitutivi](#7123-prodotti-e-servizi-sostitutivi)
+      - [7.1.2.4. Clienti e fornitori](#7124-clienti-e-fornitori)
+  - [7.2. Analisi del potenziale](#72-analisi-del-potenziale)
+  - [7.3. Analisi S.W.O.T.](#73-analisi-swot)
 
 ## 1. Attività economica
 
@@ -219,7 +227,9 @@ Il sito della [*Borsa Italiana*](https://www.borsaitaliana.it/) permette di vede
 
 Oltre al soggetto proprietario possiamo vedere il **top management**, che rappresenta l'alto livello di chi prende le decisioni, cioè del soggetto imprenditoriale.
 
-Il patrimonio netto è il capitale a disposizione. Un segnale sull'andamento del sistema operativo lo possiamo vedere tramite il totale dei ricavi. *Eni* aveva 77 miliardi di ricavi nel 2018, ma nel 2019 è scesa a 71 miliardi. 
+Il patrimonio netto è il capitale di rischio a disposizione. Il PFN (Cassa) è il capitale di terzi.
+
+Un segnale sull'andamento del sistema operativo lo possiamo vedere tramite il totale dei ricavi. *Eni* aveva 77 miliardi di ricavi nel 2018, ma nel 2019 è scesa a 71 miliardi. 
 
 Questi aspetti ci danno un'idea delle caratteristiche dell'impresa e dell'andamento del sistema operativo.
 
@@ -434,4 +444,100 @@ Grammatica: ok
 Codice: ok
 Sezioni e TOC: ok
 Pagina: ok
+-->
+
+##### 7.1.1.7. Fattori sanitari
+
+**Data lezione**: 03/05/2021
+
+La pandemia ha influito su tutte le attività economiche del mondo. Per molte di queste ha rappresentato una minaccia (es. ristoratori), per altre un'opportunità (es. *Amazon*, *Netflix*).
+
+Oltre alla pandemia, anche altri problemi sanitari più o meno estesi hanno influito su certe attività economiche: per es. la mucca pazza e l'influenza aviaria impattarono sui macellai e sugli allevamenti.
+
+#### 7.1.2. Spazio competitivo
+
+In questa fase viene fatta l'analisi della concorrenza. Il **modello delle 5 forze concorrenziali**, noto anche come **modello di Porter** o concorrenza allargata, prende in esame non solo i concorrenti attuali, ma anche altre quattro forze che possono incidere sull'attività di un'impresa.
+
+Sono forze esercitate da quelle imprese che offrono prodotti e servizi simili tra loro e che concorrono a strapparsi quote di mercato. Il livello di redditività che un'impresa può ottenere in un settore industriale dipende tra l'altro dal livello di concorrenza in quel settore. Più alta è la concorrenza più bassa è la redditività.
+
+##### 7.1.2.1. Concorrenti attuali
+
+Per i concorrenti attuali, la concorrenza deriva da una serie di fattori:
+
+- **crescita lenta del settore**:
+  - se il volume complessivo degli acquisti da parte di tutti i potenziali clienti crescesse ogni anno, ci sarebbe spazio per ciascun concorrente e addirittura la propria quota di mercato potrebbe crescere
+  - se la torta crescesse poco o nulla, la vendita di un'impresa corrisponderebbe alla mancata vendita di un'altra impresa, quindi qualcuno toglierebbe quote di mercato a qualcun altro, si avrebbero problemi a vendere e in alcuni casi sarebbe necessario tagliare i prezzi accettando un guadagno più basso pur di vendere
+- **scarsa differenziazione di prodotto**:
+  - alcuni prodotti vengono percepiti come indistinguibili da quelli della concorrenza, più il prodotto è simile più c'è concorrenza
+  - la benzina grosso modo è tutta uguale, quando una persona deve fare benzina in genere sceglierà il posto più vicino o il posto che costa meno
+  - due fast food potrebbero offrire cibo grosso modo simile nella percezione del consumatore, mentre tra due ristoranti stellati il prodotto offerto può variare notevolmente 
+- **eccesso di capacità produttiva**:
+  - l'impresa ha prodotto più della domanda, deve quindi vendere tanto magari abbassando i prezzi
+  - se anche gli altri concorrenti facessero lo stesso, il prodotto arriverebbe con il tempo ad avere un prezzo vicino al valore dei costi
+- **barriere all'uscita**:
+  - rappresentano ciò che ferma un'impresa dall'abbandonare un business
+  - es. viene aperto un ristorante che ha richiesto grandi investimenti in arredi e pubblicità ma non ha grandi vendite o addirittura è in perdita
+  - decidere di chiudere immediatamente potrebbe comportare la perdita completa degli investimenti fatti nel caso non si riuscisse per es. a cedere l'attività o a rivendere gli arredi
+  - talvolta è quindi preferibile rimanere aperti perdendo un pochino nel tempo invece che perdere tutto subito
+  - questi operatori, che invece di chiudere sono costretti a rimanere sul mercato, potrebbero danneggiare gli altri concorrenti magari abbassando i prezzi pur di vendere
+
+##### 7.1.2.2. Potenziali nuovi entranti
+
+Un mercato con pochi concorrenti potrebbe incentivare l'entrata a nuovi operatori, andando così ad ostacolare gli attuali concorrenti. Questi cercheranno di erigere delle barriere all'entrata per evitare di ritrovarsi nuovi potenziali concorrenti, anche se non sempre è possibile.
+
+Alcune barriere all'entrata possono essere:
+
+- **economie di scala**: un'impresa riesce ad organizzare una produzione a costi talmente bassi che un nuovo competitor dovrebbe avere una struttura dei costi simile per poter trarne profitto
+- **costi di riconversione**: un consumatore è talmente abituato ad utilizzare un prodotto di un'impresa (es. sistema di gestione aziendale) che gli risulterebbe difficile cambiarlo con quello di un'altra impresa, perché dovrebbe spendere tempo e risorse per sostituirlo e imparare ad usarlo
+
+##### 7.1.2.3. Prodotti e servizi sostitutivi
+
+Alcune imprese offrono prodotti che vanno a soddisfare certi bisogni ma con tecnologie o modi diversi.
+
+Consumatori abituati a spostarsi con la macchina potrebbero essere interessati a spostarsi con biciclette e monopattini in sharing. Questi nuovi prodotti incidono sul livello di vendite dei prodotti delle altre imprese.
+
+Oppure se una soluzione alternativa costa molto meno di un'altra potrebbe attirare l'attenzione di un consumatore anche se non soddisfa appieno il suo bisogno.
+
+##### 7.1.2.4. Clienti e fornitori
+
+I clienti e i fornitori non sono concorrenti dell'impresa a livello di offerta di prodotti, ma competono per l'ottenimento di parte del valore creato.
+
+Il cliente cercherà di ottenere dall'impresa lo stesso prodotto ad un prezzo più basso possibile. Una parte del valore che era dell'impresa passerà di conseguenza al cliente. 
+
+Il fornitore ha interessi simili, cercherà di fornire beni all'impresa ad un prezzo più alto possibile.
+
+Il **potere contrattuale** del cliente e del fornitore è generato da un rapporto di forza, un potere di condizionamento di un soggetto esercitabile su un altro soggetto. L'impresa deve cercare di avere sempre delle alternative e di non dipendere unicamente da alcuni soggetti che potrebbero imporre nel tempo qualunque condizione. 
+
+Per es. un'azienda che produce portafogli esclusivamente per un grande marchio potrebbe essere in difficoltà nel caso la marca decidesse di pagare meno. O l'azienda accetta di guadagnare meno o cerca qualcos'altro guadagnando zero nel frattempo.
+
+Ma se il rapporto di forza è bilanciato l'impresa stessa potrebbe condizionare l'altro soggetto.
+
+### 7.2. Analisi del potenziale
+
+Dopo aver guardato il mondo esterno, l'impresa deve analizzare le proprie caratteristiche e vedere dove è superiore rispetto ai concorrenti e dove invece è più debole. Un modo per fare questa analisi interna è rappresentato dall'**analisi della catena del valore**.
+
+Si suddivide l'intera attività in varie sottoattività, per es. gestione delle risorse umane, sviluppo della tecnologia, attività operative. Per ciascuna di queste l'impresa deve chiedersi se ha competenze superiori e risorse gestite meglio dei concorrenti. Se questo si verifica l'impresa avrà condizioni di forza, altrimenti avrà condizioni di debolezza.
+
+La strategia dell'impresa deve mantenere gli elementi di forza e deve ridurre gli elementi di debolezza. Più è forte in certe attività più sarà in grado di beneficiare delle opportunità e di difendersi dalle minacce che possono verificarsi nell'ambiente. Viceversa non sarà in grado di cogliere certe opportunità e sarà più indifesa rispetto alle minacce.
+
+### 7.3. Analisi S.W.O.T.
+
+L'**analisi S.W.O.T.** (Strengths, Weaknesses, Opportunities, Threats) è uno strumento usato per valutare i punti di forza e di debolezza interni all'impresa e le opportunità e le minacce dell'ambiente esterno.
+
+Questa analisi è il frutto congiunto dell'analisi dell'ambiente esterno e del potenziale.
+
+Per es. l'analisi S.W.O.T. della *Apple* nell'anno fiscale 2020 ha i seguenti risultati:
+
+- punti di forza: ricerca e sviluppo, canali di distribuzione, crescita dei ricavi
+- punti di debolezza: azioni legali, profittabilità in calo
+- opportunità: iniziative strategiche (accordi con altre imprese), espansione dei negozi (in altri paesi), lancio di nuovi prodotti, mercato degli smartphone nel Nord America, acquisizioni strategiche
+- minacce: rischi legati ai tassi di cambio delle valute, intensa competizione, dipendenza dagli operatori di rete, cambi tecnologici
+
+<!--
+Data: 08/05/2021
+Pagina: ok
+Apostrofi: ok
+Grammatica: ok
+Numeri sezione: ok
+Codice: ok
 -->
