@@ -28,6 +28,7 @@
     - [5.5.1. Categorie e tag](#551-categorie-e-tag)
     - [5.5.2. Hashtag](#552-hashtag)
   - [5.6. Strumenti di web marketing](#56-strumenti-di-web-marketing)
+  - [5.7. Forum](#57-forum)
 
 ## 1. Hardware
 
@@ -246,6 +247,8 @@ Il tag `<html>` è il più importante perché definisce l'area all'interno della
 
 La struttura di una pagina HTML comprende una **testa** `<head>` che contiene codice che non vediamo nella pagina e un **corpo** `<body>` che contiene gli elementi che vediamo.
 
+Il tag `<title>` all'interno dell'`<head>` definisce il **titolo** della pagina, cioè il nome che vediamo in cima alla finestra del browser.
+
 Anche se il nostro testo ha delle rientranze, queste vengono normalmente ignorate dall'HTML. È necessario avvisarlo che si vuole andare accapo per esempio inserendo un tag `<p>` che definisce un **paragrafo** di testo.
 
 Il tag `<a>` permette di **collegare** una pagina all'altra. Il tag `<img>` premette di inserire un'**immagine**.
@@ -382,6 +385,8 @@ Tag:
 
 L'**hashtag**, simbolo hash `#`, è stato utilizzato per la prima volta da *Twitter* e funziona in maniera un po' diversa dai tag. Si usa per categorizzare in modo trasversale tutti i post fatti da tutte le persone che hanno usato quell'hashtag. I tag devono essere ben specifici in modo da orientare l'utente, gli hashtag possono essere molto più generici.
 
+L'hashtag permette di dare un minimo di organizzazione ai post, visto che nei social non sono presenti le categorie. I tag invece vengono usati nei siti in cui sono previste le categorie, come i blog.
+
 Non siamo obbligati a mettere un hashtag su *Twitter* o *Instagram*, ma se lo facciamo il nostro post comparirà quando una persona cercherà quel tipo di hashtag. Gli hashtag si possono usare anche su *Facebook*, ma non sono molto utilizzati.
 
 ### 5.6. Strumenti di web marketing
@@ -410,4 +415,23 @@ Grammatica: ok
 Codice: ok
 Sezioni e TOC: ok
 Pagina: ok
+-->
+
+### 5.7. Forum
+
+**Data lezione**: 05/05/2021
+
+I **forum** nacquero prima dei blog. Sono luoghi di discussione strutturati in topic, ciascuno dei quali racchiude una discussione su quell'argomento. [*Connect.gt*](https://connect.gt/) è un esempio di forum.
+
+All'interno di un forum è presente un **amministratore**, il cui compito è di fare in modo che tutto funzioni bene e di moderare le discussioni, evitando parolacce o argomenti fuori dalle regole. Se un utente viola le regole può essere espulso temporaneamente o permanentemente, cioè essere *bannato*.
+
+[*Reddit*](https://www.reddit.com/) è un forum con alcune caratteristiche che lo avvicinano ai social. Ha una marea di argomenti e discussioni.
+
+<!--
+Data: 10/05/2021
+Pagina: ok
+Apostrofi: ok
+Grammatica: ok
+Numeri sezione: ok
+Codice: ok
 -->
