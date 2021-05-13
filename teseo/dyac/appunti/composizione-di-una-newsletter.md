@@ -114,7 +114,7 @@ Il termine *Made in Italy* è regolamentato da leggi italiane che ne definiscono
 
 Quindi finora sono stati creati dei *contenitori* con un marchio riconosciuto che sfruttano i servizi della [***Danae Project***](https://www.danaeproject.com/), l'agenzia di comunicazione del docente. *Abfly* e *Made in Tuscany* erano i contenitori per attirare clienti, ma il vero prodotto da vendere erano i servizi della *Danae Project* che i clienti usufruivano tramite i contenitori.
 
-La newsletter della *Danae Project* chiedeva: "Vuoi far parte dell'aeroporto di Pisa? Vuoi diventare *Made in Tuscany*?". 
+La newsletter della *Danae Project* chiedeva: "Vuoi far parte dell'aeroporto di Pisa? Vuoi diventare *Made in Tuscany*?".
 
 *Consiglio*: non innamorarsi di un progetto o di un'idea, se s'intravede un'altra opportunità meglio andare oltre.
 
@@ -165,4 +165,9 @@ Data: 29/04/2021
 Grammatica: ok
 Sezioni e TOC: ok
 Info corso: ok
+-->
+
+<!--
+Data: 13/05/2021
+Lint: ok
 -->
