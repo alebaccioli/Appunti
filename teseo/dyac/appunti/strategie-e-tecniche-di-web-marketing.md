@@ -36,7 +36,20 @@
   - [7.2. Ciclo di attività](#72-ciclo-di-attività)
   - [7.3. Customer journey](#73-customer-journey)
 - [8. Ambiente competitivo](#8-ambiente-competitivo)
-  - [8.1. Analizzare i siti dei concorrenti](#81-analizzare-i-siti-dei-concorrenti)
+  - [8.1. Analisi dei siti dei concorrenti](#81-analisi-dei-siti-dei-concorrenti)
+  - [8.2. Analisi della struttura dell'ambiente competitivo](#82-analisi-della-struttura-dellambiente-competitivo)
+  - [8.3. Analisi delle risorse e delle competenze dei competitors](#83-analisi-delle-risorse-e-delle-competenze-dei-competitors)
+  - [8.4. Analisi della quota di mercato](#84-analisi-della-quota-di-mercato)
+  - [8.5. Analisi SWOT](#85-analisi-swot)
+- [9. Strategie di marketing](#9-strategie-di-marketing)
+  - [9.1. Strategie di sviluppo](#91-strategie-di-sviluppo)
+    - [9.1.1. Strategie di crescita in senso stretto](#911-strategie-di-crescita-in-senso-stretto)
+    - [9.1.2. Strategia di diversificazione](#912-strategia-di-diversificazione)
+    - [9.1.3. Strategia di integrazione](#913-strategia-di-integrazione)
+  - [9.2. Strategie competitive](#92-strategie-competitive)
+- [10. Ricerche di marketing](#10-ricerche-di-marketing)
+  - [10.1. Classiche ricerche](#101-classiche-ricerche)
+  - [10.2. Nuove ricerche](#102-nuove-ricerche)
 
 ## 1. Introduzione
 
@@ -60,7 +73,7 @@ Il valore per il cliente è:
 
 - **multidimensionale**:
   - compro un prodotto (es. su *Amazon*) che serve per risolvere un problema, ma oltre a questo magari chiedo un buon rapporto qualità/prezzo, praticità, consegna a domicilio, reso del prodotto, brand noto
-  - anche i sacrifici possono essere multidimensionali, es. l'esborso economico, il tempo impiegato per la ricerca di un prodotto adeguato o per l'apprendimento nell'utilizzare un prodotto 
+  - anche i sacrifici possono essere multidimensionali, es. l'esborso economico, il tempo impiegato per la ricerca di un prodotto adeguato o per l'apprendimento nell'utilizzare un prodotto
 - **soggettivo**:
   - ricerco dei benefici adatti alle mie esigenze e al mio budget, quindi faccio delle scelte diverse da altri
   - un'impresa di piccole-medie dimensioni difficilmente è in grado di soddisfare le esigenze di tutti i clienti sul mercato, quindi è necessario fare una ricerca di mercato per focalizzarsi su un target, cioè segmentare il mercato per individuare il target di clientela da soddisfare
@@ -189,7 +202,7 @@ I **mutamenti nei consumatori** ci dicono che i consumatori sono:
   - una pubblicità tradizionale in tv o in radio ha meno effetto nelle scelte di acquisto
   - sui social si fa leva sui contenuti, perché i contenuti intrattengono il consumatore che altrimenti volgerebbe l'attenzione altrove
 - più competenti, selettivi, attenti alla qualità/prezzo, all'ambiente:
-  - una volta per prendere un cellulare si stava mezz'ora in negozio, adesso si possono fare ricerche approfondite online su ciò che vogliamo 
+  - una volta per prendere un cellulare si stava mezz'ora in negozio, adesso si possono fare ricerche approfondite online su ciò che vogliamo
 - più desiderosi di esperienze ed emozioni:
   - oltre al prodotto voglio che l'impresa costruisca un'esperienza o un'emozione, come dei concorsi a premio abbinati a un prodotto
   - percorsi di degustazione offerti da un produttore di vino permettono al consumatore di non andare semplicemente a bere vino, ma piuttosto di partecipare a un tour che racconta la storia dell'impresa
@@ -238,7 +251,7 @@ Delle **nuove ricerche** di marketing. Con il tempo sono state introdotte nuove 
 
 Il *neuromarketing* è l'applicazione di tecnologie del mondo medico per studiare il comportamento di un consumatore: per esempio l'*eye tracking* è una tecnologia che monitora il movimento dell'occhio, grazie alla quale potrei studiare dove cade l'occhio sui prodotti negli scaffali dei supermercati.
 
-La posizione dei prodotti sugli scaffali ha un certo peso nel marketing: gli studi mostrano che posizionare i prodotti ad altezza occhi è preferibile, quindi il produttore può pagare per posizionare i propri prodotti nei punti più strategici. 
+La posizione dei prodotti sugli scaffali ha un certo peso nel marketing: gli studi mostrano che posizionare i prodotti ad altezza occhi è preferibile, quindi il produttore può pagare per posizionare i propri prodotti nei punti più strategici.
 
 Il **CRM** (Customer Relationship Management) è un sistema gestionale in grado di raccogliere i dati dei clienti da varie fonti, es. email e social, ed analizzarli in modo da fornirci una panoramica sui nostri clienti, es. coloro che nell'ultimo mese hanno fatto un accesso sul nostro sito ma non hanno fatto un acquisto.
 
@@ -349,7 +362,7 @@ Parametri per la valutazione dell'**attrattività**:
   - quanto sarà grande in termini di valore e volume la domanda all'interno del target
   - un segmento composto da 7 milioni di persone rappresenta il **mercato potenziale**, cioè il valore e il volume massimo della domanda se tutti acquistassero il nostro prodotto
   - è generalmente inverosimile colmare il mercato potenziale perché questo viene spartito tra i vari competitors e inoltre non tutti i consumatori acquistano in quantità ottimale in base alle stime sull'utilizzo del prodotto (es. dentifricio che dura un mese), c'è chi lo usa di più o di meno, chi lo riacquista subito o ritarda o compra quello del concorrente
-  - si fanno quindi stime sull'ampiezza e sulla prospettiva della domanda utilizzando basi di mercato che devono essere reali 
+  - si fanno quindi stime sull'ampiezza e sulla prospettiva della domanda utilizzando basi di mercato che devono essere reali
 - **pressione competitiva**:
   - quanti e quali sono le marche nel segmento, se il clima competitivo è basato sulla differenziazione del prodotto o sulla guerra dei prezzi, quanto riusciamo a differenziarci rispetto alla concorrenza, se ci sono prodotti sostituivi cioè che soddisfano lo stesso bisogno ma con tecnologie diverse, se ci sono barriere in entrata ossia prodotti con caratteristiche che impediscono l'accesso ai competitors
   - prodotti come borse di lusso avranno dei competitors di lusso, i cui elementi diversificativi sono principalmente il design e la marca, mentre una piccola impresa con un brand troppo debole farebbe enorme fatica ad entrare in questo segmento presidiato da grandi marche anche se i prodotti fossero ottimi
@@ -505,9 +518,20 @@ Da evitare inoltre di duplicare i contenuti in social diversi. Ciascun social ha
 
 ## 8. Ambiente competitivo
 
-L'analisi dell'**ambiente competitivo** è finalizzata a studiare i soggetti con cui l'impresa andrà a interfacciarsi sul mercato, cioè i competitors. Per poter delimitare uno spazio competitivo se possibile difendibile, l'impresa deve prima di tutto conoscerli e capire come si muovono in termini strategici.
+L'analisi dell'**ambiente competitivo** è finalizzata a studiare i soggetti con cui l'impresa andrà a interfacciarsi sul mercato, cioè i competitors.
 
-### 8.1. Analizzare i siti dei concorrenti
+Per poter delimitare uno spazio competitivo difendibile, l'impresa deve prima di tutto conoscerli e capire come si muovono in termini strategici.
+
+Tramite un'analisi dei siti dei concorrenti è possibile ottenere una prima valutazione rapida sulla loro attività nel mondo digitale.
+
+Una lista di metodologie più approfondite comprende:
+
+- analisi della struttura dell'ambiente competitivo
+- analisi delle risorse e delle competenze dei competitors
+- analisi della quota di mercato
+- analisi SWOT
+
+### 8.1. Analisi dei siti dei concorrenti
 
 Anche in questo caso il digitale ci alleggerisce questo sforzo di analisi della concorrenza. Siti come [*Alexa*](https://www.alexa.com/), [*SimilarWeb*](https://www.similarweb.com/) e [*Semrush*](https://it.semrush.com/) permettono di analizzare i siti dei concorrenti.
 
@@ -515,7 +539,7 @@ I dati che possiamo ottenere includono la posizione del sito in un paese o in un
 
 Il *bounce rate* è la frequenza di rimbalzo, cioè quando un utente entra in un sito ma esce immediatamente. Una percentuale molto alta rappresenta un problema, magari il sito è fatto male e l'utente va via perché non trova le informazioni che cerca.
 
-Le fonti di traffico ci dicono in che modo l'utente è arrivato sul sito. Per es. su *Booking* ci arrivano principalmente in maniera diretta scrivendo l'indirizzo. Questo perché il pubblico conosce bene la marca e va direttamente sul sito. 
+Le fonti di traffico ci dicono in che modo l'utente è arrivato sul sito. Per es. su *Booking* ci arrivano principalmente in maniera diretta scrivendo l'indirizzo. Questo perché il pubblico conosce bene la marca e va direttamente sul sito.
 
 In altri casi i visitatori arrivano sul sito indirettamente dopo aver fatto una ricerca su un motore di ricerca. In quel caso vengono indicate le parole chiave usate per la ricerca e se queste sono organiche (non di marketing) o a pagamento.
 
@@ -530,4 +554,210 @@ Apostrofi: ok
 Grammatica: ok
 Numeri sezione: ok
 Codice: ok
+-->
+
+### 8.2. Analisi della struttura dell'ambiente competitivo
+
+**Data lezione**: 11/05/2021
+
+Tra i metodi utilizzati per studiare l'ambiente competitivo abbiamo il modello delle **cinque forze competitive** di Porter. Si tiene conto di cinque forze competitive sulla base delle quali si ottiene la redditività dell'impresa.
+
+In senso orizzontale abbiamo:
+
+- **concorrenti attuali**:
+  - si analizzano le imprese che soddisfano lo stesso bisogno con la stessa tecnologia
+  - la competizione aumenta quando per es. il settore è in lenta crescita oppure le imprese hanno una scarsa differenziazione di prodotto
+- **potenziali entranti**:
+  - rappresentano l'insieme di imprese che per risorse finanziarie, risorse in ambito tecnologico o potere della marca avrebbero la potenzialità di diventare nostri concorrenti diretti
+  - per es. una volta nel settore della fotografia i concorrenti attuali erano *Canon* o *Kodak* e i potenziali nuovi entranti erano *Samsung* o *Apple*
+  - per difendersi, le imprese attuali cercano di applicare barriere all'entrata
+- **prodotti/servizi sostitutivi**:
+  - soddisfano lo stesso bisogno ma con tecnologie diverse
+  - per es. burro o margarina, treno o aereo, camera d'albergo o alloggio in un'abitazione privata
+
+In senso verticale abbiamo **clienti** e **fornitori**. Sembra strano, ma anche loro possono minare la competitività di un'impresa tramite un **rapporto di forza**. Si tratta di un potere di condizionamento che si può esercitare su un altro soggetto.
+
+### 8.3. Analisi delle risorse e delle competenze dei competitors
+
+In questo tipo di analisi si valutano i concorrenti in base a:
+
+- risorse e capacità interne
+- sinergie che potremmo sfruttare tramite accordi con i concorrenti (*coopetition*, una cooperazione competitiva)
+- capacità e risorse esterne
+- contesto del sistema del paese di provenienza, es. *Amazon* ha sede legale in paesi con bassa tassazione
+- bilanci pubblici (per studiare per es. la struttura dei costi), quota di mercato, trend in atto del settore, siti web
+
+### 8.4. Analisi della quota di mercato
+
+La **quota di mercato** è l'influenza di un'impresa su un mercato valutata in termini di volume o di valore. È uno dei principali indicatori tenuti in considerazione dalle imprese. Si calcola in base a un periodo (es. trimestrale, annuale) e a un mercato (es. italiano, europeo).
+
+La quota di mercato espressa a **volume** mette in rapporto la quantità di prodotti venduti da un'impresa rispetto alla quantità complessiva di prodotti venduti sul mercato.
+
+La quota di mercato espressa a **valore** mette in rapporto il fatturato dei prodotti venduti da un'impresa rispetto al fatturato complessivo dei prodotti venduti sul mercato.
+
+Confrontando le quote di mercato di diversi concorrenti possiamo avere un'idea di come sia la loro situazione.
+
+Per es. da un'analisi sulle quote di mercato nel settore dei processori possiamo vedere che *IBM* ha una quota di mercato espressa a volume del 10%, mentre espressa a valore del 28%. *Commodore* ha una quota di mercato espressa a volume del 34%, mentre espressa a valore dell'8%.
+
+Questo ci dice che, nonostante *IBM* venda complessivamente meno prodotti di *Commodore* riesce comunque ad avere un fatturato superiore, probabilmente perché il valore e il prezzo dei suoi prodotti è più alto.
+
+Altro esempio, *Bianchi* vende poche biciclette ma ad un valore superiore relativamente a *Decathlon* che invece ha una strategia dai prezzi bassi e grandi quantità di volume.
+
+Quindi quale dei due tipi di indicatori (volume o valore) è più importante per l'impresa dipende dalla strategia scelta.
+
+### 8.5. Analisi SWOT
+
+L'ultimo modello di analisi è l'analisi **SWOT** (Strengths, Weaknesses, Opportunities, Threats).
+
+Quest'analisi tiene conto dei punti di forza e di debolezza dell'impresa, cioè dell'analisi del potenziale interno all'impresa.
+
+Inoltre tiene conto delle opportunità e delle minacce provenienti dal mercato, cioè dell'analisi dell'ambiente esterno all'impresa. I concorrenti spesso fanno parte delle minacce.
+
+Da una lettura incrociata di questi punti possiamo ricavare delle strategie che mireranno a mantenere i punti di forza e a migliorare i punti di debolezza.
+
+## 9. Strategie di marketing
+
+Le **strategie di marketing** sono processi di pianificazione che permettono di aggredire i mercati creando un vantaggio competitivo per l'impresa.
+
+Tra le strategie di marketing abbiamo:
+
+- strategie di sviluppo
+- strategie competitive
+
+### 9.1. Strategie di sviluppo
+
+Le **strategie di sviluppo** mirano a potenziare le caratteristiche di un'impresa. La **matrice di Ansoff** (chiamata anche **matrice prodotto-mercato**) permette di determinare alcuni modi per far crescere l'impresa.
+
+Sull'asse orizzontale abbiamo i prodotti o servizi (attuali o nuovi), mentre sull'asse verticale abbiamo il mercato (attuale o nuovo). Per mercato s'intende in questo senso un mercato geografico oppure un insieme di consumatori.
+
+Le strategie derivanti dagli incroci di questa matrice sono:
+
+- strategie di crescita in senso stretto:
+  - penetrazione del mercato: prodotto attuale / mercato attuale
+  - sviluppo del mercato: prodotto attuale / mercato nuovo
+  - sviluppo del prodotto: prodotto nuovo / mercato attuale
+- strategia di diversificazione: prodotto nuovo / mercato nuovo
+
+Un'ulteriore strategia di sviluppo è rappresentata dalla strategia di integrazione.
+
+#### 9.1.1. Strategie di crescita in senso stretto
+
+Nella strategia di **penetrazione del mercato** l'impresa vende un prodotto o un servizio attuale nel mercato attuale. L'obiettivo di questa strategia è quello di accrescere la propria quota di mercato, definendo politiche di marketing mix adeguate ed evitando investimenti inutili in prodotti o mercati diversi.
+
+Nella strategia di **sviluppo del mercato** l'impresa vende un prodotto attuale ma su un nuovo mercato (geografico o target). Per es. un'impresa che produce biciclette vuole entrare nel mercato svizzero, oppure un museo che vuole attirare un target più giovanile fa una pubblicità con un influencer.
+
+Nella strategia di **sviluppo del prodotto** l'impresa si rivolge al mercato attuale ma con un nuovo prodotto. In questo caso il focus è sull'innovazione del prodotto, per es. si produce una bicicletta con materiali che garantiscono leggerezza e maggiori performance.
+
+#### 9.1.2. Strategia di diversificazione
+
+Nella **strategia di diversificazione** l'impresa ha un nuovo prodotto e lo rivolge a un mercato nuovo. In questo caso l'impresa decide di affiancare al business attuale uno nuovo. La diversificazione può essere di due tipi: concentrica o pura.
+
+Nella diversificazione **concentrica** si verificano delle correlazioni tra il business attuale e quello nuovo. Per es. un produttore di biciclette decide di produrre monopattini, quindi ha un nuovo prodotto e lo rivolge a un target tendenzialmente diverso. Ma tra le due produzioni potrebbero esistere dei punti in comune: per es. l'impresa ha già competenze sulla mobilità cittadina, usa gli stessi impianti di produzione, gli stessi canali di vendita. Oppure una marca di vestiti comincia a produrre anche scarpe e occhiali.
+
+Nella diversificazione **pura** (o conglomerata) si perdono i punti in comune tra i vari business. Per es. l'impresa che produce biciclette comincia ad investire nel mercato delle cucine. *Virgin* ha diversificato notevolmente la propria attività in molti settori diversi, per es. alimentare, fitness, compagnie aeree, musica. Il vantaggio di questo approccio è che quando un settore va in difficoltà l'impresa tira avanti comunque con gli altri.
+
+#### 9.1.3. Strategia di integrazione
+
+Questa strategia non ha molto a che fare con il prodotto o il mercato, ma piuttosto riguarda l'internalizzazione di elementi che prima erano esterni all'impresa. L'**integrazione** si divide in orizzontale o verticale.
+
+L'integrazione **verticale** descrive la scelta di un'impresa di gestire internamente alcune fasi della filiera che prima venivano gestite esternamente. La **filiera** è la catena di passaggi produttivi necessari per portare il prodotto al consumatore.
+
+L'integrazione verticale può essere:
+
+- **a monte**: l'integrazione riguarda una fase vicina all'inizio della filiera, per es. un'impresa che produce abiti può decidere di integrare internamente la fase di gestione dei tessuti piuttosto che rivolgersi a un fornitore
+- **a valle**: l'integrazione riguarda una fase vicina al consumatore finale, in genere si tratta di fasi legate alla distribuzione, per es. una marca d'abbigliamento decide di vendere i prodotti aprendo propri punti vendita invece di rivolgersi a negozi multimarca
+
+### 9.2. Strategie competitive
+
+Le **strategie competitive** puntano ad ottenere un vantaggio competitivo per l'impresa. Il **vantaggio competitivo** si verifica quanto un'impresa ottiene in maniera continuativa una redditività superiore rispetto ai suoi rivali.
+
+Il vantaggio competitivo può essere:
+
+- **interno**: l'impresa ha una migliore capacità nel controllare i costi di produzione, di amministrazione e di gestione rispetto alla concorrenza, es. *Ryanair* ha abbattuto i costi sul personale e sui vettori utilizzati
+- **esterno**: si basa su caratteri e qualità distintive del prodotto e della marca, es. biciclette dal design innovativo, grandi performance, reputazione e storia della marca
+
+Un'impresa che ha una struttura dei costi competitiva può applicare prezzi bassi per aumentare i volumi di vendita. Mentre una marca di lusso tende a puntare sulla marca e sulla qualità piuttosto che sui volumi.
+
+Tra le strategie competitive da applicare a **tutto il settore** abbiamo:
+
+- **differenziazione**: per qualità e marca il consumatore finale è disposto a pagare di più
+- **leadership di costo**: si punta a vendere a un prezzo inferiore riducendo i costi di produzione (es. materie prime comprate in Cina), se i rivali non hanno la stessa struttura dei costi avranno una redditività inferiore
+
+La **focalizzazione** (o concentrazione) si basa su **un particolare segmento** di mercato. L'impresa cerca di sviluppare il proprio vantaggio competitivo rivolgendosi ad un'area molto ristretta di competizione.
+
+## 10. Ricerche di marketing
+
+Il **SIM** (Sistema Informativo di Marketing) è l'insieme di risorse umane, attrezzature e procedure usate per raccogliere, analizzare e valutare informazioni utili per le decisioni di marketing.
+
+Questo sistema è molto importante anche quando dobbiamo prendere delle decisioni apparentemente semplici, come scegliere l'orario e il tipo di comunicazione più idonei per scrivere un post su un social.
+
+Il SIM ha diversi sottosistemi:
+
+- **rilevazioni interne**: all'interno dell'impresa sono già presenti dati facilmente rilevabili, per es. dati contabili, dati di bilancio, analitiche di *Google* e dei social
+- **marketing intelligence**: insieme di attività non strutturate svolte per raccogliere informazioni sul settore e sui competitor, es. convention, evento fieristico
+- **modelli**: insieme di modelli statistico-matematici e previsionali che consentono una rielaborazione dei dati al fine di supportare le decisioni di marketing, es. report periodico dei dati raccolti sui social
+- **ricerche di marketing**: è il principale sottosistema e consente di raccogliere informazioni dettagliate sul consumatore e sul mercato
+
+Oltre alle classiche ricerche di marketing, oggi sono nate nuove tipologie di ricerche che sfruttano le tecnologie digitali per studiare i consumatori.
+
+### 10.1. Classiche ricerche
+
+Le ricerche di marketing vengono spesso affidate ad agenzie specializzate. Questo perché si tratta di un'attività altamente specializzata che richiede tecniche, strumenti e meccanismi a supporto delle ricerche. È difficile che un'impresa da sola riesca a fare tutto.
+
+Le ricerche possono essere:
+
+- **tailor-made**: è una ricerca specializzata basata su una raccolta di dati personalizzata, es. soddisfazione dei consumatori di uno specifico albergo
+- **multiclient**: raccolgono informazioni più generali, sono spesso ripetute nel tempo e messe a disposizione delle imprese che pagano per avere i risultati approfonditi della ricerca
+
+I dati raccolti sono distinti in:
+
+- **primari**: dati che vengono creati appositamente ai fini di una ricerca, es. i dati sulla soddisfazione dei clienti sono primari perché prima non esistevano e vengono creati apposta ai fini di una ricerca, magari tramite dei questionari
+- **secondari**: sono dati già presenti sul mercato che raccogliamo e rielaboriamo ai fini dei nostri obiettivi, es. se vogliamo vendere prodotti nel mercato cinese andiamo a vedere se esistono dei dati sull'esportazione in Cina
+
+La ricerca può essere:
+
+- **qualitativa**:
+  - detta anche esplorativa, ci consente di conoscere un fenomeno nuovo o già presente sul mercato, es. un produttore di integratori per lo sport vuole sapere perché i consumatori preferiscono fare uso di integratori naturali
+  - interviste in profondità: sono indagini approfondite su un campione esiguo
+  - focus group: gruppi di discussione per avere interazioni tra i vari soggetti sul tema richiesto
+  - osservazione del comportamento sul luogo di acquisto: il ricercatore non fa un'intervista ma si limita ad osservare i consumatori
+  - mystery shopper: il ricercatore osserva non il consumatore ma la forza vendita e il servizio offerto dall'azienda
+- **quantitativa**:
+  - si va a misurare in maniera precisa il fenomeno indagato
+  - questionario con vari modelli: il campione da analizzare deve essere ampio e rappresentativo del settore di riferimento, es. indagini sulle intenzioni di voto
+  - intervista fatta di persona da un ricercatore
+  - intervista telefonica
+  - intervista postale (oggi via email)
+
+### 10.2. Nuove ricerche
+
+Reperire i dati comporta notevoli costi in termini di risorse e tempo. Oggi sono sempre più spesso utilizzate tecniche che vanno ad "ascoltare" il mercato. Queste tecniche hanno costi di realizzazione inferiori alle classiche ricerche di mercato e spesso sono anche più rapide.
+
+La rete è diventata un luogo d'interazione tra consumatori, rappresenta una fonte molto importante di reperimento dei dati. Si cerca di capire la reputazione della marca tramite il **passaparola**, cioè le percezioni dei consumatori sulla marca di un'impresa rispetto a quella dei concorrenti.
+
+La marca è l'*asset* principale dell'impresa. È importante capire le **associazioni della marca**, cioè le informazioni che i consumatori collegano a un brand, per es. *McDonald's* può avere "buono", "grasso", "rapido".
+
+L'insieme delle associazioni vanno a comporre l'**immagine** della marca. Certe volte l'immagine può non corrispondere all'identità della marca, cioè l'impresa cerca di comunicare una certa identità ma il consumatore la percepisce diversamente.
+
+Al fine di ascoltare i consumatori si può usare una metodologia di ricerca chiamata **netnografia**. Questa consente di studiare le comunità online, che cosa dicono i consumatori nel web nei contesti in cui si parla di marche. Secondo certe stime ogni giorno si citano 9 milioni di marche all'interno di conversazioni tra consumatori sul web.
+
+I passaggi principali sono:
+
+- si identificano le comunità, es. blog, forum, gruppi *Facebook*, che devono avere caratteristiche come alta attività e buon numero di partecipanti
+- si raccolgono conversazioni aventi ad oggetto la nostra marca
+- si analizzano i dati con certi software
+- si elaborano i risultati, questi ci danno la percezione dei consumatori sulla nostra marca
+
+Questi dati sono ottenibili gratuitamente, ma vanno raccolti ed elaborati. La raccolta viene fatta tipicamente da software chiamati *crawler* che in maniera automatica scandagliano le conversazioni. Una volta ottenuti i dati viene usato un altro software chiamato *text mining*. Questo effettua una ricerca quantitativa di tipo testuale e genera delle *tag cloud*, cioè delle "nuvole" che rappresentano visivamente le parole maggiormente associate alla marca.
+
+Grazie alla netnografia alcune aziende hanno capito le associazioni dei consumatori alla propria marca e hanno apportato dei cambiamenti. *Adidas* ha rilanciato vecchi modelli di scarpe dopo aver capito quali fossero i modelli più citati nelle conversazioni tra collezionisti. *Listerine* cambiò colore e odore dopo aver capito la percezione negativa dei consumatori sul vecchio prodotto.
+
+<!--
+Data: 13/05/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
 -->
