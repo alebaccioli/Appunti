@@ -54,9 +54,7 @@ Per esempio, possiamo creare un contenitore, cioè una **cartella**, per archivi
 
 Ogni file ha un indirizzo che permette di individuarlo all'interno della memoria. L'indirizzo è composto da un insieme di contenitori, partendo dal contenitore più grande fino a quello più specifico. Nei sistemi *Windows*, il contenitore più grande prende tipicamente il nome di `C:`. Il simbolo `\` serve per separare i nomi dei contenitori. Esempio:
 
-```
-C:\Foto\2020\spiaggia.jpg
-```
+`C:\Foto\2020\spiaggia.jpg`
 
 Quindi ogni indirizzo contiene dei contenitori (cartelle) e dei contenuti (file).
 
@@ -188,7 +186,7 @@ Si possono applicare animazioni su certi elementi (es. un'immagine) e transizion
 
 Per **Internet** si intende un insieme di computer e dispositivi collegati tra loro. Nello specifico una parte della memoria interna di quel dispositivo è collegato a Internet. È il principio di condivisione.
 
-I computer che offrono i servizi Internet come il web, chiamati **server**, sono continuamente collegati a Internet. La prima arcaica versione di Internet fu creata per scopi militari e si chiamava *ARPAnet*. Poi Internet venne diffusa tra le università, ma allora era possibile scambiarsi solo piccoli messaggi date le ridotte capacità dei calcolatori. 
+I computer che offrono i servizi Internet come il web, chiamati **server**, sono continuamente collegati a Internet. La prima arcaica versione di Internet fu creata per scopi militari e si chiamava *ARPAnet*. Poi Internet venne diffusa tra le università, ma allora era possibile scambiarsi solo piccoli messaggi date le ridotte capacità dei calcolatori.
 
 ### 5.1. WWW
 
@@ -223,7 +221,7 @@ Info corso: ok
 
 ### 5.2. HTML
 
-Le pagine sono create tramite un'insieme di linguaggi, in particolar modo l'**HTML** (HyperText Markup Language). Si tratta di semplice testo abbinato a una serie di *marker* (chiamati **tag**) che definiscono come deve essere visualizzato quel testo. Non viene considerato come un vero linguaggio di programmazione ma piuttosto di marcazione, è un concetto leggermente diverso. 
+Le pagine sono create tramite un'insieme di linguaggi, in particolar modo l'**HTML** (HyperText Markup Language). Si tratta di semplice testo abbinato a una serie di *marker* (chiamati **tag**) che definiscono come deve essere visualizzato quel testo. Non viene considerato come un vero linguaggio di programmazione ma piuttosto di marcazione, è un concetto leggermente diverso.
 
 I tag HTML iniziano con il simbolo di minore `<`, poi abbiamo il nome del tag e infine il simbolo di maggiore `>`, es `<html>`. Molti tag (ma non tutti) devono essere chiusi da qualche parte inserendo lo stesso tag ma con il simbolo `/` davanti al nome, es. `</html>`. All'interno di due tag aperto e chiuso mettiamo il contenuto che vogliamo.
 
@@ -434,4 +432,9 @@ Apostrofi: ok
 Grammatica: ok
 Numeri sezione: ok
 Codice: ok
+-->
+
+<!--
+Data: 13/05/2021
+Lint: ok
 -->
