@@ -109,7 +109,7 @@ Il mercato di un'impresa corrisponde al punto dove può essere competitiva, cio�
 
 Il **processo di marketing management** consiste nell'analisi del mercato e delle sue opportunità, nel ricercare e selezionare i mercati obiettivo, nello sviluppo di strategie di marketing, nella definizione e nel controllo delle azioni pianificate.
 
-La **strategia** è un comportamento pianificato di medio-lungo termine che determina gli elementi qualitativi e quantitativi essenziali all'azienda. Il piano di marketing si inserisce in una strategia. La *tattica* è un concetto diverso, è più orientata alla coordinazione nel breve periodo. 
+La **strategia** è un comportamento pianificato di medio-lungo termine che determina gli elementi qualitativi e quantitativi essenziali all'azienda. Il piano di marketing si inserisce in una strategia. La *tattica* è un concetto diverso, è più orientata alla coordinazione nel breve periodo.
 
 La **pianificazione strategica** è il processo di elaborazione della strategia, un insieme di fasi che portano a prendere decisioni strutturali e i comportamenti da seguire.
 
@@ -130,7 +130,7 @@ L'obiettivo deve essere reale e quantificabile, la missione è invece un "sogno"
 
 ## 3. Il piano di marketing
 
-Il **piano di marketing** è un documento (si può vedere anche come uno strumento) con il quale si espongono gli obiettivi e le strategie di mercato che l'impresa intende perseguire in un certo intervallo di tempo. 
+Il **piano di marketing** è un documento (si può vedere anche come uno strumento) con il quale si espongono gli obiettivi e le strategie di mercato che l'impresa intende perseguire in un certo intervallo di tempo.
 
 Il piano di marketing è molto importante quando avviamo una nuova attività, ed è generalmente inserito in un piano più ampio chiamato **piano d'impresa**.
 
@@ -165,7 +165,7 @@ Questo sommario è importante perché il piano può essere letto da soggetti ter
 Rappresenta un riassunto della situazione interna dell'impresa ed esterna. Nello specifico, viene fatta l'analisi:
 
 - del **mercato**: analisi oggigiorno diventata molto veloce grazie alla digitalizzazione, una volta le ricerche di mercato erano più impegnative e richiedevano anche investimenti molto costosi
-- delle **F.D.O.M.**: delle forze e debolezze della nostra azienda rispetto al mercato e alla concorrenza, delle opportunità e minacce derivanti dai mutamenti del mercato
+- delle **FDOM**: delle forze e debolezze della nostra azienda rispetto al mercato e alla concorrenza, delle opportunità e minacce derivanti dai mutamenti del mercato
 - dei **concorrenti**: numero e forza dei concorrenti che operano in un mercato
 - dei **fattori critici di successo**: rappresentano le aree critiche dove è essenziale raggiungere gli obiettivi prefissati per conquistare un mercato
 
@@ -227,7 +227,7 @@ Un **prodotto**:
 
 Giudichiamo un prodotto quando lo vediamo nella sua veste migliore, cioè alla fine del suo ciclo. Es. un'auto la giudichiamo quando la possiamo toccare dal concessionario lucidata e preparata oppure quando la vediamo presentata sul web. In ogni caso la vediamo a fine ciclo, non vediamo ai fini di marketing se è stata costruita in un capannone con pezzi riciclati o di qualità scadente.
 
-Sicuramente il web permette di fare passaparola di opinioni, ma una volta che l'impresa decide di fare un'auto in un certo modo, noi consumatori non possiamo più decidere di cambiarla, possiamo solo giudicarla a fine ciclo. È una produzione autonoma rispetto al cliente. 
+Sicuramente il web permette di fare passaparola di opinioni, ma una volta che l'impresa decide di fare un'auto in un certo modo, noi consumatori non possiamo più decidere di cambiarla, possiamo solo giudicarla a fine ciclo. È una produzione autonoma rispetto al cliente.
 
 Un **servizio**:
 
@@ -252,7 +252,7 @@ Un cliente vede un servizio composto da un **nucleo centrale** e da una serie di
 
 A prescindere dal prezzo il nucleo centrale è dovuto al cliente, cioè la sua presenza è data per scontata. Se eroghiamo abbastanza bene il nucleo centrale, in realtà non abbiamo ancora fatto nulla per conquistare il cliente.
 
-Dobbiamo pensare anche alle parti periferiche, che prese singolarmente sono meno importanti ma insieme sono determinanti per il livello di differenziazione rispetto alla concorrenza. 
+Dobbiamo pensare anche alle parti periferiche, che prese singolarmente sono meno importanti ma insieme sono determinanti per il livello di differenziazione rispetto alla concorrenza.
 
 Es. il nucleo centrale corrisponde a un viaggio dalla località A alla località B. È un servizio ovviamente dato per scontato dal cliente. Il cliente giudicherà invece molte altre cose: pulizia, comfort, trattamento dei bagagli, atteggiamento del personale. Se una compagnia perde i bagagli del cliente, a quest'ultimo rimarrà impresso il collegamento tra quella compagnia e la perdita dei propri bagagli.
 
@@ -284,7 +284,7 @@ Fattori di successo per mostrare il resto dell'iceberg:
 
 Il servizio non lo si "vede", ma ha comunque un'immagine formata dalla **qualità del servizio** e dall'**efficienza dell'organizzazione**.
 
-Una volta questo bastava, soprattutto nel campo servizi, ma adesso non è più sufficiente o il cliente non è in grado di valutare. Come si fa a valutare un medico se uno non è un medico? 
+Una volta questo bastava, soprattutto nel campo servizi, ma adesso non è più sufficiente o il cliente non è in grado di valutare. Come si fa a valutare un medico se uno non è un medico?
 
 Lo si valuta in base a parametri più semplici, chiamati **front-line**. Per es. cortesia, disponibilità ed efficienza del personale di contatto. Oppure come si presenta una homepage, una pagina di *Facebook*, un video. Non basta più poter andare su una pagina di *Facebook*, ma è importante anche come viene presentata.
 
@@ -396,7 +396,7 @@ Una volta ottenuti i segmenti, si stabiliscono delle strategie di mercato per co
   - ci si concentra su un unico segmento di mercato
   - i rischi dell'impresa possono dipendere eccessivamente dalla domanda di quell'unico segmento
 - **marketing *one to one***:
-  - ogni cliente rappresenta un segmento obiettivo, il social marketing aiuta molto in questo senso 
+  - ogni cliente rappresenta un segmento obiettivo, il social marketing aiuta molto in questo senso
   - l'impresa cerca di avere un prodotto standard a monte, ma quando arriva sul mercato dà la possibilità di essere personalizzato
   - un abbonamento Internet (minuti, GB) è un'offerta personalizzata per il cliente ma rappresenta un servizio unico da parte dell'azienda
   - i marchi *Škoda*, *Volkswagen* e *Porsche* fanno parte della stessa multinazionale, a monte il prodotto è visto come simile, ma a valle è percepito in maniera diversa dal consumatore e va quindi a catturare un segmento diverso
@@ -446,7 +446,7 @@ La **fase desk** è una fase studiata più a tavolino, viene deciso un obiettivo
 
 ### 6.1. Fonti d'informazione
 
-Una lista di **fonti d'informazione** può includere: 
+Una lista di **fonti d'informazione** può includere:
 
 - **fonti interne all'azienda**: es. ricerche fatte in passato, ricerca basata sulle fatture dei clienti
 - **fonti esterne**:
@@ -727,4 +727,10 @@ Apostrofi: ok
 Grammatica: ok
 Numeri sezione: ok
 Codice: ok
+-->
+
+<!--
+Data: 13/05/2021
+Lint: ok
+Acronimi senza punti: ok
 -->
