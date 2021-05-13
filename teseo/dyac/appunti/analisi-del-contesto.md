@@ -36,7 +36,7 @@
       - [7.1.2.3. Prodotti e servizi sostitutivi](#7123-prodotti-e-servizi-sostitutivi)
       - [7.1.2.4. Clienti e fornitori](#7124-clienti-e-fornitori)
   - [7.2. Analisi del potenziale](#72-analisi-del-potenziale)
-  - [7.3. Analisi S.W.O.T.](#73-analisi-swot)
+  - [7.3. Analisi SWOT](#73-analisi-swot)
 
 ## 1. Attività economica
 
@@ -56,7 +56,7 @@ Alcuni bisogni competono nell'utilizzo dei fattori produttivi. Questo determina 
 
 Un **sistema economico** è una connessione di soggetti economici volta a coordinare i fattori produttivi. Il **sistema dei prezzi** è un sistema economico che usa i prezzi (espressi come moneta) come valutazione dei beni e servizi e dei fattori produttivi.
 
-Il sistema economico mira a massimizzare l'efficacia e l'efficienza nell'impiego dei fattori produttivi. L'impresa deve selezionare i fattori produttivi sul mercato più idonei da utilizzare per soddisfare i bisogni. 
+Il sistema economico mira a massimizzare l'efficacia e l'efficienza nell'impiego dei fattori produttivi. L'impresa deve selezionare i fattori produttivi sul mercato più idonei da utilizzare per soddisfare i bisogni.
 
 L'**efficacia** indica la capacità di raggiungere l'obiettivo prefissato, quindi è un rapporto tra obiettivi e risultati. Un ristoratore risulterà efficace nella sua attività se i clienti si alzano dal tavolo con piena soddisfazione, altrimenti l'efficacia non sarà totale.
 
@@ -93,7 +93,7 @@ Anche l'impresa ha i suoi bisogni, per es. un immobile, del personale, dei progr
 
 Anche una partita IVA è un'impresa: esiste il proprietario/imprenditore e il sistema operativo, costituito dalla propria casa, dal proprio PC, dalla propria forza lavoro.
 
-**Annotazioni mie**
+**Annotazioni mie**:
 
 [Articolo 2082](https://www.brocardi.it/codice-civile/libro-quinto/titolo-ii/capo-i/sezione-i/art2082.html) del *Codice Civile*:
 
@@ -189,9 +189,9 @@ Questo organo guida e porta al successo l'impresa. Definisce le strategie e guid
 
 Per es. si decide di traferire la sede dalla Toscana in Romania: il personale sarebbe insoddisfatto ma il proprietario potrebbe essere contento perché magari là costa meno la manodopera.
 
-Il progetto della *Superlega* avrebbe fatto contenti i proprietari perché avrebbero attirato più soldi, inoltre alcuni giocatori avrebbero avuto uno stipendio più alto. Ma altri stakeholder sarebbero stati scontenti: i tifosi, le organizzazioni di calcio nazionali ed europee, la *FIFA*, i politici di varie nazioni. Chi ha studiato questo progetto magari aveva un'idea strategica, ma non ha fatto i conti con gli interessi dei vari stakeholder. 
+Il progetto della *Superlega* avrebbe fatto contenti i proprietari perché avrebbero attirato più soldi, inoltre alcuni giocatori avrebbero avuto uno stipendio più alto. Ma altri stakeholder sarebbero stati scontenti: i tifosi, le organizzazioni di calcio nazionali ed europee, la *FIFA*, i politici di varie nazioni. Chi ha studiato questo progetto magari aveva un'idea strategica, ma non ha fatto i conti con gli interessi dei vari stakeholder.
 
-L'imprenditore ha una funzione politica: deve guidare l'impresa per tradurre le idee del proprietario in termini reali, ma deve tenere in equilibrio le esigenze dei vari stakeholder. 
+L'imprenditore ha una funzione politica: deve guidare l'impresa per tradurre le idee del proprietario in termini reali, ma deve tenere in equilibrio le esigenze dei vari stakeholder.
 
 Un'analisi sull'organo imprenditoriale comprende quante persone compongono il vertice imprenditoriale, quali esperienze hanno, quali capacità hanno di ascoltare i vari stakeholder. Ognuno ha il proprio carattere, la propria propensione al rischio.
 
@@ -215,7 +215,7 @@ Ciascun assetto può richiedere operazioni di modifica, soprattutto quando cresc
 
 Anche l'assetto imprenditoriale può modificarsi. Quando l'impresa è piccola bastano per es. un paio di persone, ma quando serve coordinare un assetto operativo sempre più complesso (tante persone, mercati geografici diversi) è necessario favorire l'ingresso di altre persone nel vertice imprenditoriale.
 
-Quando nacque la *Apple* Wozniak si occupava di produrre il proprio progetto di computer nel suo garage, mentre Jobs gestiva la parte imprenditoriale. Poi l'assetto proprietario è cambiato per la necessità di maggiori investimenti. Anche l'assetto imprenditoriale ha visto arrivare altra gente oltre a Jobs. E pure l'assetto operativo è cambiato, partendo da una persona che lavorava in garage fino a comprendere migliaia di persone tra chi produce l'hardware e chi il software. 
+Quando nacque la *Apple* Wozniak si occupava di produrre il proprio progetto di computer nel suo garage, mentre Jobs gestiva la parte imprenditoriale. Poi l'assetto proprietario è cambiato per la necessità di maggiori investimenti. Anche l'assetto imprenditoriale ha visto arrivare altra gente oltre a Jobs. E pure l'assetto operativo è cambiato, partendo da una persona che lavorava in garage fino a comprendere migliaia di persone tra chi produce l'hardware e chi il software.
 
 I cambiamenti che avvengono all'interno dipendono in buona parte da quello che succede fuori, quindi il contesto ambientale/competitivo comporta un'evoluzione alla struttura dell'impresa. Es. un'impresa sta vendendo i suoi prodotti ma il mercato è cresciuto ancora di più, c'è un gap tra quello che riesce a vendere e il tasso di crescita del mercato. Un concorrente potrebbe raccogliere questo gap al posto dell'impresa.
 
@@ -229,7 +229,7 @@ Oltre al soggetto proprietario possiamo vedere il **top management**, che rappre
 
 Il patrimonio netto è il capitale di rischio a disposizione. Il PFN (Cassa) è il capitale di terzi.
 
-Un segnale sull'andamento del sistema operativo lo possiamo vedere tramite il totale dei ricavi. *Eni* aveva 77 miliardi di ricavi nel 2018, ma nel 2019 è scesa a 71 miliardi. 
+Un segnale sull'andamento del sistema operativo lo possiamo vedere tramite il totale dei ricavi. *Eni* aveva 77 miliardi di ricavi nel 2018, ma nel 2019 è scesa a 71 miliardi.
 
 Questi aspetti ci danno un'idea delle caratteristiche dell'impresa e dell'andamento del sistema operativo.
 
@@ -270,7 +270,7 @@ La definizione di una strategia aziendale segue diversi passaggi:
 - analisi:
   - dell'ambiente esterno
   - del potenziale: un'analisi interna per capire quali sono le nostre potenzialità
-- analisi S.W.O.T.: forze e debolezze della nostra impresa e opportunità e minacce dall'esterno
+- analisi SWOT: forze e debolezze della nostra impresa e opportunità e minacce dall'esterno
 
 Dalle valutazioni fatte attraverso queste analisi si arriva a generare e selezionare delle alternative strategiche e si definisce il progetto imprenditoriale.
 
@@ -288,10 +288,10 @@ L'ambiente esterno è formato da vari livelli:
 
 Per analizzare il macroambiente viene fatta l'analisi:
 
-- di alcune variabili, chiamate **P.E.S.T.E.L.** dall'iniziale dei loro nomi, che determinano le sfide e le opportunità più importanti per l'impresa, variabili che nessuna impresa può governare ma che comunque si verificano e incidono su di essa
+- di alcune variabili, chiamate **PESTEL** dall'iniziale dei loro nomi, che determinano le sfide e le opportunità più importanti per l'impresa, variabili che nessuna impresa può governare ma che comunque si verificano e incidono su di essa
 - delle attese degli stakeholder, cioè delle esigenze di tutti i soggetti con interessi nell'impresa
 
-Le variabili P.E.S.T.E.L. (in alcuni testi solo P.E.S.T.) riguardano diversi fattori:
+Le variabili PESTEL (in alcuni testi solo PEST) riguardano diversi fattori:
 
 - politici
 - economici
@@ -300,7 +300,7 @@ Le variabili P.E.S.T.E.L. (in alcuni testi solo P.E.S.T.) riguardano diversi fat
 - ecologici
 - legali
 
-Volendo si può aggiungere un ulteriore fattore, una S.:
+Volendo si può aggiungere un ulteriore fattore, una S:
 
 - sanitari: fattori divenuti importanti soprattutto in tempi di pandemia, per molti ha rappresentato una grande opportunità, es. *Amazon*, per altri grandi perdite, es. musei, ristoranti, turismo
 
@@ -380,7 +380,7 @@ Anche in ambito medico ci sono state evoluzioni: una volta fare una cataratta er
 
 Oggi una stampante 3D ha costi elevati per un privato, ma magari tra 10 anni sarà più accessibile e potrebbero essere usate per costruire prodotti capaci di sostituirne altri presenti sul mercato.
 
-Il videonoleggio è scomparso, travolto dalla fruizione di contenuti video digitali. *Netflix* faceva inizialmente videonoleggio su corrispondenza, ma ha creduto subito al servizio di video in streaming. 
+Il videonoleggio è scomparso, travolto dalla fruizione di contenuti video digitali. *Netflix* faceva inizialmente videonoleggio su corrispondenza, ma ha creduto subito al servizio di video in streaming.
 
 Le imprese devono essere in grado di analizzare e anticipare queste situazioni. Quelle che sono rimaste indietro sulla tecnologia spesso hanno avuto gravi conseguenze.
 
@@ -402,7 +402,7 @@ Questi fattori corrispondono a una crescente sensibilità nei confronti dell'eco
 
 Un gruppo politico di Nazioni diverse (es. l'*Unione Europea*) si coordina per ridurre il consumo di risorse e l'emissione dei gas serra. Questo comporta dei vincoli che impegneranno le aziende a utilizzare risorse meno inquinanti. Questo aspetto riguarda fattori ecologici ma anche politici.
 
-Alcune aziende ci tengono a specificare che i loro prodotti sono cibi biologici oppure sono confezionati con materiali riciclabili. Tale situazione può quindi rappresentare un valore per il cliente. 
+Alcune aziende ci tengono a specificare che i loro prodotti sono cibi biologici oppure sono confezionati con materiali riciclabili. Tale situazione può quindi rappresentare un valore per il cliente.
 
 Ci sono dei fondi d'investimento che investono solo su imprese capaci di fare sviluppo ecosostenibile.
 
@@ -418,7 +418,7 @@ La normativa sul lavoro è caratterizzata da una serie di vincoli importanti. In
 
 Anche i rider che fanno l'asporto sono sotto una normativa particolare, praticamente a cottimo. Se la normativa lavorativa imponesse l'assunzione da parte delle aziende lo scenario cambierebbe parecchio: i costi del personale sarebbero ben diversi, se uno sta male ne deve assumere un altro.
 
-Nel caso di *Amazon* molti corrieri sono dipendenti. Per rientrare nei costi l'azienda cerca di fargli fare una quantità di consegne estenuante. 
+Nel caso di *Amazon* molti corrieri sono dipendenti. Per rientrare nei costi l'azienda cerca di fargli fare una quantità di consegne estenuante.
 
 Una nuova direttiva europea impone che le aziende che producono elettrodomestici devono rendere reperibili le parti di ricambio per almeno 10 anni. Le imprese dovranno tenere magazzini più grandi per tenere i pezzi.
 
@@ -470,7 +470,7 @@ Per i concorrenti attuali, la concorrenza deriva da una serie di fattori:
 - **scarsa differenziazione di prodotto**:
   - alcuni prodotti vengono percepiti come indistinguibili da quelli della concorrenza, più il prodotto è simile più c'è concorrenza
   - la benzina grosso modo è tutta uguale, quando una persona deve fare benzina in genere sceglierà il posto più vicino o il posto che costa meno
-  - due fast food potrebbero offrire cibo grosso modo simile nella percezione del consumatore, mentre tra due ristoranti stellati il prodotto offerto può variare notevolmente 
+  - due fast food potrebbero offrire cibo grosso modo simile nella percezione del consumatore, mentre tra due ristoranti stellati il prodotto offerto può variare notevolmente
 - **eccesso di capacità produttiva**:
   - l'impresa ha prodotto più della domanda, deve quindi vendere tanto magari abbassando i prezzi
   - se anche gli altri concorrenti facessero lo stesso, il prodotto arriverebbe con il tempo ad avere un prezzo vicino al valore dei costi
@@ -502,11 +502,11 @@ Oppure se una soluzione alternativa costa molto meno di un'altra potrebbe attira
 
 I clienti e i fornitori non sono concorrenti dell'impresa a livello di offerta di prodotti, ma competono per l'ottenimento di parte del valore creato.
 
-Il cliente cercherà di ottenere dall'impresa lo stesso prodotto ad un prezzo più basso possibile. Una parte del valore che era dell'impresa passerà di conseguenza al cliente. 
+Il cliente cercherà di ottenere dall'impresa lo stesso prodotto ad un prezzo più basso possibile. Una parte del valore che era dell'impresa passerà di conseguenza al cliente.
 
 Il fornitore ha interessi simili, cercherà di fornire beni all'impresa ad un prezzo più alto possibile.
 
-Il **potere contrattuale** del cliente e del fornitore è generato da un rapporto di forza, un potere di condizionamento di un soggetto esercitabile su un altro soggetto. L'impresa deve cercare di avere sempre delle alternative e di non dipendere unicamente da alcuni soggetti che potrebbero imporre nel tempo qualunque condizione. 
+Il **potere contrattuale** del cliente e del fornitore è generato da un rapporto di forza, un potere di condizionamento di un soggetto esercitabile su un altro soggetto. L'impresa deve cercare di avere sempre delle alternative e di non dipendere unicamente da alcuni soggetti che potrebbero imporre nel tempo qualunque condizione.
 
 Per es. un'azienda che produce portafogli esclusivamente per un grande marchio potrebbe essere in difficoltà nel caso la marca decidesse di pagare meno. O l'azienda accetta di guadagnare meno o cerca qualcos'altro guadagnando zero nel frattempo.
 
@@ -520,13 +520,13 @@ Si suddivide l'intera attività in varie sottoattività, per es. gestione delle 
 
 La strategia dell'impresa deve mantenere gli elementi di forza e deve ridurre gli elementi di debolezza. Più è forte in certe attività più sarà in grado di beneficiare delle opportunità e di difendersi dalle minacce che possono verificarsi nell'ambiente. Viceversa non sarà in grado di cogliere certe opportunità e sarà più indifesa rispetto alle minacce.
 
-### 7.3. Analisi S.W.O.T.
+### 7.3. Analisi SWOT
 
-L'**analisi S.W.O.T.** (Strengths, Weaknesses, Opportunities, Threats) è uno strumento usato per valutare i punti di forza e di debolezza interni all'impresa e le opportunità e le minacce dell'ambiente esterno.
+L'**analisi SWOT** (Strengths, Weaknesses, Opportunities, Threats) è uno strumento usato per valutare i punti di forza e di debolezza interni all'impresa e le opportunità e le minacce dell'ambiente esterno.
 
 Questa analisi è il frutto congiunto dell'analisi dell'ambiente esterno e del potenziale.
 
-Per es. l'analisi S.W.O.T. della *Apple* nell'anno fiscale 2020 ha i seguenti risultati:
+Per es. l'analisi SWOT della *Apple* nell'anno fiscale 2020 ha i seguenti risultati:
 
 - punti di forza: ricerca e sviluppo, canali di distribuzione, crescita dei ricavi
 - punti di debolezza: azioni legali, profittabilità in calo
@@ -540,4 +540,10 @@ Apostrofi: ok
 Grammatica: ok
 Numeri sezione: ok
 Codice: ok
+-->
+
+<!--
+Data: 13/05/2021
+Lint: ok
+Acronimi senza punti: ok
 -->
