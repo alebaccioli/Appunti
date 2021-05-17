@@ -6,6 +6,7 @@ Pagina del corso: [Agenzia Formativa TESEO](http://www.teseoagenzia.it/digital-y
 
 ## Materie
 
+- [Accompagnamento al lavoro](appunti/accompagnamento-al-lavoro.md)
 - [Analisi del contesto](appunti/analisi-del-contesto.md)
 - [Composizione di una newsletter](appunti/composizione-di-una-newsletter.md)
 - [Definizione del progetto di e-business](appunti/definizione-del-progetto-di-e-business.md)
