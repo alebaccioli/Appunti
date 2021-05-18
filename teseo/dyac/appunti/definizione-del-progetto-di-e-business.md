@@ -11,8 +11,6 @@
 
 ## 1. Introduzione
 
-**Data lezione**: 07/05/2021
-
 Una volta creata la propria attività online, è oggi indispensabile fare advertising sui social per promuoverla. Questo è dovuto al fatto che i social oggi sono saturi e senza promozione i nostri contenuti li vedrebbero in pochi.
 
 Avere un e-commerce è un punto di partenza per la propria attività, ma poi va fatto un grande lavoro di comunicazione e di advertising. Per fare advertising serve un budget mensile e il personale adatto. Ci può pensare un'agenzia esterna o si può fare da soli se si ha il tempo per farlo.
@@ -59,4 +57,10 @@ Apostrofi: ok
 Grammatica: ok
 Numeri sezione: ok
 Codice: ok
+-->
+
+<!--
+Data: 18/05/2021
+Rimossa data lez.: ok
+Lint: ok
 -->

@@ -32,8 +32,6 @@
 
 ## 1. Hardware
 
-**Data lezione**: 07/04/2021
-
 Per **hardware** si intende l'insieme delle componenti meccaniche che costituiscono un dispositivo come un computer. La definizione comprende anche dispositivi esterni, chiamati **periferiche**, che permettono di inviare e di ricevere informazioni da un computer.
 
 Le periferiche possono essere suddivise in periferiche di **input** o di **output**:
@@ -121,8 +119,6 @@ Possono esserci anche degli svantaggi:
 È quindi consigliabile utilizzare un **OCR** (Optical Character Recognition), un riconoscimento ottico dei caratteri capace di riconoscere il testo di un'immagine e di convertirlo in caratteri utilizzabili in un computer.
 
 ## 4. Sintetizzazione delle informazioni
-
-**Data lezione**: 21/04/2021
 
 L'informatizzazione ha obbligato a modificare il modo con cui vengono comunicate le informazioni. Internet ha apportato una maggiore comunicazione, spesso fino ad arrivare ad un eccesso. Viene sempre più richiesta oggigiorno una sintetizzazione delle informazioni anche facendo uso di immagini.
 
@@ -238,8 +234,6 @@ Quando si visita un sito web, la prima pagina che viene mostrata è chiamata **h
 *Mirroid* è un'app che permette di portare lo schermo del cellulare sul PC.
 
 #### 5.2.1. Struttura di una pagina
-
-**Data lezione**: 28/04/2021
 
 Il tag `<html>` è il più importante perché definisce l'area all'interno della quale abbiamo il codice della nostra pagina. I file che contengono le pagine devono avere un'estensione `.html`.
 
@@ -417,8 +411,6 @@ Pagina: ok
 
 ### 5.7. Forum
 
-**Data lezione**: 05/05/2021
-
 I **forum** nacquero prima dei blog. Sono luoghi di discussione strutturati in topic, ciascuno dei quali racchiude una discussione su quell'argomento. [*Connect.gt*](https://connect.gt/) è un esempio di forum.
 
 All'interno di un forum è presente un **amministratore**, il cui compito è di fare in modo che tutto funzioni bene e di moderare le discussioni, evitando parolacce o argomenti fuori dalle regole. Se un utente viola le regole può essere espulso temporaneamente o permanentemente, cioè essere *bannato*.
@@ -436,5 +428,11 @@ Codice: ok
 
 <!--
 Data: 13/05/2021
+Lint: ok
+-->
+
+<!--
+Data: 18/05/2021
+Rimossa data lez.: ok
 Lint: ok
 -->

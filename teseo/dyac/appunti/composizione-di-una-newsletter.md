@@ -20,8 +20,6 @@
 
 ## 1. Tipi di comunicazione
 
-**Data lezione**: 12/04/2021
-
 ### 1.1. Newsletter
 
 Una **newsletter** è un messaggio di posta elettronica inviato sistematicamente agli iscritti per informarli sulle novità di un sito o sulle caratteristiche di un prodotto o servizio.
@@ -85,8 +83,6 @@ Possiamo fare una partnership con un **portale** del settore, ossia un sito web 
 Molte di queste promozioni prevedono costi, è quindi necessario fare una valutazione dei costi/benefici. Possiamo però a nostra volta permettere ad altre aziende di pubblicizzare la loro attività sfruttando il nostro sistema di newsletter e i nostri iscritti, ottenendo in cambio un compenso.
 
 ## 3. Farsi conoscere dalle aziende
-
-**Data lezione**: 19/04/2021
 
 Molto spesso le newsletter subiscono una cattiva sorte: possono essere ignorate perché finite in mezzo ad una moltitudine di altre email, venire cestinate perché ripetitive o finire in automatico nella cartella spam.
 
@@ -169,5 +165,11 @@ Info corso: ok
 
 <!--
 Data: 13/05/2021
+Lint: ok
+-->
+
+<!--
+Data: 18/05/2021
+Rimossa data lez.: ok
 Lint: ok
 -->

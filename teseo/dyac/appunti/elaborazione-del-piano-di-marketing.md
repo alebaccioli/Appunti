@@ -49,8 +49,6 @@
 
 ## 1. Introduzione
 
-**Data lezione**: 15/04/2021
-
 Il marketing è diventato sempre più importante anche per le piccole-medie imprese. Si è passati da un orientamento al prodotto o alla vendita a un orientamento al mercato. Questi concetti sono fondamentali a prescindere dalla tecnologia usata, dal marketing classico al marketing digitale. Poi a seconda dei mercati la tendenza è quella di gestire strategie e prodotti tramite il web marketing.
 
 Il primo passaggio per fare marketing è svolgere un'analisi della situazione esistente dell'azienda, del mercato e della concorrenza. Questa parte può essere realizzata tramite un **sistema informativo di marketing**, un insieme di persone, strumenti e procedure che raccoglie, organizza, analizza, valuta e distribuisce informazioni accurate e aggiornate e che permette di definire le strategie aziendali.
@@ -215,8 +213,6 @@ Devono essere indicati tutti i programmi operativi necessari alla realizzazione 
 Oltre a questo si indicano le modalità di controllo ritenute più opportune per seguire i processi arrivati.
 
 ## 4. Prodotti e servizi
-
-**Data lezione**: 22/04/2021
 
 Un **prodotto**:
 
@@ -414,8 +410,6 @@ La **matrice prodotto-mercato** permette di incrociare i prodotti con i vari seg
 
 ## 6. Ricerche di mercato
 
-**Data lezione**: 29/04/2021
-
 Per **ricerca di mercato** s'intende la raccolta, l'analisi e l'elaborazione di dati e informazioni rispetto ad uno specifico problema di marketing dell'azienda o dell'organizzazione.
 
 Per decidere il **mercato obiettivo** al quale l'impresa rivolgerà la propria offerta, è necessario che l'impresa risponda ad alcune domande:
@@ -603,8 +597,6 @@ Codice: ok
 
 ## 8. Piano delle vendite
 
-**Data lezione**: 06/05/2021
-
 Una volta definito il prezzo delle varie linee di prodotto o servizio, possiamo ora fare delle previsioni sulle vendite attraverso il **piano delle vendite**.
 
 Per sviluppare un piano delle vendite occorre scegliere:
@@ -733,4 +725,10 @@ Codice: ok
 Data: 13/05/2021
 Lint: ok
 Acronimi senza punti: ok
+-->
+
+<!--
+Data: 18/05/2021
+Rimossa data lez.: ok
+Lint: ok
 -->

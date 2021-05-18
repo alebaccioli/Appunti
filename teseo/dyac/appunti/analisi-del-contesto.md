@@ -40,8 +40,6 @@
 
 ## 1. Attività economica
 
-**Data lezione**: 16/04/2021
-
 L'**attività economica** è la soddisfazione dei **bisogni** attraverso l'utilizzo di **fattori produttivi**, cioè degli elementi necessari alla produzione di un bene o all'erogazione di un servizio. Anche l'attività delle persone è un fattore produttivo.
 
 I bisogni sono tendenzialmente illimitati, sono frutto delle esigenze che ciascun individuo ha. Invece i fattori produttivi non sono illimitati: per quanto numerosi e vari possano essere non saranno mai sufficienti a soddisfare tutti i bisogni. Inoltre, molti fattori produttivi sono alternativi: se li usiamo per soddisfare un bisogno li consumiamo (trasformiamo) per quel bisogno e non li possiamo usare per soddisfarne altri.
@@ -136,8 +134,6 @@ Stessa cosa sta succedendo con *Amazon*, con il personale costretto a fare turni
 L'impresa quindi deve considerare tante situazioni e soggetti.
 
 ## 5. Struttura aziendale
-
-**Data lezione**: 23/04/2021
 
 La **struttura aziendale** è un sistema di caratteri aziendali qualitativi e quantitativi che tende a cogliere il senso globale del sistema aziendale attraverso l'analisi dei suoi elementi principali (assetto proprietario, assetto imprenditoriale, assetto operativo).
 
@@ -324,8 +320,6 @@ Un locale frequentato da molte persone in orario notturno, che fanno chiasso e g
 
 ##### 7.1.1.2. Fattori economici
 
-**Data lezione**: 30/04/2021
-
 L'attività di un'impresa può essere influenzata dall'andamento dell'economia di un territorio.
 
 Un abbassamento del PIL può limitare le attività di una località, per es. non si fanno vacanze o si dedica ad esse un tempo minore.
@@ -448,8 +442,6 @@ Pagina: ok
 
 ##### 7.1.1.7. Fattori sanitari
 
-**Data lezione**: 03/05/2021
-
 La pandemia ha influito su tutte le attività economiche del mondo. Per molte di queste ha rappresentato una minaccia (es. ristoratori), per altre un'opportunità (es. *Amazon*, *Netflix*).
 
 Oltre alla pandemia, anche altri problemi sanitari più o meno estesi hanno influito su certe attività economiche: per es. la mucca pazza e l'influenza aviaria impattarono sui macellai e sugli allevamenti.
@@ -546,4 +538,10 @@ Codice: ok
 Data: 13/05/2021
 Lint: ok
 Acronimi senza punti: ok
+-->
+
+<!--
+Data: 18/05/2021
+Rimossa data lez.: ok
+Lint: ok
 -->

@@ -53,8 +53,6 @@
 
 ## 1. Introduzione
 
-**Data lezione**: 13/04/2021
-
 Negli ultimi anni molte aziende hanno fatto sempre più ricorso ai servizi offerti dal web, fenomeno accentuato di recente dalla pandemia.
 
 Per parlare di web marketing è necessario comprendere prima cosa sia il marketing. Fare marketing, che sia online o offline, richiede una strategia idonea per far sì che gli investimenti richiesti portino i risultati aspettati.
@@ -120,8 +118,6 @@ Alcune parole-chiave rappresentano le condizioni necessarie per un processo di m
 **Nota**: costo e prezzo sono due grandezze diverse, non vanno usati come sinonimi.
 
 ## 4. Dimensioni del marketing
-
-**Data lezione**: 20/04/2021
 
 Il marketing crea valore per il cliente attraverso tre dimensioni:
 
@@ -256,8 +252,6 @@ La posizione dei prodotti sugli scaffali ha un certo peso nel marketing: gli stu
 Il **CRM** (Customer Relationship Management) è un sistema gestionale in grado di raccogliere i dati dei clienti da varie fonti, es. email e social, ed analizzarli in modo da fornirci una panoramica sui nostri clienti, es. coloro che nell'ultimo mese hanno fatto un accesso sul nostro sito ma non hanno fatto un acquisto.
 
 ## 6. Segmentazione
-
-**Data lezione**: 27/04/2021
 
 L'impresa deve conoscere le caratteristiche dei propri potenziali consumatori per poter creare un valore. Per fare questo è necessario **segmentare** il mercato per definire un **target** di clientela. L'impresa deve suddividere il mercato in segmenti di consumatori dove ciascun consumatore è omogeneo all'interno del segmento ed eterogeneo fuori dal segmento.
 
@@ -425,8 +419,6 @@ Pagina: ok
 
 ## 7. Posizionamento
 
-**Data lezione**: 04/05/2021
-
 Un concetto di marketing fondamentale che affianca la segmentazione è il posizionamento. Una volta segmentato il mercato si costruisce la proposta di valore e si va poi a definire il posizionamento.
 
 Il **posizionamento** del prodotto (e/o della marca) indica come questo si colloca nella mente dei consumatori con riferimento all'**insieme evocato**, ovvero alle alternative di scelta percepite per soddisfare un bisogno o un desiderio, e in base agli attributi che determinano risposte differenziate degli acquirenti.
@@ -557,8 +549,6 @@ Codice: ok
 -->
 
 ### 8.2. Analisi della struttura dell'ambiente competitivo
-
-**Data lezione**: 11/05/2021
 
 Tra i metodi utilizzati per studiare l'ambiente competitivo abbiamo il modello delle **cinque forze competitive** di Porter. Si tiene conto di cinque forze competitive sulla base delle quali si ottiene la redditività dell'impresa.
 
@@ -760,4 +750,10 @@ Lint: ok
 Grammatica: ok
 Codice: ok
 Numeri sezione: ok
+-->
+
+<!--
+Data: 18/05/2021
+Rimossa data lez.: ok
+Lint: ok
 -->
