@@ -26,11 +26,25 @@
 - [5. Tecnologia](#5-tecnologia)
   - [5.1. Portata degli utenti](#51-portata-degli-utenti)
   - [5.2. Hosting](#52-hosting)
-  - [5.3. Piattaforma](#53-piattaforma)
+  - [5.3. Piattaforme](#53-piattaforme)
+    - [5.3.1. Open source](#531-open-source)
+    - [5.3.2. A pagamento](#532-a-pagamento)
+    - [5.3.3. Custom](#533-custom)
+    - [5.3.4. SaaS](#534-saas)
 - [6. PrestaShop](#6-prestashop)
-  - [6.1. Configurazione](#61-configurazione)
-  - [6.2. Front office](#62-front-office)
-  - [6.3. Back office](#63-back-office)
+  - [6.1. Installazione](#61-installazione)
+  - [6.2. Aspetto](#62-aspetto)
+  - [6.3. Ordini](#63-ordini)
+  - [6.4. Catalogo](#64-catalogo)
+    - [6.4.1. Prodotti](#641-prodotti)
+      - [6.4.1.1. Impostazioni di base](#6411-impostazioni-di-base)
+      - [6.4.1.2. Combinazioni](#6412-combinazioni)
+      - [6.4.1.3. Prezzi](#6413-prezzi)
+      - [6.4.1.4. Opzioni](#6414-opzioni)
+    - [6.4.2. Categorie](#642-categorie)
+    - [6.4.3. Attributi e Funzionalità](#643-attributi-e-funzionalità)
+  - [6.5. Moduli](#65-moduli)
+  - [6.6. Design](#66-design)
 
 ## 1. E-commerce
 
@@ -210,17 +224,32 @@ Secondo le linee guida di *Google* un sito dovrebbe richiedere da 1 a 3 secondi 
 
 [*GTmetrix*](https://gtmetrix.com/) misura la velocità di un sito web, alcune funzionalità sono gratuite.
 
-### 5.3. Piattaforma
+### 5.3. Piattaforme
 
-Per costruire il nostro e-shop possiamo scegliere il tipo di piattaforma da usare.
+Per costruire il nostro e-shop dobbiamo scegliere il tipo di piattaforma da usare.
 
-Le piattaforme si suddividono in:
+I fattori di scelta sono molteplici:
 
-- **open source**: alcune aziende o comunità di sviluppatori mettono a disposizione il nucleo di un programma gratuitamente, magari con servizi accessori a pagamento
-- su **licenza**: sono piattaforme a pagamento ma in genere offrono un'assistenza più professionale
-- da **zero**: serve un gruppo di programmatori dalle idee chiare, è un'operazione costosa e potenzialmente pericolosa se l'agenzia non fa le cose bene, però è altamente personalizzabile
+- budget a disposizione
+- grandezza del progetto
+- complessità della gestione e competenze del personale
+- affidabilità
+- velocità del sito e dello sviluppo della piattaforma
+- integrazione con sistemi gestionali
+- integrazione con marketplace come *Amazon*
+- indipendenza con il servizio
 
-Sono molte le piattaforme già pronte che possiamo usare per creare un e-shop, qua di seguito si trovano alcune tra le più famose.
+È importante controllare la reputazione del fornitore, magari tramite delle recensioni. Meglio affidarsi a sistemi conosciuti e già collaudati.
+
+Possiamo optare per più soluzioni. Per es. un sito di vela fatto in *WordPress* può usare un semplice plugin per vendere qualche lezione, mentre il catalogo dei prodotti viene gestito con *PrestaShop*.
+
+Le piattaforme si suddividono in open source, a pagamento, custom, SaaS.
+
+[*Wappalyzer*](https://www.wappalyzer.com/) è un sito che permette di identificare la tecnologia usata da un sito, per es. il tipo di e-shop installato.
+
+#### 5.3.1. Open source
+
+Le piattaforme **open source** sono gestite da alcune aziende o comunità di sviluppatori che mettono a disposizione il nucleo del programma gratuitamente, spesso con servizi accessori a pagamento.
 
 ***PrestaShop*** è semplice ma potente, è molto conosciuto, gestisce cataloghi relativamente ampi ma non è ottimizzato per progetti giganteschi. Per funzionare bene richiede svariati plugin che sono spesso a pagamento e che appesantiscono lievemente la macchina.
 
@@ -228,17 +257,47 @@ Sono molte le piattaforme già pronte che possiamo usare per creare un e-shop, q
 
 ***Magento*** è più orientato verso progetti medio-grandi, ha una grande community. È una piattaforma potente ma complessa.
 
-***Shopify*** è molto semplice da avviare perché all'installazione pensano loro, effettua assistenza, permette di gestire il drop shipping. A differenza degli altri non è open source, ci obbliga a usare i loro server, vi sono poche interazioni con sistemi gestionali, si basa su un canone mensile e anche su una percentuale per ogni acquisto. In sintesi è molto semplice da configurare ma non si è padroni della piattaforma.
+Da menzionare anche ***OpenCart***. ***Joomla!*** e ***Drupal*** erano molto in voga una volta, ma sono ora un po' in decadimento.
 
-[*Wappalyzer*](https://www.wappalyzer.com/) è un sito che permette di identificare la tecnologia usata da un sito, es. il tipo di e-shop installato.
+#### 5.3.2. A pagamento
+
+In questo caso abbiamo piattaforme **a pagamento**, già pronte e collaudate con un'assistenza più professionale.
+
+Alcune aziende possono anche offrire l'utilizzo dei loro server oppure possiamo usare i nostri. Si riesce ad aprire l'e-shop velocemente ed è molto stabile.
+
+Alcune piattaforme richiedono pacchetti *enterprise* aggiuntivi che forniscono un grande livello di assistenza.
+
+Per contro si paga tutto, anche le piccole personalizzazioni. Richiedono quindi un discreto budget.
+
+Tra le più importanti abbiamo ***Magento Enterprise***.
+
+#### 5.3.3. Custom
+
+Le piattaforme **custom** sono create da zero da un gruppo di programmatori.
+
+Permettono di avere la massima flessibilità perché vengono costruite secondo le esigenze dell'azienda.
+
+Un progetto del genere richiede un team di sviluppo importante dalle idee chiare, altrimenti il rischio che alla lunga qualcosa non funzioni bene può essere alto.
+
+Richiede un budget significativo e l'azienda può rimanere vincolata al team di sviluppo, visto che un altro team potrebbe non essere in grado di lavorare sul quel software.
+
+#### 5.3.4. SaaS
+
+Le piattaforme **SaaS** (Software as a Service) sono già pronte, già configurate e già caricate sul server.
+
+Permettono di creare un e-shop in pochissimo tempo senza particolari competenze. Supportano carichi elevati e offrono assistenza.
+
+Per contro non siamo proprietari del sito visto che è fornito da loro, non possiamo usare i nostri server, il codice è blindato e non permette grandi personalizzazioni, hanno un costo mensile e provvigioni sulle vendite. Si usa il software come servizio senza possederlo.
+
+***Shopify*** è tra i più famosi ed utilizzati. Da menzionare anche ***BigCommerce***.
 
 ## 6. PrestaShop
 
 ***PrestaShop*** è uno degli e-shop più famosi ed è open source.
 
-### 6.1. Configurazione
+### 6.1. Installazione
 
-I passaggi necessari per configurare questa piattaforma sono:
+I passaggi necessari per installare questa piattaforma sono:
 
 - collegarsi sul sito di [*PrestaShop*](https://www.prestashop.com/it/download), selezionare il profilo idoneo (es. freelance), inserire l'email (opzionale), accettare la politica e le condizioni di utilizzo, scaricare il file (il cui nome sarà simile a `prestashop_1.7.7.4.zip`)
 - se non abbiamo un programma che gestisce i file compressi bisogna installarne uno, es. [*WinZip*](https://www.winzip.com/win/it/downwz.html), *Windows 10* ne ha già uno integrato
@@ -252,8 +311,11 @@ I passaggi necessari per configurare questa piattaforma sono:
 - trascinare il contenuto nella parte destra
 - il sito sarà visibile all'indirizzo `www.gammadv.it/xy`, dove `xy` corrisponde al numero del nostro account (es. `01`)
 - da test fatti da me è necessario dire a *FileZilla* di non usare TLS
+- il back office si trova all'indirizzo `www.gammadv.it/xy/admin`
+- per motivi di sicurezza, dopo il primo accesso il nome della cartella `admin` viene cambiato con un nome casuale
+- sempre per motivi di sicurezza, dopo un tot di tempo che siamo nel back office senza fare azioni l'e-shop richiede nuovamente i dati di login per rientrare
 
-### 6.2. Front office
+### 6.2. Aspetto
 
 Il **front office** corrisponde all'interfaccia tramite la quale il visitatore opera acquisti sul nostro e-shop.
 
@@ -263,17 +325,7 @@ Poi abbiamo una presentazione dei prodotti e delle promozioni in risalto. È da 
 
 Nel footer, cioè nel piè di pagina, sono racchiuse informazioni che possono aiutare il visitatore, come l'indirizzo e i contatti dell'azienda. Queste informazioni migliorano la professionalità dell'azienda e rassicurano il visitatore. Alcune di queste sono obbligatorie, come il numero della partita IVA.
 
-### 6.3. Back office
-
-Il **back office** è la parte amministrativa che permette di gestire il proprio e-shop.
-
-Nella sezione *Ordini* possiamo vedere la lista degli ordini in lavorazione. Possiamo aggiornare lo stato dell'ordine e vedere informazioni sul cliente che ha effettuato l'acquisto. È importante dare continue informazioni al cliente per aggiornarlo sullo stato dell'ordine.
-
-Nella sezione *Prodotti* possiamo gestire i prodotti da vendere. La *categoria principale* di un prodotto è importante nel caso volessimo esportare il nostro catalogo per es. su *eBay*.
-
-*Prezzi specifici* permette di applicare degli sconti su certi prodotti per certi periodi. *Prodotto con combinazioni* permette di configurare un prodotto per diverse taglie e colori.
-
-In tal caso è utile personalizzare la sezione *Attributi e Funzionalità* per definire le specifiche dei prodotti.
+Il **back office** è la parte amministrativa che permette di gestire il proprio e-shop. Sono molte le sezioni che lo compongono.
 
 <!--
 Data: 11/05/2021
@@ -282,6 +334,128 @@ Nome file: ok
 
 <!--
 Data: 15/05/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+### 6.3. Ordini
+
+Nella sezione ***Ordini*** possiamo vedere la lista degli ordini in lavorazione.
+
+Possiamo aggiornare lo stato dell'ordine e vedere informazioni sul cliente che ha effettuato l'acquisto.
+
+È importante dare continue informazioni al cliente per aggiornarlo sullo stato dell'ordine.
+
+### 6.4. Catalogo
+
+La sezione ***Catalogo*** permette di gestire e organizzare i prodotti del nostro e-shop.
+
+#### 6.4.1. Prodotti
+
+La sottosezione ***Prodotti*** permette di aggiungere e gestire i prodotti del catalogo.
+
+Una volta creato, di base un prodotto viene automaticamente messo offline e non è visibile. Va quindi manualmente messo online.
+
+##### 6.4.1.1. Impostazioni di base
+
+Possiamo aggiungere diverse foto a un prodotto. Il *riepilogo* è una breve frase che descrive il prodotto ed è importante ai fini SEO, mentre la *descrizione* permette di aggiungere tanti dettagli in modo da soddisfare la curiosità del visitatore.
+
+La descrizione non deve essere un copia-incolla di altri siti. *Google* se ne accorgerebbe penalizzando il sito. Molti e-shop lo fanno per pigrizia, ma serve impegnarsi per scrivere descrizioni genuine. Anche copiare la descrizione ufficiale del produttore è considerata una copia.
+
+Se possibile è bene avere uno stile nelle descrizioni che sia coerente tra i vari prodotti: da evitare per es. una descrizione in colore blu e un'altra in colore rosso.
+
+La *caratteristica* permette di formare una scheda tecnica. Qua possiamo sceglierle, ma vanno prima definite in *Attributi e Funzionalità*.
+
+Possiamo aggiungere la *marca* del prodotto, da definire prima in *Marche & Fornitori*. Possiamo poi fare un menù di ricerca per marche.
+
+*Prodotto collegato* serve per fare upselling, cioè mostrare dei prodotti correlati per invitare l'utente ad acquistare ancora. Es. compra una pianta e viene mostrato un vaso.
+
+*Riferimento* è un codice che viene usato per migliorare internamente all'azienda la gestione del prodotto (es. codice dato dal fornitore).
+
+Oltre alla *quantità* di prodotto disponibile e al *prezzo* dobbiamo scegliere le *categorie* associate. Possiamo sceglierne diverse, ma una dovrà essere definita come *categoria principale*, sarà utile in caso di esportazione del catalogo.
+
+La categoria *Home* permette di mostrare il prodotto in evidenza in homepage, il cui aspetto può essere gestito tramite il modulo *Prodotti in vetrina*.
+
+##### 6.4.1.2. Combinazioni
+
+Possiamo definire un prodotto disponibile con attributi diversi, per es. colore, taglia.
+
+Per farlo scegliamo l'opzione *Prodotto con combinazioni*.
+
+Poi scegliamo gli attributi del prodotto, ma vanno prima definiti in *Attributi e Funzionalità*.
+
+Per ciascuna combinazione possiamo specificare per es. immagini, quantità e prezzi.
+
+##### 6.4.1.3. Prezzi
+
+*Prezzi specifici* permette di applicare degli sconti su certi prodotti per certi periodi.
+
+##### 6.4.1.4. Opzioni
+
+Il codice *EAN* è essenziale se volessimo esportare il catalogo su un marketplace. Per es. *Amazon* non mostra le nostre descrizioni di prodotto, ma ha le sue proprie e sono collegate a questo codice.
+
+È una sequenza di 13 numeri che vediamo nei codici a barre. L'azienda compra dei codici e li associa ai prodotti in maniera univoca in tutto il mondo.
+
+Possiamo *allegare dei file*, per es. un PDF contenente il manuale di istruzioni.
+
+#### 6.4.2. Categorie
+
+La sottosezione ***Categorie*** permette di definire dei gruppi di prodotti simili per tipologia, in modo da aiutare il visitatore a orientarsi nella varietà del catalogo.
+
+È importante progettare accuratamente la struttura delle categorie, altrimenti i visitatori potrebbero perdersi. Possiamo avere delle categorie principali e delle sottocategorie.
+
+Per esempio, una struttura per la vendita di prodotti da giardinaggio può essere:
+
+| Giardinaggio      | Piante e Fiori | Arredo Giardino  |
+| ----------------- | -------------- | ---------------- |
+| Fioriere e Vasi   | Bulbi          | Piscine          |
+| Attrezzi Agricoli | Piante Orto    | Tavoli           |
+| Irrigazione       | Piante Frutto  | Sedie e Poltrone |
+| Laghetti          | Perenni        | Tende            |
+| Recinzioni        | Rampicanti     | Giochi           |
+
+Per ciascuna categoria possiamo associare un'immagine e una descrizione. Quest'ultima è importante per aiutare sia il visitatore sia un motore di ricerca come *Google*, che altrimenti non sarebbe in grado di capire l'argomento della pagina dalle sole foto dei prodotti.
+
+Una volta strutturare le categorie, possiamo metterle nel menù di navigazione in alto nella homepage. Per fare questo dobbiamo configurare un modulo chiamato *Menù principale*.
+
+È buona pratica ricreare nel proprio disco una struttura di cartelle simile a quella delle categorie. All'interno di ciascuna cartella andremo poi a mettere le risorse (es. foto, testi con descrizioni e prezzi) necessarie per ciascun prodotto collegato alla categoria.
+
+Se abbiamo un documento in *Word* contenente la descrizione del prodotto, bisogna fare attenzione quando la si copia su *PrestaShop*. Questo perché, oltre a copiare il testo, copiamo anche le regole di formattazione usate da *Word* che potrebbero creare problemi a *PrestaShop*. Sarebbe meglio scrivere le descrizioni in un editor privo di formattazioni, come il semplice *Blocco note*.
+
+#### 6.4.3. Attributi e Funzionalità
+
+La sottosezione ***Attributi e Funzionalità*** permette di definire gli attributi e le caratteristiche dei nostri prodotti.
+
+In *Attributi* definiamo i valori che corrispondono alle opzioni di scelta per i nostri prodotti quando scegliamo *prodotto con combinazioni*.
+
+Per es. attributo "Colore", valori "Bianco" e "Grigio". Possiamo scegliere come verranno visualizzati a schermo, es. menù a tendina o bottoni.
+
+In *Funzioni* possiamo definire dei valori che selezioniamo nelle *caratteristiche* del prodotto. Queste formano una scheda tecnica che è molto utile per facilitare la ricerca da parte dell'utente.
+
+Per es. caratteristica "RAM", valori "3 GB" e "4 GB".
+
+### 6.5. Moduli
+
+La sezione ***Moduli*** permette di gestire i moduli di *PrestaShop*. I moduli sono piccoli pacchetti di programmazione che servono per completare la piattaforma di e-commerce, per es. statistiche e pagamenti aggiuntivi.
+
+Un'installazione tipica di *PrestaShop* include già parecchi moduli. Non è detto che siano tutti utili per noi e più se ne mettono più probabilmente il sito sarà lento.
+
+***Module Manager*** permette di gestire i moduli già installati sull'e-shop e di aggiornarli.
+
+***Catalogo Moduli*** permette di installare nuovi moduli.
+
+### 6.6. Design
+
+La sezione ***Design*** permette di modificare l'aspetto grafico dell'e-shop.
+
+Se abbiamo le competenze adeguate possiamo modificare l'aspetto noi oppure possiamo comprare un tema già pronto. In ***Catalogo dei Temi*** possiamo accedere allo store dei temi di *PrestaShop*.
+
+<!--
+Data: 31/05/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
