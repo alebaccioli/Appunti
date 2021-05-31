@@ -76,8 +76,6 @@ Esempi di estensioni:
 
 ### 2.3. Collegamenti
 
-**Data**: 14/04/2021
-
 Spesso abbiamo bisogno di un file o una cartella, memorizzati da qualche parte nella nostra memoria, in una posizione più facile da raggiungere, per esempio sul desktop.
 
 Un **collegamento** è un puntatore a un file o a una cartella. Possiamo vederlo come un interruttore che ci permette di utilizzare una lampadina posta più distante. Le icone dei collegamenti si distinguono grazie alla presenza di una freccia.
@@ -435,4 +433,9 @@ Lint: ok
 Data: 18/05/2021
 Rimossa data lez.: ok
 Lint: ok
+-->
+
+<!--
+Data: 31/05/2021
+Rimossa altra data: ok
 -->
