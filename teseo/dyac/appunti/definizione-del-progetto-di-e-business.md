@@ -28,8 +28,15 @@
     - [3.4.4. Inserzioni](#344-inserzioni)
     - [3.4.5. Normative pubblicitarie](#345-normative-pubblicitarie)
     - [3.4.6. Metriche](#346-metriche)
-    - [3.4.7. Esempio di ristorante](#347-esempio-di-ristorante)
-    - [3.4.8. Esempio di hotel](#348-esempio-di-hotel)
+- [4. Esempi di campagne](#4-esempi-di-campagne)
+  - [4.1. Ristorante](#41-ristorante)
+  - [4.2. Hotel](#42-hotel)
+  - [4.3. Centro estetico](#43-centro-estetico)
+  - [4.4. Campagna non efficace](#44-campagna-non-efficace)
+- [5. Consigli di marketing](#5-consigli-di-marketing)
+  - [5.1. Obiettivi di business](#51-obiettivi-di-business)
+  - [5.2. Analisi dei dati](#52-analisi-dei-dati)
+  - [5.3. Capire cosa non va](#53-capire-cosa-non-va)
 
 ## 1. Introduzione
 
@@ -151,11 +158,13 @@ Recentemente la *Apple* ha posto delle limitazioni a questa pratica di tracciame
 
 ### 3.3. Gestore delle vendite
 
-La sezione ***Gestore delle vendite*** permette di collegare il catalogo di un e-shop al proprio *BM* e di gestirlo tramite *Catalogo*.
+La sezione ***Gestore delle vendite*** permette di creare uno shop di prodotti e di gestirlo tramite *Catalogo*.
+
+Possiamo aggiungere i prodotti manualmente, tramite il *pixel* oppure caricando i dati da un gestionale.
+
+È importante considerare che in Europa non è ancora possibile comprare direttamente all'interno di *FB*. Quindi è necessario mostrare un link che rimanda all'e-shop esterno oppure concordarsi per l'acquisto tramite un messaggio.
 
 Attualmente solo negli Stati Uniti è possibile vendere i prodotti direttamente da *FB* o *IG* senza la necessità di un e-commerce esterno. La tendenza sembra favorire la piattaforma di *IG*.
-
-Possiamo esportare il catalogo tramite le opzioni del nostro e-shop oppure usando il *pixel*.
 
 ### 3.4. Gestione inserzioni
 
@@ -339,7 +348,9 @@ Se avessimo un catalogo di prodotti, una metrica importante da considerare è il
 
 I risultati di vecchie campagne rappresentano uno storico importante per calcolare gli investimenti di campagne future.
 
-#### 3.4.7. Esempio di ristorante
+## 4. Esempi di campagne
+
+### 4.1. Ristorante
 
 Abbiamo un'attività di ristorazione che si occupa in particolar modo di pranzi per matrimoni, comunioni e battesimi. Vogliamo creare un post e sponsorizzarlo alle persone in target.
 
@@ -360,7 +371,7 @@ Creiamo un gruppo di inserzioni con il pubblico scelto, un budget di 20 € e la
 
 Creiamo l'inserzione, in questo caso composta da una serie di foto e una breve descrizione.
 
-#### 3.4.8. Esempio di hotel
+### 4.2. Hotel
 
 Abbiamo un hotel, l'obiettivo è portare traffico sul sito web in vista della riapertura di stagione. Non ha ancora il *pixel*.
 
@@ -379,6 +390,108 @@ Nome file: ok
 
 <!--
 Data: 25/05/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+### 4.3. Centro estetico
+
+Un centro estetico ha bisogno di sponsorizzare un trattamento che fa uso di un dispositivo chiamato *4Shape*.
+
+L'azienda ha finora pubblicato i contenuti sulla propria pagina *FB* da sola. Serve ora una promozione più professionale.
+
+Pensiamo alla creatività usando *Canva*. Il testo, i video e le immagini li possiamo prendere dal produttore se li ha. Se invece sono prodotti da altri tecnicamente servirebbero le autorizzazioni per utilizzarli. Ma se la campagna è a livello locale non si corrono molti rischi.
+
+Il logo dell'azienda è meglio metterlo sulla sinistra perché l'occhio tende a leggere da sinistra a destra. Va bene anche centrato.
+
+I capoversi spezzano testi troppo lunghi facilitando la lettura. Le emoticon creano colore a un testo che altrimenti sarebbe troppo piatto.
+
+![Creatività centro estetico](immagini/centro-estetico.jpg)
+
+Per quanto riguarda l'obiettivo, se abbiamo budget possiamo iniziare con copertura per far conoscere il prodotto.
+
+Poi abbiamo diverse scelte. Possiamo usare interazione per capire se l'argomento è interessante in base ai "Mi piace" e alle condivisioni. Oppure messaggi per massimizzare i messaggi di richiesta di informazioni. Oppure generazione di contatti  degli utenti interessati magari a richiedere un preventivo.
+
+Definiamo un pubblico profilato nell'area vicina al centro estetico.
+
+Un'età tra i 30 e i 50 è il target ideale, ma potremmo pensare di estenderla dai 18 in su per far conoscere meglio il brand al pubblico.
+
+Selezioniamo gli interessi relativi all'estetica e alla cura del corpo.
+
+### 4.4. Campagna non efficace
+
+È stata creata una campagna con obiettivo conversioni e un'inserzione di tipo carosello.
+
+La campagna non ha generato risultati soddisfacenti. I motivi non sono chiari e sono da indagare, probabilmente è stato scelto un pubblico o un tipo d'inserzione non idoneo.
+
+Proviamo a scegliere un pubblico diverso mantenendo la stessa inserzione e vediamo come va.
+
+Creiamo un pubblico personalizzato che ha interagito con la pagina *FB*. Poi creiamo un pubblico in Italia simile a quello che ha interagito con la pagina.
+
+La creatività è rimasta la stessa, ma dopo solo pochi giorni i risultati dei due nuovi pubblici sono migliori rispetto al vecchio pubblico.
+
+| Pubblico       | Click | CTR    | CPM     | CPC    |
+| -------------- | ----- | ------ | ------- | ------ |
+| Originale      | 114   | 7,69%  | 14,38 € | 0,19 € |
+| Personalizzato | 219   | 11,28% | 4,27 €  | 0,04 € |
+| Simile         | 203   | 10,41% | 4,41 €  | 0,04 € |
+
+## 5. Consigli di marketing
+
+La *user experience* di un sito è estremamente importante per gestire il percorso di vendita di un utente su un sito, soprattutto in campo mobile. Va curata l'interfaccia, i contenuti devono essere raggiunti velocemente.
+
+Secondo certe analisi recenti, è consigliabile mettere posizionamento automatico per l'obiettivo conversioni. Sembra dare risultati migliori, ma questo ovviamente può cambiare in futuro.
+
+Esistono dei corsi che permettono di ottenere delle certificazioni sull'utilizzo dei social. Ogni social tendenzialmente tiene propri corsi, come [*Facebook Blueprint*](https://www.facebook.com/business/learn).
+
+### 5.1. Obiettivi di business
+
+Dal momento in cui si ha un budget per una campagna di marketing (anche fuori da *FB*), la cosa fondamentale è conoscere l'obiettivo di business dell'azienda.
+
+La vendita è l'obiettivo più comune, ma può anche essere per es. aumentare la notorietà del brand o la generazione di contatti.
+
+Se ci si pone come obiettivo quello di aumentare la notorietà del brand, non ci si può contemporaneamente aspettare di vendere al massimo il prodotto. Sono due obiettivi diversi.
+
+Quando si sceglie un obiettivo non possiamo aspettarci risultati diversi da quelli dell'obiettivo.
+
+Per es. l'obiettivo conversioni è pensato per compiere un'azione su un sito. È ottimizzato per raggiungere quelle persone più propense a compiere quell'azione.
+
+Mentre copertura è ottimizzato per raggiungere più persone possibili in target.
+
+Questa definizione di obiettivi richiede un certo budget. Se non abbiamo abbastanza budget o tempo per fare tutte le fasi del funnel, possiamo partire da metà oppure addirittura dal basso. Ovviamente i risultati ottenuti saranno diversi.
+
+### 5.2. Analisi dei dati
+
+Quando un utente entra in una piattaforma come *FB* e *IG* vengono registrate le sue interazioni con i contenuti, per es. gli argomenti d'interesse oppure quanto tempo spende nel leggere un contenuto rispetto a un altro.
+
+Questa mole di informazioni rende la piattaforma molto importante per raggiungere il target. Si possono misurare in maniera precisa i risultati di un'inserzione e quindi ottimizzare gli investimenti per raggiungere gli obiettivi prefissati. Nemmeno *Google* ha un livello di profilazione così alto.
+
+È importante investire sul contenuto, ma anche sull'advertising. Spesso l'advertising è anche più potente dei soli contenuti, ma sono entrambi da tenere in considerazione.
+
+### 5.3. Capire cosa non va
+
+Abbiamo per es. una campagna con obiettivo conversioni. La campagna non vende bene.
+
+Tra i motivi possibili abbiamo che il sito è fatto male, è confuso, non funziona il sistema di pagamento, il tracciamento non è implementato bene.
+
+Oppure il budget è troppo basso per raggiungere tutto il pubblico, il pubblico non è in linea con il nostro prodotto, la creatività non scatena l'azione nell'utente.
+
+Il caso peggiore è che semplicemente il prodotto non attira.
+
+Se l'algoritmo si accorge che l'inserzione non funziona bene per quel pubblico, smetterà di farla girare oppure la mostrerà solo a persone che l'hanno già vista.
+
+Possiamo provare a cambiare pubblico con la stessa inserzione o viceversa per capire dove sta il problema.
+
+Dopo che l'inserzione viene accettata, questa entra in una fase di **apprendimento**. In questa fase *FB* testa i pubblici, i posizionamenti e le creatività da noi scelti per vedere cosa rende di più. Si esce da questa fase quando vengono generati 50 eventi positivi (che dipendono dall'obiettivo) in una settimana.
+
+Se ciò non si verifica, l'inserzione entra in una fase di **apprendimento limitato**. Questo significa che non sono stati raggiunti i risultati minimi aspettati da *FB*. L'inserzione continuerà a girare ma con scarsa efficacia.
+
+<!--
+Data: 31/05/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
