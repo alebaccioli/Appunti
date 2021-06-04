@@ -10,12 +10,12 @@
   - [1.1. E-shop](#11-e-shop)
   - [1.2. Drop shipping](#12-drop-shipping)
   - [1.3. Marketplace](#13-marketplace)
-- [2. Organizzazione](#2-organizzazione)
+- [2. Organizzazione interna](#2-organizzazione-interna)
   - [2.1. Budget](#21-budget)
   - [2.2. Personale](#22-personale)
   - [2.3. Logistica](#23-logistica)
   - [2.4. Spedizioni](#24-spedizioni)
-- [3. Esperienza utente](#3-esperienza-utente)
+- [3. Gestione dell'utente](#3-gestione-dellutente)
   - [3.1. Assistenza](#31-assistenza)
   - [3.2. Ricerche](#32-ricerche)
   - [3.3. Assortimento](#33-assortimento)
@@ -43,8 +43,27 @@
       - [6.4.1.4. Opzioni](#6414-opzioni)
     - [6.4.2. Categorie](#642-categorie)
     - [6.4.3. Attributi e Funzionalità](#643-attributi-e-funzionalità)
-  - [6.5. Moduli](#65-moduli)
-  - [6.6. Design](#66-design)
+    - [6.4.4. Buoni sconto](#644-buoni-sconto)
+      - [6.4.4.1. Regole Carrello](#6441-regole-carrello)
+      - [6.4.4.2. Regole Catalogo Prezzi](#6442-regole-catalogo-prezzi)
+    - [6.4.5. Stocks](#645-stocks)
+  - [6.5. Clienti](#65-clienti)
+  - [6.6. Moduli](#66-moduli)
+  - [6.7. Design](#67-design)
+    - [6.7.1. Tema & Logo](#671-tema--logo)
+- [7. User experience](#7-user-experience)
+  - [7.1. Processo di UX design](#71-processo-di-ux-design)
+  - [7.2. Linee guida](#72-linee-guida)
+    - [7.2.1. Identità](#721-identità)
+    - [7.2.2. Homepage](#722-homepage)
+    - [7.2.3. Navigazione](#723-navigazione)
+    - [7.2.4. Ricerca](#724-ricerca)
+    - [7.2.5. Scrittura](#725-scrittura)
+    - [7.2.6. Lettura](#726-lettura)
+    - [7.2.7. Grafica](#727-grafica)
+    - [7.2.8. Compiti](#728-compiti)
+    - [7.2.9. Tecnica](#729-tecnica)
+    - [7.2.10. E-commerce](#7210-e-commerce)
 
 ## 1. E-commerce
 
@@ -82,7 +101,7 @@ Per poter vendere in queste piattaforme sono richiesti dei compensi, es. *Amazon
 
 *Amazon* può anche comportarsi come competitor. Per esempio osserva quali prodotti sono richiesti di più e compra l'azienda che li produce oppure crea in proprio prodotti simili e li marchia come *AmazonBasics*.
 
-## 2. Organizzazione
+## 2. Organizzazione interna
 
 Gestire un e-shop richiede risorse e tanto tempo, è bene programmare le varie fasi in modo accurato, es. cataloghi, prezzi, test sulla piattaforma.
 
@@ -120,7 +139,7 @@ Alla fine dobbiamo inviare i pacchi e quindi fare accordi con i corrieri. Genera
 
 Ogni tanto possono capitare problemi tra venditore e compratore, in questi casi può essere utile rivolgersi a un legale per tutelarci in queste situazioni e nella gestione dei resi.
 
-## 3. Esperienza utente
+## 3. Gestione dell'utente
 
 Il sito deve essere funzionante, l'interfaccia deve permettere all'utente di comprare senza incertezze.
 
@@ -402,6 +421,8 @@ Il codice *EAN* è essenziale se volessimo esportare il catalogo su un marketpla
 
 Possiamo *allegare dei file*, per es. un PDF contenente il manuale di istruzioni.
 
+Possiamo collegare un *fornitore* al prodotto, da definire prima in *Marche & Fornitori*. È un'opzione generalmente poco utilizzata.
+
 #### 6.4.2. Categorie
 
 La sottosezione ***Categorie*** permette di definire dei gruppi di prodotti simili per tipologia, in modo da aiutare il visitatore a orientarsi nella varietà del catalogo.
@@ -438,7 +459,51 @@ In *Funzioni* possiamo definire dei valori che selezioniamo nelle *caratteristic
 
 Per es. caratteristica "RAM", valori "3 GB" e "4 GB".
 
-### 6.5. Moduli
+#### 6.4.4. Buoni sconto
+
+La sottosezione ***Buoni sconto*** permette di creare delle regole che agiscono sui prezzi dei prodotti. Le regole sono divise in due tipologie: *Regole Carrello* e *Regole Catalogo Prezzi*.
+
+##### 6.4.4.1. Regole Carrello
+
+Permettono di applicare uno sconto al carrello tramite un codice che il cliente può inserire nel momento in cui sta per pagare.
+
+In *Informazioni* possiamo scrivere manualmente il *codice* oppure farlo generare automaticamente dal sistema.
+
+*Evidenzia* mostra il codice all'utente direttamente nel carrello.
+
+*Uso parziale* permette di decidere cosa succede al buono se non viene sfruttato tutto l'importo. Es. si ha un buono da 10 € e ne vengono utilizzati 7 €. Con questa opzione attiva possiamo sfruttare gli altri 3 € per qualcos'altro.
+
+*Priorità* definisce le priorità in caso di più buoni attivi contemporaneamente.
+
+In *Condizioni* possiamo scegliere i clienti ai quali concedere il buono, la durata, le restrizioni.
+
+*Totale disponibile* rappresenta il numero massimo di clienti ai quali è concesso l'utilizzo del buono.
+
+*Totale disponibile per ciascun cliente* permette di definire quante volte un singolo utente può sfruttare il buono.
+
+Poi in *Azioni* specifichiamo il tipo di sconto, per es. importo secco, percentuale o spedizione gratuita.
+
+##### 6.4.4.2. Regole Catalogo Prezzi
+
+Queste regole vengono applicate su tutto il catalogo già prima di mettere il prodotto nel carrello. Non è richiesta nessuna azione da parte del cliente, lo sconto è già attivo.
+
+Anche qua possiamo scegliere i tipi di clienti ai quali concedere lo sconto, le quantità minime di prodotto da acquistare per poter sbloccare il buono, il tipo di sconto e la durata.
+
+#### 6.4.5. Stocks
+
+La sottosezione ***Stocks*** permette di vedere e gestire le rimanenze in magazzino.
+
+Possiamo caricare ed esportare i dati per manipolarli tramite un sistema gestionale esterno.
+
+### 6.5. Clienti
+
+La sezione ***Clienti*** permette di avere un quadro completo dei clienti che si sono registrati sulla nostra piattaforma.
+
+***Clienti*** mostra la lista degli utenti registrati e le loro azioni passate, come la data di ultima visita e i prodotti messi nel carrello.
+
+***Indirizzi*** mostra i dati personali dei clienti grazie ai quali è possibile generare delle statistiche.
+
+### 6.6. Moduli
 
 La sezione ***Moduli*** permette di gestire i moduli di *PrestaShop*. I moduli sono piccoli pacchetti di programmazione che servono per completare la piattaforma di e-commerce, per es. statistiche e pagamenti aggiuntivi.
 
@@ -448,14 +513,153 @@ Un'installazione tipica di *PrestaShop* include già parecchi moduli. Non è det
 
 ***Catalogo Moduli*** permette di installare nuovi moduli.
 
-### 6.6. Design
+### 6.7. Design
 
 La sezione ***Design*** permette di modificare l'aspetto grafico dell'e-shop.
 
 Se abbiamo le competenze adeguate possiamo modificare l'aspetto noi oppure possiamo comprare un tema già pronto. In ***Catalogo dei Temi*** possiamo accedere allo store dei temi di *PrestaShop*.
 
+#### 6.7.1. Tema & Logo
+
+La sottosezione ***Tema & Logo*** permette di modificare gli aspetti grafici delle pagine.
+
+Possiamo modificare il *logo* principale e la *favicon*, cioè la piccola icona che appare vicina al titolo del sito nel tab del browser oppure nei segnalibri.
+
+[*Favicon Generator*](https://www.favicon-generator.org/) è un sito che trasforma un'immagine in una favicon.
+
+In basso troviamo *Scegli layout* che permette di configurare il layout delle pagine, cioè la loro organizzazione in termini di colonne e di disposizione dei contenuti.
+
+In *Pagine configurazione* possiamo comodamente selezionare e configurare i moduli di *PrestaShop* che generano gli elementi delle pagine, per es. in homepage abbiamo *Slider immagini* e *Prodotti in vetrina*.
+
+In *Personalizzazione avanzata* possiamo esportare le modifiche fatte al template per poterle eventualmente importare in futuro.
+
 <!--
 Data: 31/05/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+## 7. User experience
+
+La **UI** (User Interface) è l'interfaccia che l'utente utilizza per interagire con un sistema.
+
+La **UX** (User Experience) è il modo in cui viene svolta questa interazione, dalla quale derivano le percezioni dell'utente sull'utilità, facilità di utilizzo ed efficienza del sistema. La UI è quindi un componente della UX.
+
+Oggigiorno è già difficile vendere a causa della concorrenza, dobbiamo evitare ulteriori problemi causati da un'interfaccia non chiara che può procurare insicurezza nell'utente.
+
+La UX va progettata non in base a cosa piace al designer, ma piuttosto a quello che soddisfa l'utente. Quando un utente prova esitazione nella comprensione del funzionamento di un componente, significa che il designer ha tralasciato qualcosa nella progettazione.
+
+Una buona UX comporta:
+
+- aumento delle visite del sito
+- aumento dei visitatori che ritornano (fidelizzazione)
+- aumento della durata di ogni visita
+- aumento delle conversioni
+- riduzione delle lamentele
+- riduzione dei costi d'assistenza
+
+Tutto questo porta a un rafforzamento del brand.
+
+### 7.1. Processo di UX design
+
+Prima di tutto abbiamo una fase di **ricerca e analisi** che ci permette di conoscere il nostro target e in particolar modo le *buyer personas*.
+
+Possiamo gestirla da soli se abbiamo le risorse necessarie, oppure possiamo affidarci ad aziende che raccolgono questi dati.
+
+Poi passiamo alla fase di **progettazione** della UX. Possiamo partire semplicemente con carta e penna, ma ci sono molti strumenti online, come [*Balsamiq*](https://balsamiq.com/), che permettono di fare sketch di interfacce.
+
+Possiamo analizzare i concorrenti, non per copiare ma per prendere spunti.
+
+Abbiamo poi una fase di **valutazione** in cui vengono fatti test di usabilità con gli utenti. Questi test permettono di monitorare le loro interazioni con l'interfaccia, il modo di navigare, i bottoni premuti.
+
+L'*eye tracking* è una tecnica che permette di capire dove cade di più l'occhio dell'utente, *Hotjar* è uno strumento che monitora cosa viene visualizzato di più sullo schermo e cosa viene cliccato. Altrimenti possiamo fare dei sondaggi.
+
+### 7.2. Linee guida
+
+La **valutazione euristica** è un processo in vari step in cui più persone utilizzano l'interfaccia per verificarne l'usabilità.
+
+Qua di seguito abbiamo 10 linee guida che ci aiutano a considerare tutti gli aspetti di un'interfaccia per un e-shop.
+
+#### 7.2.1. Identità
+
+- tagline evidente, cioè la breve frase che riassume l'identità della marca
+- menù di ricerca focalizzato sui prodotti
+- immagine principale descrittiva
+- informazioni di supporto presenti
+- infondere fiducia con recensioni e certificati
+- cerchiamo di essere originali ma mantenendo certi elementi familiari all'utente, come il simbolo del carrello
+
+#### 7.2.2. Homepage
+
+- presentare categorie di prodotti e prodotti singoli
+- evitiamo nomi di prodotti non chiari al visitatore
+- evidenziare lo starting point, cioè il punto in cui l'utente può iniziare il percorso di acquisto di un prodotto
+- mostrare le spese di spedizione nell'header è un'ottima pratica
+
+#### 7.2.3. Navigazione
+
+- offrire più percorsi, es. genere, marca, offerte
+- includere delle *breadcrumbs* (briciole di pane), una barra di navigazione che permette di sapere sempre dove siamo dentro al sito
+
+#### 7.2.4. Ricerca
+
+- box di ricerca ampio per query lunghe
+- ricerca con autosuggerimenti tipo *Google*
+- menù a comparsa dei suggerimenti ben strutturato
+- serve equilibrio tra numero di voci in ampiezza (numero di opzioni di scelta) e profondità (numero di livelli)
+
+#### 7.2.5. Scrittura
+
+- descrizioni sintetiche tramite elenchi puntati
+- mai allineare il testo a destra
+- footer chiaro che rassicura il cliente su pagamenti e spedizioni
+
+#### 7.2.6. Lettura
+
+- usare in maniera appropriata lo spazio bianco
+- non affogare la pagina riempiendola di immagini e di testo appiccicati
+
+#### 7.2.7. Grafica
+
+- l'utente oramai considera pubblicità tutto ciò che assomiglia a un banner
+- coordinare la grafica al testo evitando che quest'ultimo diventi illeggibile
+
+#### 7.2.8. Compiti
+
+- pulsanti chiari che evidenzino bene la *call to action*, cioè l'azione associata al bottone
+- feedback sul risultato dell'azione
+- aiutare l'utente a capire gli errori
+- feedforward, cioè azioni che l'utente può compiere per facilitare l'acquisto
+
+#### 7.2.9. Tecnica
+
+- pagine veloci nel caricamento
+- compatibilità cross-device (responsive), per es. desktop e mobile
+- compatibilità cross-browser
+- compatibilità cross-os
+
+#### 7.2.10. E-commerce
+
+- quando si hanno molti prodotti è meglio progettare delle pagine per categorie intermedie in modo da orientare meglio l'utente
+- presenza di filtri nella pagina di listing dei prodotti
+- le immagini dei prodotti devono essere molto grandi e dettagliate
+- se possibile è meglio mostrare il prodotto fuori dalla scatola
+- sono di moda i video che mostrano il prodotto nel momento del suo utilizzo
+- i dettagli tecnici sono importanti
+- includere recensioni e feedback utenti
+- prodotti correlati o visti di recente
+- tipi di pagamento e costi ben visibili già prima di acquistare
+- l'utente si spaventa un po' quando sente parlare di registrazione, meglio prevedere la possibilità di non farlo anche se all'azienda farebbe comodo
+- il checkout è generalmente sviluppato in varie fasi, mentre le *single page checkout* permettono di fare tutto in una pagina (comodo, ma possono risultare caotiche)
+- il bottone *hamburger* è diventato familiare in ambito mobile per accedere al menù principale del sito
+- la *call to action* dovrebbe essere sempre visibile in primo piano
+
+<!--
+Data: 04/06/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
