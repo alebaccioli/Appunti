@@ -48,9 +48,12 @@
       - [6.4.4.2. Regole Catalogo Prezzi](#6442-regole-catalogo-prezzi)
     - [6.4.5. Stocks](#645-stocks)
   - [6.5. Clienti](#65-clienti)
-  - [6.6. Moduli](#66-moduli)
-  - [6.7. Design](#67-design)
-    - [6.7.1. Tema & Logo](#671-tema--logo)
+  - [6.6. Servizio clienti](#66-servizio-clienti)
+  - [6.7. Moduli](#67-moduli)
+  - [6.8. Design](#68-design)
+    - [6.8.1. Tema & Logo](#681-tema--logo)
+  - [6.9. Spedizione](#69-spedizione)
+  - [6.10. Pagamento](#610-pagamento)
 - [7. User experience](#7-user-experience)
   - [7.1. Processo di UX design](#71-processo-di-ux-design)
   - [7.2. Linee guida](#72-linee-guida)
@@ -64,6 +67,14 @@
     - [7.2.8. Compiti](#728-compiti)
     - [7.2.9. Tecnica](#729-tecnica)
     - [7.2.10. E-commerce](#7210-e-commerce)
+- [8. Marketplace](#8-marketplace)
+  - [8.1. Utenti](#81-utenti)
+  - [8.2. Valutazioni](#82-valutazioni)
+  - [8.3. Vendite](#83-vendite)
+  - [8.4. Customer service](#84-customer-service)
+  - [8.5. Amazon](#85-amazon)
+  - [8.6. eBay](#86-ebay)
+  - [8.7. Farfetch](#87-farfetch)
 
 ## 1. E-commerce
 
@@ -365,9 +376,11 @@ Numeri sezione: ok
 
 Nella sezione ***Ordini*** possiamo vedere la lista degli ordini in lavorazione.
 
-Possiamo aggiornare lo stato dell'ordine e vedere informazioni sul cliente che ha effettuato l'acquisto.
+***Ordini*** permette di selezionare un ordine in lavorazione, aggiornare il suo stato e vedere informazioni sul cliente che ha effettuato l'acquisto.
 
-È importante dare continue informazioni al cliente per aggiornarlo sullo stato dell'ordine.
+È molto importante dare continue informazioni al cliente per aggiornarlo sullo stato dell'ordine, es. pagamento accettato, in preparazione, spedito. Possiamo inviare dei *Messaggi d'ordine*, cioè messaggi personalizzati per es. con il tracking number.
+
+***Carrello della spesa*** permette di vedere i prodotti messi nel carrello. Può essere utile chiedersi per quale motivo gli utenti aggiungono tanti oggetti al carrello ma poi non comprano.
 
 ### 6.4. Catalogo
 
@@ -503,7 +516,15 @@ La sezione ***Clienti*** permette di avere un quadro completo dei clienti che si
 
 ***Indirizzi*** mostra i dati personali dei clienti grazie ai quali è possibile generare delle statistiche.
 
-### 6.6. Moduli
+### 6.6. Servizio clienti
+
+La sezione ***Servizio clienti*** permette di gestire le richieste che i clienti possono fare durante la loro permanenza sull'e-shop.
+
+***Servizio clienti*** mostra la lista di richieste da evadere e i clienti che le hanno fatte.
+
+***Messaggi d'ordine*** permette di creare messaggi personalizzati che possiamo usare come risposta pronta alle varie richieste, es. prodotto esaurito, spedizione in ritardo.
+
+### 6.7. Moduli
 
 La sezione ***Moduli*** permette di gestire i moduli di *PrestaShop*. I moduli sono piccoli pacchetti di programmazione che servono per completare la piattaforma di e-commerce, per es. statistiche e pagamenti aggiuntivi.
 
@@ -513,13 +534,13 @@ Un'installazione tipica di *PrestaShop* include già parecchi moduli. Non è det
 
 ***Catalogo Moduli*** permette di installare nuovi moduli.
 
-### 6.7. Design
+### 6.8. Design
 
 La sezione ***Design*** permette di modificare l'aspetto grafico dell'e-shop.
 
 Se abbiamo le competenze adeguate possiamo modificare l'aspetto noi oppure possiamo comprare un tema già pronto. In ***Catalogo dei Temi*** possiamo accedere allo store dei temi di *PrestaShop*.
 
-#### 6.7.1. Tema & Logo
+#### 6.8.1. Tema & Logo
 
 La sottosezione ***Tema & Logo*** permette di modificare gli aspetti grafici delle pagine.
 
@@ -532,6 +553,22 @@ In basso troviamo *Scegli layout* che permette di configurare il layout delle pa
 In *Pagine configurazione* possiamo comodamente selezionare e configurare i moduli di *PrestaShop* che generano gli elementi delle pagine, per es. in homepage abbiamo *Slider immagini* e *Prodotti in vetrina*.
 
 In *Personalizzazione avanzata* possiamo esportare le modifiche fatte al template per poterle eventualmente importare in futuro.
+
+### 6.9. Spedizione
+
+La sezione ***Spedizione*** permette di gestire i vari metodi di spedizione messi a disposizione dell'utente.
+
+***Mezzi di spedizione*** permette di configurare i corrieri che si occupano della spedizione. Possiamo definire i costi di spedizione in base a fasce di prezzo o di peso. Queste fasce generalmente corrispondono a quelle che il corriere fa pagare al negozio.
+
+***Impostazioni*** definisce delle regole generali sulla spedizione gratuita e sull'ordine di visualizzazione dei corrieri all'utente.
+
+### 6.10. Pagamento
+
+La sezione ***Pagamento*** permette di gestire i vari metodi di pagamento del nostro e-shop.
+
+***Metodi di Pagamento*** mostra i vari moduli che gestiscono i pagamenti. *PrestaShop Checkout* è un metodo implementato da *PrestaShop*, ma possiamo aggiungerne molti altri.
+
+***Impostazioni*** permette di definire delle regole che consentono l'abilitazione di un sistema di pagamento rispetto per es. a una valuta, un paese, un corriere.
 
 <!--
 Data: 31/05/2021
@@ -660,6 +697,107 @@ Qua di seguito abbiamo 10 linee guida che ci aiutano a considerare tutti gli asp
 
 <!--
 Data: 04/06/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+## 8. Marketplace
+
+Il **marketplace** è un tipo di e-commerce in cui le informazioni sui prodotti o servizi sono fornite da più venditori, mentre le transazioni con i consumatori vengono elaborate dal gestore della piattaforma. Queste poi vengono tipicamente consegnate e soddisfatte dai rivenditori o dai grossisti partecipanti (drop shipping).
+
+I marketplace rappresentano uno strumento **omnichannel** (o multicanale), cioè utilizzano una varietà di canali per collegarsi con l'utente, per es. telefono, vetrina di un negozio online, cartellone fisico.
+
+I marketplace possono essere:
+
+- **generalisti**: vendono prodotti di ogni genere, es. *Amazon*, *eBay*
+- **specializzati**: si focalizzano su un tipo di prodotto o fascia di prezzo, es. *Etsy*
+
+Per quanto riguarda il marketing, la promozione di base è finanziata direttamente dalle piattaforme.
+
+### 8.1. Utenti
+
+Il principale patrimonio di un marketplace è rappresentato dall'alto numero di **utenti fidelizzati**, ottenuto grazie al livello di servizio ma anche schierandosi sempre dalla loro parte, a volte a discapito del venditore.
+
+Al consumatore viene chiesto di scrivere una recensione sia sul prodotto acquistato sia sul venditore. Le recensioni sono molto importanti e funzionano come strumento di marketing sugli utenti interessati e per evitare venditori poco qualificati.
+
+Queste valutazioni incidono su come i prodotti e i venditori vengono visualizzati in fase di ricerca, cioè sul ranking.
+
+### 8.2. Valutazioni
+
+Il venditore è costantemente valutato in relazione agli standard minimi richiesti per poter partecipare a un marketplace.
+
+A seconda del marketplace possono esserci valutazioni diverse:
+
+- **oggettive**:
+  - azienda o privato identificabile con dati verificati
+  - effettivo possesso della merce
+  - garanzie economiche verso i clienti
+  - prodotti conformi ai canali di vendita
+  - es. *eBay*, *Amazon*, *Etsy*
+- **soggettive**:
+  - prodotti adatti al cliente-tipo
+  - prezzo corrispondente al target
+  - capacità di fornitura di certi prodotti per un certo tempo
+  - es. *Farfetch*, *Reebonz*, *Shangpin*
+
+### 8.3. Vendite
+
+Per **B2C** (Business to Consumer) si intende una vendita da commerciante a consumatore. Valgono le regole previste per un normale sito di e-commerce.
+
+Mentre per **B2B** (Business to Business) abbiamo una vendita tra gestore del marketplace e commerciante. In questo caso esistono regole diverse: per es. assenza del diritto di reso, responsabilità limitate alla conformità dell'articolo, gestione IVA.
+
+Il commerciante dovrà inviare uno scontrino o fattura al cliente finale. Dovrà poi essere applicata l'IVA secondo le norme vigenti.
+
+Soprattutto quando si vende all'estero, è necessario considerare tanti aspetti come sdoganamento, dichiarazioni di conformità, documenti per pellami protetti, legislazione del paese di destinazione.
+
+Sicuramente è meglio chiedere consiglio a un consulente in caso di bisogno.
+
+### 8.4. Customer service
+
+Il **customer service** è certamente un aspetto molto importante in termini di qualità e tempi di risposta.
+
+Molte piattaforme hanno sistemi che permettono di monitorare e gestire le richieste dell'utente, es. *Zendesk*. Quando un utente chiede supporto viene aperto un ticket.
+
+È sempre importante rilasciare preventivamente al cliente le informazioni che si aspettano, es. tracking number del pacco.
+
+Dobbiamo considerare i fusi orari e le lingue di riferimento in caso di vendite internazionali.
+
+### 8.5. Amazon
+
+***Amazon*** è una piattaforma generalista. Ha una logistica di alto livello e componenti che aggiungono valore come *Amazon Prime* e *Amazon Pay*.
+
+Oltre a fare drop shipping è anche venditore diretto di alcuni prodotti. Ha un'alta profilazione dei clienti con proposte personalizzate. Fornisce un basso supporto al venditore e schede venditore ridotte all'essenziale.
+
+Il venditore deve affrontare dei costi fissi che dipendono dal piano scelto e una commissione media del 15% per ogni transazione (compresi spedizione e IVA).
+
+Questi costi sicuramente non sono bassi, ma bisogna considerare che senza marketplace un e-shop dovrebbe spendere cifre significative per fare marketing.
+
+Tra i requisiti richiesti è necessario risolvere le problematiche sugli ordini in tempi rapidi, evitare di spedire in ritardo, codici EAN per i prodotti, risposte del customer service entro 24 h, divieto di contatto esterno alla piattaforma con il cliente.
+
+### 8.6. eBay
+
+Anche ***eBay*** è una piattaforma generalista. Nasce come gestore di aste, ma ha poi adottato un tipo di vendita più in linea con *Amazon*.
+
+Non fa alcun tipo di vendita diretta e ha un forte legame con *PayPal*. A differenza di *Amazon* le schede venditore sono altamente personalizzabili, è perfino possibile avere un proprio negozio all'interno di *eBay*. Il supporto al venditore è più alto.
+
+Anche in questo caso esistono vari piani di vendita e una commissione media dell'8,7% sul solo prezzo del prodotto.
+
+Nemmeno qua è consentito avere contatti con i clienti fuori dalla piattaforma. Generalmente le controversie vengono gestite tramite *PayPal* con un refund.
+
+### 8.7. Farfetch
+
+***Farfetch*** è un marketplace di qualità ed è specializzato sul fashion di gamma medio-alta.
+
+Fa drop shipping, si fanno spedire il prodotto dal venditore e poi lo spediscono loro al cliente. Opera una selezione molto accurata dei prodotti e ha una forte attività di merchandising.
+
+Ha delle pagine dedicate alle boutique affiliate.
+
+<!--
+Data: 08/06/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
