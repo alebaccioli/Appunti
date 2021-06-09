@@ -125,9 +125,9 @@ I vari tipi sono:
   - es. *tradurre buongiorno*
   - fa una traduzione in inglese come lingua di default, poi possiamo scegliere una lingua diversa e ascoltare la pronuncia
 - **barra verticale**:
-  - es. *tom cruise | hanks*
+  - es. *tom cruise \| hanks*
   - vengono mostrate le pagine che contengono o l'uno o l'altro tra i termini separati dalla barra verticale
-  - risultati simili si possono ottenere sostituendo *|* con *o* oppure *or*, ma sono comunque ricerche abbastanza complesse
+  - risultati simili si possono ottenere sostituendo *\|* con *o* oppure *or*, ma sono comunque ricerche abbastanza complesse
 - **intitle**:
   - es. *intitle:crepes*
   - fa una ricerca solo sul titolo della pagina invece che sul contenuto
