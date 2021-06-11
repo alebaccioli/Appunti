@@ -11,6 +11,7 @@ Pagina del corso: [Agenzia Formativa TESEO](http://www.teseoagenzia.it/digital-y
 - [Composizione di una newsletter](appunti/composizione-di-una-newsletter.md)
 - [Definizione del progetto di e-business](appunti/definizione-del-progetto-di-e-business.md)
 - [Elaborazione del piano di marketing](appunti/elaborazione-del-piano-di-marketing.md)
+- [Lingua inglese per il settore](appunti/lingua-inglese-per-il-settore.md)
 - [Modalità di accesso all'informazione](appunti/modalita-di-accesso-all-informazione.md)
 - [Piattaforme di programmazione e analisi](appunti/piattaforme-di-programmazione-e-analisi.md)
 - [Strategie e tecniche di web marketing](appunti/strategie-e-tecniche-di-web-marketing.md)
