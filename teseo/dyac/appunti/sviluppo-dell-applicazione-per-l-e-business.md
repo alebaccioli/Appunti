@@ -49,11 +49,15 @@
     - [6.4.5. Stocks](#645-stocks)
   - [6.5. Clienti](#65-clienti)
   - [6.6. Servizio clienti](#66-servizio-clienti)
-  - [6.7. Moduli](#67-moduli)
-  - [6.8. Design](#68-design)
-    - [6.8.1. Tema & Logo](#681-tema--logo)
-  - [6.9. Spedizione](#69-spedizione)
-  - [6.10. Pagamento](#610-pagamento)
+  - [6.7. Statistiche](#67-statistiche)
+  - [6.8. Moduli](#68-moduli)
+  - [6.9. Design](#69-design)
+    - [6.9.1. Tema & Logo](#691-tema--logo)
+  - [6.10. Spedizione](#610-spedizione)
+  - [6.11. Pagamento](#611-pagamento)
+  - [6.12. Internazionale](#612-internazionale)
+  - [6.13. Advertising](#613-advertising)
+  - [6.14. Parametri Negozio](#614-parametri-negozio)
 - [7. User experience](#7-user-experience)
   - [7.1. Processo di UX design](#71-processo-di-ux-design)
   - [7.2. Linee guida](#72-linee-guida)
@@ -75,6 +79,10 @@
   - [8.5. Amazon](#85-amazon)
   - [8.6. eBay](#86-ebay)
   - [8.7. Farfetch](#87-farfetch)
+- [9. Diffusione di dispositivi mobile](#9-diffusione-di-dispositivi-mobile)
+  - [9.1. Soluzioni mobile](#91-soluzioni-mobile)
+  - [9.2. Pianificazione di un piano mobile](#92-pianificazione-di-un-piano-mobile)
+  - [9.3. Strategia omnichannel](#93-strategia-omnichannel)
 
 ## 1. E-commerce
 
@@ -472,6 +480,8 @@ In *Funzioni* possiamo definire dei valori che selezioniamo nelle *caratteristic
 
 Per es. caratteristica "RAM", valori "3 GB" e "4 GB".
 
+Il modulo *Ricerca per Aspetti* permette di aggiungere dei filtri nella colonna di sinistra di una categoria. I filtri corrispondono agli attributi e le caratteristiche dei prodotti e permettono di affinare la ricerca.
+
 #### 6.4.4. Buoni sconto
 
 La sottosezione ***Buoni sconto*** permette di creare delle regole che agiscono sui prezzi dei prodotti. Le regole sono divise in due tipologie: *Regole Carrello* e *Regole Catalogo Prezzi*.
@@ -524,7 +534,11 @@ La sezione ***Servizio clienti*** permette di gestire le richieste che i clienti
 
 ***Messaggi d'ordine*** permette di creare messaggi personalizzati che possiamo usare come risposta pronta alle varie richieste, es. prodotto esaurito, spedizione in ritardo.
 
-### 6.7. Moduli
+### 6.7. Statistiche
+
+La sezione ***Statistiche*** permette di avere informazioni sul funzionamento del nostro e-shop, per es. i principali browser usati, i prodotti o buoni sconto più efficaci, le parole chiave dei motori di ricerca, le ricerche fatte dagli utenti.
+
+### 6.8. Moduli
 
 La sezione ***Moduli*** permette di gestire i moduli di *PrestaShop*. I moduli sono piccoli pacchetti di programmazione che servono per completare la piattaforma di e-commerce, per es. statistiche e pagamenti aggiuntivi.
 
@@ -534,13 +548,19 @@ Un'installazione tipica di *PrestaShop* include già parecchi moduli. Non è det
 
 ***Catalogo Moduli*** permette di installare nuovi moduli.
 
-### 6.8. Design
+### 6.9. Design
 
-La sezione ***Design*** permette di modificare l'aspetto grafico dell'e-shop.
+La sezione ***Design*** permette di modificare l'aspetto grafico dell'e-shop. Se abbiamo le competenze adeguate possiamo modificare l'aspetto noi oppure possiamo comprare un tema già pronto.
 
-Se abbiamo le competenze adeguate possiamo modificare l'aspetto noi oppure possiamo comprare un tema già pronto. In ***Catalogo dei Temi*** possiamo accedere allo store dei temi di *PrestaShop*.
+***Catalogo dei Temi*** permette di accedere allo store dei temi di *PrestaShop*.
 
-#### 6.8.1. Tema & Logo
+***Tema Email*** permette di modificare i template delle email inviate ai consumatori.
+
+***Pagine*** permette di definire delle pagine statiche, per es. note legali, termini e condizioni. Verranno mostrate in basso nel footer e sono ordinabili tramite il modulo *Elenco Link*.
+
+***Impostazioni immagine*** permette di definire le dimensioni delle immagini, per es. anteprima del prodotto, logo del sito e dei marchi.
+
+#### 6.9.1. Tema & Logo
 
 La sottosezione ***Tema & Logo*** permette di modificare gli aspetti grafici delle pagine.
 
@@ -554,7 +574,7 @@ In *Pagine configurazione* possiamo comodamente selezionare e configurare i modu
 
 In *Personalizzazione avanzata* possiamo esportare le modifiche fatte al template per poterle eventualmente importare in futuro.
 
-### 6.9. Spedizione
+### 6.10. Spedizione
 
 La sezione ***Spedizione*** permette di gestire i vari metodi di spedizione messi a disposizione dell'utente.
 
@@ -562,13 +582,43 @@ La sezione ***Spedizione*** permette di gestire i vari metodi di spedizione mess
 
 ***Impostazioni*** definisce delle regole generali sulla spedizione gratuita e sull'ordine di visualizzazione dei corrieri all'utente.
 
-### 6.10. Pagamento
+### 6.11. Pagamento
 
 La sezione ***Pagamento*** permette di gestire i vari metodi di pagamento del nostro e-shop.
 
 ***Metodi di Pagamento*** mostra i vari moduli che gestiscono i pagamenti. *PrestaShop Checkout* è un metodo implementato da *PrestaShop*, ma possiamo aggiungerne molti altri.
 
 ***Impostazioni*** permette di definire delle regole che consentono l'abilitazione di un sistema di pagamento rispetto per es. a una valuta, un paese, un corriere.
+
+### 6.12. Internazionale
+
+La sezione ***Internazionale*** permette di configurare le lingue, le valute e tutti gli aspetti riguardanti l'operatività del nostro e-shop nei vari paesi.
+
+***Localizzazione*** permette di importare pacchetti di *PrestaShop* già configurati per le varie lingue. In *Geolocalizzazione* possiamo bloccare l'accesso a certi paesi.
+
+***Località*** permette di definire i paesi e le province. La sua utilità principale ricade nel processo di spedizione.
+
+***Tasse*** riguarda l'IVA dei vari paesi.
+
+***Traduzioni*** permette di personalizzare le traduzioni base di *PrestaShop*.
+
+### 6.13. Advertising
+
+La sezione ***Advertising*** mostra gli strumenti sviluppati da *PrestaShop* per fare advertising. Permette di esportare il catalogo prodotti su *Facebook*.
+
+### 6.14. Parametri Negozio
+
+La sezione ***Parametri Negozio*** permette di configurare il funzionamento della piattaforma.
+
+***Generale*** permette tra le altre cose di abilitare la crittografia SSL e implementare altre funzionalità di sicurezza. Il *Multinegozio* permette di avere più negozi e-shop gestibili da un unico back office, per es. un e-shop con prezzi da negozio fisico e un altro con prezzi più allineati a quelli online. *Manutenzione* permette di disabilitare temporaneamente il negozio per fare modifiche.
+
+***Impostazioni Ordine*** permette di abilitare il checkout ospite, cioè la possibilità di fare l'ordine senza registrarsi. Permette poi di abilitare la possibilità di riordinare certi acquisti fatti e di offrire confezioni regalo. *Stati* permette di personalizzare gli stati degli ordini, es. pagamento accettato, spedito.
+
+***Prodotti*** include la *Modalità catalogo*, una modalità che permette di visualizzare i prodotti ma non di acquistarli, può essere utile per far comprare nel negozio fisico o presso altri fornitori. Possiamo inoltre decidere di mostrare i prezzi e le quantità di prodotto rimanenti. Possiamo far comprare un prodotto anche se non è ancora presente in magazzino ma è in arrivo. Possiamo scegliere l'ordine di visualizzazione predefinita dei prodotti (es. per nome o prezzo).
+
+***Impostazioni clienti*** permette di definire i gruppi degli utenti, es. visitatore, ospite o cliente.
+
+***Contatto*** personalizza la pagina dei contatti attraverso la quale l'utente può inviarci dei messaggi. Possiamo poi definire gli indirizzi dei negozi fisici se disponibili.
 
 <!--
 Data: 31/05/2021
@@ -798,6 +848,80 @@ Ha delle pagine dedicate alle boutique affiliate.
 
 <!--
 Data: 08/06/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+## 9. Diffusione di dispositivi mobile
+
+I trend degli ultimi anni confermano la crescita dell'utilizzo dei dispositivi mobile a discapito dei PC.
+
+Secondo certe statistiche più della metà del traffico Internet è generato da dispositivi mobile e più di una persona su cinque ha effettuato un acquisto online negli ultimi 30 giorni.
+
+Questi dispositivi sono molto importanti nelle parti attive di un acquisto. Vengono utilizzati per ricercare informazioni sui prodotti, localizzare un negozio, leggere feedback e recensioni, comparare prezzi e infine acquistare.
+
+Inoltre l'app è preferita rispetto al browser mobile per fare i propri acquisti. I grandi marchi di e-commerce spingono ad utilizzare l'app piuttosto che il sito.
+
+### 9.1. Soluzioni mobile
+
+È dunque evidente l'importanza di avere un piano mobile per il proprio e-commerce. In fase di sviluppo possono esser considerate diverse soluzioni:
+
+- **sito responsive**: il design responsivo, o responsive web design, indica una tecnica di sviluppo web per realizzare siti che siano in grado di adattarsi graficamente e automaticamente al dispositivo (es. schermo desktop, schermo smartphone)
+- **sito mobile**: un sito con un'architettura e delle funzionalità pensate solo al mobile, sono leggeri e veloci, facili da navigare con testi e pulsanti grandi
+- **app mobile**: un software caratterizzato da una semplificazione ed eliminazione del superfluo al fine di ottenere leggerezza e velocità
+
+Il sito responsive è una soluzione molto usata, ma rispetto alle altre due opzioni è più pesante e richiede più codice.
+
+Le app sono ottime dal punto di vista dell'azienda perché permettono di inviare notifiche all'utente. Però non molti utenti hanno voglia di installare app di brand semi-sconosciuti.
+
+### 9.2. Pianificazione di un piano mobile
+
+Lo sviluppo di un piano mobile non è altro che un'estensione del piano di vendita aziendale. Va quindi visto e integrato nel posizionamento dell'azienda.
+
+La pianificazione deve considerare diversi punti:
+
+- definire gli obiettivi del canale
+- analizzare il target cliente
+- analizzare le tendenze di mercato e i competitor
+- analizzare il proprio traffico web
+- creare e ottimizzare l'infrastruttura in ottica mobile
+- creare campagne di advertising dedicate
+- effettuare attività di ricoinvolgimento
+
+Oltre a considerare la pura fase di acquisto, è necessario concentrare l'attenzione sugli elementi di supporto dell'attività sul web:
+
+- adottare sistemi di pagamento ottimizzati per gli acquisti mobile
+- recuperare le informazioni degli utenti per intercettarli su diversi dispositivi
+- inserire uno *store locator* per incrementare il traffico nei negozi fisici
+- offrire servizi di assistenza via chat
+- assicurarsi che le email e newsletter abbiano un layout responsivo
+- adottare sistemi di ricoinvolgimento
+- inserire soluzioni di login attraverso un profilo social
+- continuare a creare e a innovare
+
+### 9.3. Strategia omnichannel
+
+La strategia **omnichannel** permette all'azienda di lavorare sulla **customer experience** in modo efficace e permette di raggiungere obiettivi come fidelizzazione del cliente, reputazione del marchio, performance interne, coesioni d'obiettivo.
+
+L'itinerario che l'utente percorre quando instaura una relazione con un'impresa nel tempo viene chiamato **customer journey**. I punti di contatto tra impresa e cliente si chiamano **touchpoint** e possono essere sia online che offline.
+
+Il **conversion funnel** è il percorso che porta un semplice utente a diventare un cliente fidelizzato.
+
+Una **mappa omnichannel** permette di rendere più semplice individuare i canali e le attività multicanale necessarie a raggiungere gli obiettivi.
+
+I punti di creazione sono:
+
+- individuare i vari canali disponibili
+- analizzare la customer journey
+- individuare i touchpoint
+- creare il funnel
+
+<!--
+Data: 12/06/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
