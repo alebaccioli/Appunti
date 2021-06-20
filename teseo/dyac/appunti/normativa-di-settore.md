@@ -11,6 +11,10 @@
   - [1.2. Diritti morali e patrimoniali](#12-diritti-morali-e-patrimoniali)
   - [1.3. Internet](#13-internet)
 - [2. Diritto di proprietà industriale](#2-diritto-di-proprietà-industriale)
+  - [2.1. Marchio](#21-marchio)
+    - [2.1.1. Caratteristiche](#211-caratteristiche)
+    - [2.1.2. Registrazione](#212-registrazione)
+    - [2.1.3. Banche dati](#213-banche-dati)
 
 ## 1. Diritto d'autore
 
@@ -55,7 +59,7 @@ In Italia di queste cose si occupa la Polizia Postale, la Finanza e la Polizia G
 
 Alcune eccezioni possono esserci in caso di scopo informativo e divulgativo (es. scuola).
 
-Molti siti mostrano un disclaimer, cioè una formuletta in cui viene scritto che le risorse utilizzate non sono usate a scopo di lucro o qualcosa del genere. Dal punto di vista legale non sono molto efficaci.
+Molti siti tentano di cavarsela mostrando un disclaimer, cioè una formuletta in cui viene scritto per es. il nome del proprietario delle risorse utilizzate senza licenza. Dal punto di vista legale non sono molto efficaci, serve comunque un'autorizzazione.
 
 ## 2. Diritto di proprietà industriale
 
@@ -70,6 +74,102 @@ Nome file: ok
 
 <!--
 Data: 13/06/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+### 2.1. Marchio
+
+Il **marchio** è un *segno* che serve per distinguere prodotti e servizi di un'impresa da quelli di qualsiasi altra.
+
+Il marchio può essere registrato o meno. Il marchio **registrato** (simbolo **®**) ha una tutela rafforzata dal deposito e da una data certa.
+
+Il marchio **di fatto** è un marchio non registrato, non può quindi essere utilizzato il simbolo ®. Per tutelarsi deve essere un marchio noto e il proprietario deve dimostrare di averlo già usato prima di altri.
+
+Alcuni marchi molto vecchi come *Coca-Cola* e *Ford* non vennero registrati all'inizio, ma la loro notorietà li ha fatti diventare marchi di fatto ed è impensabile adesso produrre proprie macchine con marchio *Ford*.
+
+La proprietà del marchio può essere ceduta ad altri oppure può essere data in licenza. In quest'ultimo caso il licenziatario paga le royalties per l'utilizzo, es. merchandising di prodotti di un gruppo musicale. Utilizzare un marchio registrato senza averne diritto può portare a un **reato di contraffazione**.
+
+Il marchio segue specifici regolamenti a livello nazionale, europeo e internazionale. In quest'ultimo caso i regolamenti sono gestiti da accordi tra i vari stati principali. Se un marchio viene registrato in Italia la sua tutela finisce tra i confini nazionali.
+
+#### 2.1.1. Caratteristiche
+
+Il marchio può essere:
+
+- una scritta, es. *Lenovo*
+- un disegno, es. un'aquila
+- delle cifre, es. il *46* di *Valentino Rossi*
+- un colore, es. *rosso Ferrari*
+- un nome di persona, es. *Giorgio Armani*
+- una forma, es. bottiglia in vetro di *Coca-Cola*
+- un suono, es. il suono di avvio di *Windows*
+
+Per essere tutelato, un marchio deve avere i seguenti requisiti:
+
+- essere originale
+- avere un carattere veritiero, cioè non deve usare segni che ingannano il consumatore
+- essere lecito, quindi niente segni vietati come la svastica
+
+A seconda del segno usato, un marchio può essere:
+
+- **denominativo**: è costituito solo da parole senza grafica, es. *Giorgio Armani* (anche se poi lui ha depositato anche il simbolo con l'aquila)
+- **figurativo**: solo il logo grafico, es. mela di *Apple*
+- **complesso**: combinazione di immagini e parole
+
+A seconda della proprietà, un marchio può essere:
+
+- **individuale**: proprietà di un singolo soggetto che lo usufruisce secondo proprie esigenze
+- **collettivo**: proprietà della comunità (in particolar modo di certi enti pubblici), svolge una funzione di garanzia per i consumatori, es. *Pura Lana Vergine*, *Grana Padano*
+
+A seconda della robustezza, un marchio può essere:
+
+- **forte**: ha un carattere distintivo originale e si differenzia dagli altri
+- **debole**: fa fatica a distinguersi per logo o denominazione, si confonde facilmente
+
+Un marchio debole, es. *Divani&Divani* utilizza la comune parola divani come segno, può diventare forte grazie a una pressante campagna pubblicitaria o ad altri fattori.
+
+Viceversa, un marchio forte, es. *Scotch* e *Thermos* sono marchi di per sé distinguibili, può diventare debole a causa di un utilizzo talmente ampio che lo fa diventare comune. Il nastro adesivo è infatti comunemente chiamato scotch.
+
+#### 2.1.2. Registrazione
+
+La **registrazione** in Italia può essere chiesta all'*Ufficio Italiano Brevetti e Marchi* oppure a una qualsiasi *Camera di Commercio*. La registrazione in Europa va chiesta a *EUIPO*, mentre nel resto del mondo va chiesta a *WIPO*.
+
+La registrazione segue un certo iter. Non può ancora essere usato il simbolo ®, ma in attesa della fine della registrazione può essere usato il simbolo **™**.
+
+In fase di deposito è necessario indicare la **categoria merceologica** di competenza. Si possono fare più registrazioni per più categorie, ma già solo in Italia sono 45 secondo la [*Classificazione di Nizza*](https://uibm.mise.gov.it/index.php/it/marchi/caratterisctiche-del-marchio/classificazione-internazionale-dei-prodotti-e-dei-servizi-classificazione-di-nizza).
+
+Può quindi succedere che un marchio venga registrato all'impresa A per il settore X e lo stesso marchio venga registrato dall'impresa B per il settore Y. Questo però vale solo se il marchio non ha grande notorietà.
+
+L'ufficio di competenza non fa controlli preliminari sul marchio, per es. verificare se già ne esiste uno simile, ma si limita a pubblicare la richiesta di registrazione su un bollettino.
+
+Da questo momento parte un **periodo di opposizione** di 90 giorni, durante il quale un'altra impresa può opporsi alla sua registrazione. La richiesta di opposizione dovrà poi essere respinta o accolta.
+
+Concluso questo periodo vengono fatti dei controlli sulla liceità e infine viene registrato. Solo allora può essere usato il simbolo ®.
+
+Considerata la durata di questo iter, prima di iniziare è consigliabile fare controlli accurati oppure chiedere il parere di un esperto, altrimenti si rischia che dopo mesi di valutazione la richiesta possa essere respinta.
+
+La registrazione vale per 10 anni, scaduti i quali può essere rinnovata per altri 10 anni e cosi via.
+
+#### 2.1.3. Banche dati
+
+Prima di procedere alla registrazione di un marchio, è bene controllare se questo o uno simile non sia già esistente.
+
+Esistono delle **banche dati** ufficiali messe a disposizione per questo scopo, grazie alle quali è possibile scoprire dettagli sui marchi già registrati come tipo di marchio, settore merceologico e se la registrazione è scaduta o meno. Alcune permettono anche di cercare un'immagine.
+
+La lista comprende:
+
+- [*TMview*](https://www.tmdn.org/tmview/#/tmview): di *EUIPN*
+- [*ASEAN TMview*](www.asean-tmview.org/): è focalizzato sull'area asiatica
+- [*eSearch plus*](https://euipo.europa.eu/eSearch/): di *EUIPO*
+- [*Madrid Monitor*](https://www.wipo.int/madrid/monitor/): di *WIPO* e in precedenza conosciuto come *ROMARIN*
+- [*UIBM*](https://www.uibm.gov.it/bancadati/): dell'*Ufficio Italiano Brevetti e Marchi*
+
+<!--
+Data: 20/06/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
