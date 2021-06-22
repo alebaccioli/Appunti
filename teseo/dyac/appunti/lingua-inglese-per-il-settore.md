@@ -25,6 +25,12 @@
   - [1.5. Present perfect continuous](#15-present-perfect-continuous)
     - [1.5.1. Forma](#151-forma)
     - [1.5.2. Utilizzo](#152-utilizzo)
+  - [1.6. Past perfect](#16-past-perfect)
+    - [1.6.1. Forma](#161-forma)
+    - [1.6.2. Utilizzo](#162-utilizzo)
+  - [1.7. Passives](#17-passives)
+    - [1.7.1. Forma](#171-forma)
+    - [1.7.2. Utilizzo](#172-utilizzo)
 - [2. Esercizi](#2-esercizi)
   - [2.1. Past simple](#21-past-simple)
     - [2.1.1. Numero 3](#211-numero-3)
@@ -43,6 +49,30 @@
     - [2.4.1. Numero 2](#241-numero-2)
     - [2.4.2. Numero 4](#242-numero-4)
     - [2.4.3. Numero 5](#243-numero-5)
+  - [2.5. Past perfect](#25-past-perfect)
+    - [2.5.1. Numero 1](#251-numero-1)
+    - [2.5.2. Numero 2](#252-numero-2)
+    - [2.5.3. Numero 3](#253-numero-3)
+    - [2.5.4. Numero 5](#254-numero-5)
+  - [2.6. Passives](#26-passives)
+    - [2.6.1. Numero 1](#261-numero-1)
+  - [2.7. Inserzioni](#27-inserzioni)
+    - [2.7.1. Numero 1](#271-numero-1)
+      - [2.7.1.1. Italiano](#2711-italiano)
+      - [2.7.1.2. Soluzione mia](#2712-soluzione-mia)
+      - [2.7.1.3. Soluzione docente](#2713-soluzione-docente)
+    - [2.7.2. Numero 2](#272-numero-2)
+      - [2.7.2.1. Italiano](#2721-italiano)
+      - [2.7.2.2. Soluzione mia](#2722-soluzione-mia)
+      - [2.7.2.3. Soluzione docente](#2723-soluzione-docente)
+    - [2.7.3. Numero 3](#273-numero-3)
+      - [2.7.3.1. Italiano](#2731-italiano)
+      - [2.7.3.2. Soluzione mia](#2732-soluzione-mia)
+      - [2.7.3.3. Soluzione docente](#2733-soluzione-docente)
+    - [2.7.4. Numero 4](#274-numero-4)
+      - [2.7.4.1. Italiano](#2741-italiano)
+      - [2.7.4.2. Soluzione mia](#2742-soluzione-mia)
+      - [2.7.4.3. Soluzione docente](#2743-soluzione-docente)
 
 ## 1. Verbi
 
@@ -316,6 +346,84 @@ Ma alcuni verbi *non* possono essere usati in nessuna forma *continuous*. Questi
 - possedere: es. *to have*, *to belong*, *to own*, *to possess*
 - essere: es. *to be*, *to exist*
 
+### 1.6. Past perfect
+
+#### 1.6.1. Forma
+
+La forma è la stessa per tutte le persone.
+
+Tipi di frasi:
+
+- **affermativa**:
+  - *subject* + *had* + *past participle*
+  - *He had eaten*
+- **negativa**:
+  - *subject* + *hadn't* + *past participle*
+  - *He hadn't eaten*
+- **interrogativa**:
+  - *Had* + *subject* + *past participle*
+  - *Had he eaten?*
+- **negativa-interrogativa**:
+  - *Hadn't* + *subject* + *past participle*
+  - *Hadn't he eaten?*
+
+#### 1.6.2. Utilizzo
+
+Situazioni di utilizzo:
+
+- indicare un'azione del passato che è accaduta prima di un'altra azione del passato (quest'ultima espressa con il *past simple*)
+  - *When I arrived, Fred had already left*
+- con espressioni come *it was the first time*
+  - *It was the second time she had been late for work*
+- con espressioni come *already*, *yet*, *just* e *even*
+  - *I arrived at the bank at 5:30 p.m., but it had already closed*
+
+### 1.7. Passives
+
+#### 1.7.1. Forma
+
+La forma è:
+
+- forma appropriata dell'ausiliare *to be* + *past participle* del verbo principale
+  - *They speak English here* (forma attiva)
+  - *English is spoken here* (forma passiva)
+  - *They built this house in 1980* (forma attiva)
+  - *This house was built in 1980* (forma passiva)
+
+#### 1.7.2. Utilizzo
+
+Situazioni di utilizzo:
+
+- indicare un'azione focalizzando l'attenzione su di essa invece che su chi l'ha compiuta
+  - *The judge decided the punishment* (forma attiva)
+  - *The punishment was decided by the judge* (forma passiva)
+- quando non conosciamo o non vogliamo dire l'autore dell'azione
+  - *Someone has left the door unlocked* (forma attiva)
+  - *The door has been left unlocked* (forma passiva)
+- nella scrittura formale
+  - *Those pyramids were built around AD 400* (forma passiva)
+
+Alcune considerazioni:
+
+- di solito si usa *by* quando vogliamo riferirci all'autore dell'azione
+  - *Your children caused all the trouble* (forma attiva)
+  - *The trouble was caused by your children* (forma passiva)
+- quando la frase attiva contiene due oggetti (diretto e indiretto), l'oggetto indiretto di solito diventa il nuovo soggetto della frase passiva
+  - *Mary gave her friend* (oggetto indiretto) *a present* (oggetto diretto)
+  - *Her friend* (soggetto) *was given a present*
+- con i verbi modali la forma è leggermente differente
+  - *They couldn't hear me* (forma attiva)
+  - *I couldn't be heard* (forma passiva)
+- *to need*, *to require*, *to want* possono precedere la forma *ing*
+  - *Your socks need mending*
+- *to think*, *to consider*, *to believe*, *to say*, *to report*, *to know*, *to find* possono avere due forme passive
+  - *They say he is a genius* (forma attiva)
+  - *It is said that he is a genius* (forma passiva)
+  - *He is said to be a genius* (forma passiva)
+  - *People think I have a great job* (forma attiva)
+  - *It is thought that I have a great job* (forma passiva)
+  - *I am thought to have a great job* (forma passiva)
+
 ## 2. Esercizi
 
 ### 2.1. Past simple
@@ -435,6 +543,48 @@ Ma alcuni verbi *non* possono essere usati in nessuna forma *continuous*. Questi
 1. I have lost (non c'è la durata con *for* o *since*)
 2. Have you been playing
 
+### 2.5. Past perfect
+
+#### 2.5.1. Numero 1
+
+1. They had left, They hadn't left, Had they left, Hadn't they left
+2. He had gone, He hadn't gone, Had he gone, Hadn't he gone
+
+#### 2.5.2. Numero 2
+
+1. had just gone out
+2. had eaten
+3. had just finished
+4. had already made
+
+#### 2.5.3. Numero 3
+
+1. had been
+2. had opened
+3. visited
+
+#### 2.5.4. Numero 5
+
+1. was, was, hadn't eaten
+2. have just finished
+3. left, was, was rushing, remembered, hadn't locked
+4. has been
+5. ~~was teaching~~ taught, preferred, was
+6. were, went, had never seen
+7. opened, had forgotten
+8. arrived
+
+### 2.6. Passives
+
+#### 2.6.1. Numero 1
+
+1. The children were treated to some ice cream
+2. The instruments were played beautifully
+3. Nothing was done until he came
+4. She will be met at the station
+5. You will have to be tested again
+6. Sally was given a lot of pocket money
+
 <!--
 Data: 09/06/2021
 Nome file: ok
@@ -442,6 +592,128 @@ Nome file: ok
 
 <!--
 Data: 11/06/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+### 2.7. Inserzioni
+
+#### 2.7.1. Numero 1
+
+##### 2.7.1.1. Italiano
+
+Sei pronto per mollare gli ormeggi e vivere una nuova avventura?
+
+Parti per una delle nostre Crociere Scuola alla volta di acque cristalline e suggestivi borghi marinari: Isole Elba e Capraia, Corsica del Nord, Sardegna, Cinque Terre.
+
+Scopri qui tutti gli itinerari e salpa dai porti di Viareggio, Marina di Pisa, Livorno, La Spezia, Marina di Grosseto, Ostia: `https://www.circolovelamare.com/crociere-settimana.aspx`.
+
+Ti aspettiamo!  
+Maggiori informazioni  
+`info@circolovelamare.com`  
+3335803068 e 3272264388 (anche WhatsApp).
+
+##### 2.7.1.2. Soluzione mia
+
+Are you ready to release the moorings and live a new adventure?
+
+Go on a trip with our School Cruises towards crystal waters and suggestive coastal towns: Elba and Capraia islands, Northern Corsica, Sardinia, Cinque Terre.
+
+Find out every itinerary and sail from the harbours of Viareggio, Marina di Pisa, Livorno, La Spezia, Marina di Grosseto, Ostia: `https://www.circolovelamare.com/crociere-settimana.aspx`.
+
+We are waiting for you!  
+For more information  
+`info@circolovelamare.com`  
+3335803068 e 3272264388 (WhatsApp included).
+
+##### 2.7.1.3. Soluzione docente
+
+Are you ready to release the moorings and start a new adventure?
+
+Let's go for one of our School Cruises towards clear waters and suggestive seaside villages: Elba Island and Capraia, North of Corsica, Sardinia, Cinque Terre.
+
+Discover here all the itineraries and set sail from the ports of Viareggio, Marina di Pisa, Livorno, La Spezia, Marina di Grosseto, Ostia.
+
+We're waiting for you!  
+More information
+
+#### 2.7.2. Numero 2
+
+##### 2.7.2.1. Italiano
+
+La più grande distesa di fiori di loto d'Italia si trova sul percorso de La Via delle Erbe e dei fiori a Massarosa.
+
+L'azienda agricola Agriturismo La Ninfea coltiva circa 70.000 mq di meravigliosi fiori di loto bianchi e rosa. Il periodo perfetto per ammirare la loro fioritura è tra giugno e settembre.
+
+La raccolta è molto particolare e avviene direttamente a mano, addentrandosi nella palude e raccogliendo con cura uno ad uno questi bellissimi fiori che poi vengono confezionati in modo eco friendly poiché chiusi all'interno della loro stessa foglia in mazzi da 10.
+
+Inaugurazione percorso 19-20 e 26-27 giugno 2021
+
+\#laviadelleerbeedeifiori  
+\#Massarosa  
+\#inVersilia  
+\#VisitVersilia
+
+##### 2.7.2.2. Soluzione mia
+
+You can find the largest extent of lotus flowers in Italy on the path of "La Via delle Erbe e dei fiori" in Massarosa.
+
+The "Agriturismo La Ninfea" farm grows about 70.000 square meters of wonderful white and pink lotus flowers. The perfect time to admire their blooming is from June to September.
+
+The harvesting is very peculiar and is done directly by hand, stepping into the swamp and carefully gathering these beautiful flowers one by one, which are then eco-friendly packaged inside their own leaf in bunches of 10.
+
+Opening path: June 19-20 and 26-27 2021.
+
+##### 2.7.2.3. Soluzione docente
+
+... The ? moment to admire their flowering is between June and September.
+
+The flower collection is really special and it occurs by hand, getting into the swamp and accurately picking up the flowers one by one. Then they are ecofriendly wrapped into their own leaves in beautiful bouquet ...
+
+#### 2.7.3. Numero 3
+
+##### 2.7.3.1. Italiano
+
+Abbiamo bisogno del tuo supporto per sostenere le nostre attività e servizi che offriranno per fare vivere al meglio le persone con la distrofia muscolare.
+
+Dona il tuo 5x1000 a uildm sezione di Legnano, inserisci il seguente codice fiscale 92002220157.
+
+Trova il tempo per aiutare, è la strada per la felicità.
+
+##### 2.7.3.2. Soluzione mia
+
+We need your support to sustain the activities and services that we offer to help people with muscular dystrophy live better.
+
+Donate your 5x1000 to UILDM, Legnano section. Enter the following tax code: 92002220157.
+
+Find the time to help, it's the way to happiness.
+
+##### 2.7.3.3. Soluzione docente
+
+We really need your support to sustain our activities and services to help people affected by muscular dystrophy and improve their condition of lives.
+
+Give your 5x1000 to UILDM Legnano section, insert the following fiscal code ...
+
+#### 2.7.4. Numero 4
+
+##### 2.7.4.1. Italiano
+
+Da Esselunga, fino al 9 giugno, ti aspetta la convenienza che piace a tutti! Sconti fino al 50% su tantissimi prodotti. Sfoglia il volantino!
+
+##### 2.7.4.2. Soluzione mia
+
+Until June 9, Esselunga is waiting for you with the convenience that everyone likes! A lot of products with discounts up to 50%. Check the flyer!
+
+##### 2.7.4.3. Soluzione docente
+
+At Esselunga, up to 9th of June, the most likeable convenience is waiting for you! Up to 50% discount on a large amount of products. Leaf through our flyer!
+
+<!--
+Data: 22/06/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
