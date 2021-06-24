@@ -11,34 +11,46 @@
   - [1.2. Google](#12-google)
   - [1.3. Linee guida](#13-linee-guida)
   - [1.4. Fattori di ranking](#14-fattori-di-ranking)
-- [2. SEO](#2-seo)
-  - [2.1. SEO on-page](#21-seo-on-page)
-    - [2.1.1. Tag title](#211-tag-title)
-    - [2.1.2. Meta description](#212-meta-description)
-    - [2.1.3. URL](#213-url)
-    - [2.1.4. Tag alt](#214-tag-alt)
-    - [2.1.5. Headline](#215-headline)
-  - [2.2. SEO off-page](#22-seo-off-page)
-  - [2.3. Link juice](#23-link-juice)
-- [3. Strumenti](#3-strumenti)
+- [2. SEM](#2-sem)
+  - [2.1. SEO](#21-seo)
+    - [2.1.1. SEO on-page](#211-seo-on-page)
+      - [2.1.1.1. Tag title](#2111-tag-title)
+      - [2.1.1.2. Meta description](#2112-meta-description)
+      - [2.1.1.3. URL](#2113-url)
+      - [2.1.1.4. Tag alt](#2114-tag-alt)
+      - [2.1.1.5. Headline](#2115-headline)
+    - [2.1.2. SEO off-page](#212-seo-off-page)
+    - [2.1.3. Link juice](#213-link-juice)
+  - [2.2. SEA](#22-sea)
+- [3. Strumenti di monitoraggio](#3-strumenti-di-monitoraggio)
   - [3.1. Google Analytics](#31-google-analytics)
   - [3.2. Google Search Console](#32-google-search-console)
   - [3.3. Google Trends](#33-google-trends)
-  - [3.4. SEOZoom](#34-seozoom)
-- [4. PrestaShop](#4-prestashop)
-  - [4.1. Catalogo](#41-catalogo)
-  - [4.2. Moduli](#42-moduli)
-  - [4.3. Parametri Negozio](#43-parametri-negozio)
-- [5. WordPress](#5-wordpress)
-  - [5.1. Yoast SEO](#51-yoast-seo)
+  - [3.4. Google PageSpeed Insights](#34-google-pagespeed-insights)
+  - [3.5. SEOZoom](#35-seozoom)
+- [4. Google Ads](#4-google-ads)
+  - [4.1. Rete](#41-rete)
+  - [4.2. Asta](#42-asta)
+  - [4.3. Punteggio di qualità](#43-punteggio-di-qualità)
+  - [4.4. Campagne pubblicitarie](#44-campagne-pubblicitarie)
+    - [4.4.1. Obiettivo](#441-obiettivo)
+    - [4.4.2. Tipo di campagna](#442-tipo-di-campagna)
+    - [4.4.3. Campagna](#443-campagna)
+    - [4.4.4. Gruppo di annunci](#444-gruppo-di-annunci)
+    - [4.4.5. Annuncio](#445-annuncio)
+  - [4.5. Monitoraggio](#45-monitoraggio)
+- [5. PrestaShop](#5-prestashop)
+  - [5.1. Catalogo](#51-catalogo)
+  - [5.2. Moduli](#52-moduli)
+  - [5.3. Parametri Negozio](#53-parametri-negozio)
+- [6. WordPress](#6-wordpress)
+  - [6.1. Yoast SEO](#61-yoast-seo)
 
 ## 1. Motori di ricerca
 
-Per **SEO** s'intende l'insieme delle attività che permettono di ottimizzare il sito per i motori di ricerca, in modo da posizionarlo meglio nei risultati di ricerca.
+Il **motore di ricerca** è un sistema automatico che restituisce una lista di risultati in base a ciò che l'utente ha cercato.
 
-Per **SEM** s'intende l'insieme delle attività di marketing a pagamento che permettono di promuovere maggiormente il sito.
-
-La **SERP** è la pagina che contiene i risultati di una ricerca.
+La **SERP** (Search Engine Results Page) è la pagina che contiene i risultati della ricerca fatta dall'utente su un motore di ricerca.
 
 ### 1.1. Motori meno usati
 
@@ -127,7 +139,18 @@ La lista comprende:
 10. **anchor text**: creare dei link il cui nome descrive fedelmente il contenuto della pagina di destinazione rappresenta un forte fattore di ranking
 11. **basso tasso di rimbalzo**: si è visto che i siti che hanno bassi tassi di rimbalzo, cioè quelli che trattengono meglio gli utenti, hanno alti valori di ranking, quindi più gli utenti interagiscono con un sito e meglio è considerato da *Google*
 
-## 2. SEO
+## 2. SEM
+
+Per **SEM** (Search Engine Marketing) si intende l'insieme delle attività di marketing volte alla promozione di un sito web nei motori di ricerca.
+
+Tra le principali attività abbiamo:
+
+- **SEO** (Search Engine Optimization): è l'insieme delle ottimizzazioni che possiamo fare per migliorare il posizionamento del sito nei risultati organici (non a pagamento)
+- **SEA** (Search Engine Advertising): sono campagne pubblicitarie a pagamento che consentono di promuovere maggiormente l'attività e di definire il target
+
+Nella concezione comune si identifica il SEM con il SEA, mentre si vede il SEO come uno strumento separato. In realtà il SEM è un concetto di marketing più ampio e comprende le attività di SEO e SEA.
+
+### 2.1. SEO
 
 L'obiettivo del **SEO** è migliorare il posizionamento del sito web nei risultati di ricerca. Ci sono ottimizzazioni che possiamo fare direttamente nelle pagine del sito web e altre esternamente.
 
@@ -135,7 +158,7 @@ Il SEO è una strategia a medio-lungo termine, può richiedere tra i 6 e i 12 me
 
 Se vogliamo risultati subito possiamo optare per delle inserzioni a pagamento, ma i risultati di questo tipo non sono duraturi e quindi gli investimenti vanno costantemente ripetuti.
 
-### 2.1. SEO on-page
+#### 2.1.1. SEO on-page
 
 Per **SEO on-page** s'intende l'insieme delle ottimizzazioni che possiamo fare sulle pagine del nostro sito.
 
@@ -147,7 +170,7 @@ I metadati rappresentano le informazioni più importanti su cui possiamo lavorar
 - tag `alt`
 - headline
 
-#### 2.1.1. Tag title
+##### 2.1.1.1. Tag title
 
 Il tag **`title`** è probabilmente l'elemento più importante che *Google* considera per l'indicizzazione e il ranking. Corrisponde al titolo del risultato di ricerca.
 
@@ -161,7 +184,7 @@ Un buon tag `title` deve:
 
 Oltre al numero dei caratteri, pare che *Google* consideri anche il numero dei pixel occupati. Es. due `title` da 38 caratteri, ma uno usa il maiuscolo e occupa più pixel.
 
-#### 2.1.2. Meta description
+##### 2.1.1.2. Meta description
 
 La meta **`description`** di una pagina web è la descrizione libera ed esaustiva del contenuto della pagina. Viene mostrata sotto al titolo del risultato.
 
@@ -174,7 +197,7 @@ Una buona meta `description` deve:
 - catturare l'attenzione dell'utente fino a spingerlo al click
 - max 140 caratteri, poi viene tagliata
 
-#### 2.1.3. URL
+##### 2.1.1.3. URL
 
 L'**URL** (Uniform Resource Locator) indica l'indirizzo univoco di una pagina web. È composto dal dominio e dal cosiddetto *slug* (o *permalink* su *WordPress*).
 
@@ -190,13 +213,13 @@ Un buon URL deve:
 - contenere le keyword più importanti
 - essere abbastanza compatto
 
-#### 2.1.4. Tag alt
+##### 2.1.1.4. Tag alt
 
 Il tag **`alt`** è l'insieme delle keyword che permettono di categorizzare le immagini di una pagina web. Aiuta i motori di ricerca a trovare le immagini e a organizzarle nei risultati di ricerca.
 
 In *WordPress* si chiama *testo alternativo*.
 
-#### 2.1.5. Headline
+##### 2.1.1.5. Headline
 
 Mentre il `title` è il titolo dell'intera pagina, l'**headline** è un titolo dei contenuti di una pagina.
 
@@ -214,7 +237,7 @@ Spesso basta accostare termini noti ad altri meno noti per destare curiosità. P
 
 Il **copywriter** è la persona che scrive i testi sfruttando le migliori strategie creative per coinvolgere l'utente.
 
-### 2.2. SEO off-page
+#### 2.1.2. SEO off-page
 
 Ci sono diverse ottimizzazioni che possiamo fare esternamente al sito web per migliorarne la posizione.
 
@@ -230,7 +253,7 @@ Anche una buona attività di **social media marketing** permette di innescare un
 
 Questo tipo di backlink viene preso in considerazione da *Google*, magari attribuendogli un peso minore rispetto a un backlink di un grande portale.
 
-### 2.3. Link juice
+#### 2.1.3. Link juice
 
 Il **link juice** è l'autorevolezza che viene trasferita attraverso l'utilizzo di un link da una pagina web ad un'altra. È come se fosse un liquido che può essere travasato da una pagina all'altra tramite un link.
 
@@ -246,7 +269,20 @@ Di base i link sono di tipo **follow**, cioè trasferiscono normalmente il juice
 
 Per aumentare il link juice di origine è importante progettare bene l'attività di link building.
 
-## 3. Strumenti
+### 2.2. SEA
+
+L'obiettivo del **SEA** è la promozione del sito web tramite annunci nei motori di ricerca e nei siti partner.
+
+*Google Ads* è una delle piattaforme più importanti per questo scopo.
+
+Tra le alternative principali abbiamo:
+
+- piattaforme di affiliazione: es. *Tradedoubler*, *Sprintrade*
+- accordi diretti con merchant: es. *Amazon*
+- piattaforme di Real Time Bidding: es. *DoubleClick*, *Adform*
+- circuiti display alternativi: es. *AdRoll*, *Criteo*
+
+## 3. Strumenti di monitoraggio
 
 ### 3.1. Google Analytics
 
@@ -304,7 +340,15 @@ In ***Link*** è possibile visualizzare i siti da cui provengono i link al nostr
 
 Possiamo vedere i paesi che maggiormente cercano quella keyword, gli argomenti correlati e le query di ricerca associate.
 
-### 3.4. SEOZoom
+### 3.4. Google PageSpeed Insights
+
+***Google PageSpeed Insights*** è uno strumento che analizza il contenuto di una pagina web per verificarne la velocità di caricamento.
+
+Una volta analizzata la pagina viene mostrata una valutazione della velocità da 0 a 100. Raggiungere valori vicini a 100 è molto complesso, richiede una grande ottimizzazione del sito e delle risorse impiegate.
+
+Sono presenti numerosi dettagli anche molto tecnici. Alcuni suggerimenti permettono al webmaster di capire quali sono i punti critici da andare a ottimizzare.
+
+### 3.5. SEOZoom
 
 ***SEOZoom*** è uno strumento online per analizzare e monitorare un sito web, simile ad altri come *Semrush*. È un progetto italiano e alcune funzionalità sono gratuite.
 
@@ -324,15 +368,186 @@ Una volta ottenuti i vecchi indirizzi, applichiamo delle regole di reindirizzame
 
 Infine possiamo generare dei **report** periodici, magari da dare al committente per metterlo al corrente dei risultati.
 
-## 4. PrestaShop
+## 4. Google Ads
 
-### 4.1. Catalogo
+***Google Ads*** è la piattaforma di servizi pubblicitari di *Google* che permette di far visualizzare annunci promozionali agli utenti.
+
+Le sue peculiarità comprendono:
+
+- **sistema premiale**: il rendimento degli annunci incide sul costo e sulla visibilità
+- **forti potenzialità di targeting**: è possibile mostrare annunci estremamente mirati, anche se la piattaforma è complessa
+- **sistema di reti**: sono i luoghi dove vengono visualizzati gli annunci e comprendono molti siti di *Google* e dei partner
+
+### 4.1. Rete
+
+La **rete** è l'insieme dei posizionamenti in cui può essere pubblicato un annuncio. Comprende i siti di *Google* e dei suoi partner e altri posti come le app per cellulari.
+
+La rete è suddivisa in gruppi:
+
+- **Rete di ricerca** - *Google Search Network* (GSN):
+  - comprende le SERP di *Google*, di altri suoi siti come *Google Maps* e dei siti partner
+  - ha come obiettivo principale la conversione e la generazione di lead, è molto importante per gli e-commerce, sostanzialmente serve per far cliccare l'utente
+- **Rete Display** - *Google Display Network* (GDN):
+  - comprende siti di *Google* come *YouTube* e *Gmail* e tantissimi altri siti dei partner
+  - ha come obiettivo principale il branding, in questo caso sono più importanti le visualizzazioni piuttosto che i click
+
+Ovviamente una non esclude l'altra, si possono provare entrambe e decidere poi su quale investire di più.
+
+Per esempio, quando cerchiamo qualcosa su *Google*, spesso vediamo annunci testuali (Rete di ricerca) in un numero fino a 4 nella parte alta della pagina e fino a 3 nella parte bassa.
+
+Di fianco ai risultati è talvolta visibile un'area con dei prodotti pubblicizzati (Shopping ads o Product Listing Ads).
+
+In alcuni siti è possibile vedere in mezzo o a fianco dei contenuti annunci in formato immagine o video (Rete Display).
+
+### 4.2. Asta
+
+Quando si pubblica un annuncio, questo entra in competizione con quelli degli altri inserzionisti. Si crea così un'**asta** che premia gli annunci con un ranking superiore.
+
+Nello specifico:
+
+1. quando un utente effettua una ricerca, *Google Ads* raggruppa tutti gli annunci pertinenti alle parole chiave ricercate
+2. vengono scartati gli annunci non idonei, per es. quelli indirizzati ad altri paesi
+3. tra i rimanenti vengono pubblicati quelli con il ranking più alto
+
+Il **ranking** dell'annuncio dipende dall'ammontare investito, dal punteggio di qualità e da altri fattori.
+
+### 4.3. Punteggio di qualità
+
+Il **punteggio di qualità** è uno strumento che permette di analizzare la qualità dell'annuncio in modo da migliorarne il suo rendimento rispetto a quelli dei concorrenti.
+
+Si basa su tre punti principali:
+
+- **tasso di click**: la probabilità che l'annuncio riceva un click quando viene pubblicato
+- **pertinenza**: il grado di corrispondenza tra l'annuncio e le parole chiave ricercate dall'utente
+- **esperienza d'uso**: il livello di utilità della pagina di destinazione per l'utente, l'originalità dei testi, la velocità di caricamento
+
+Risulta quindi evidente che oggi non basta più pagare. Sono necessari altri criteri come testi originali e pertinenti.
+
+La landing page deve essere il più interessante possibile per l'utente. L'annuncio deve puntare a una pagina specifica che mostra immediatamente all'utente ciò che stava cercando.
+
+Il **CPC** (Cost Per Click) è quanto ci costa un singolo click fatto dall'utente sull'annuncio. Il suo valore effettivo in *Google Ads* equivale al rapporto tra il ranking dell'inserzionista immediatamente sotto e il proprio punteggio di qualità.
+
+### 4.4. Campagne pubblicitarie
+
+*Google Ads* fornisce un'interfaccia guidata per generare **campagne pubblicitarie**. Sono in qualche modo simili a quelle di *Facebook Business Manager*, ma quest'ultimo riesce ad attingere a un database di profilazione utente ben più vasto.
+
+I passaggi principali sono:
+
+- selezione dell'obiettivo
+- selezione del tipo di campagna
+- configurare la campagna
+- configurare il gruppo di annunci
+- creare l'annuncio
+
+L'annuncio poi verrà analizzato da *Google* per verificare che rispetti le normative pubblicitarie.
+
+#### 4.4.1. Obiettivo
+
+L'**obiettivo** della campagna rappresenta il traguardo principale della promozione.
+
+La lista comprende:
+
+- **vendita**: incentiva le vendite online, nell'app, per telefono o in negozio
+- **lead**: genera lead e altre conversioni incoraggiando l'utente ad agire
+- **traffico sul sito web**: invita gli utenti a visitare il sito web
+- **considerazione del prodotto e del brand**: incentiva l'utente a scoprire i prodotti o i servizi offerti
+- **notorietà del brand e copertura**: raggiunge una vasta base di pubblico per creare awareness
+- **promozione di app**: aumenta il numero di installazioni e interazioni di un'app
+- **promozioni e visite ai negozi locali**: incentiva le visite ai negozi locali
+- **campagna senza obiettivo**: fornisce una maggiore personalizzazione della campagna per i più esigenti
+
+#### 4.4.2. Tipo di campagna
+
+Il **tipo di campagna** determina dove gli utenti visualizzano gli annunci e le opzioni disponibili nelle impostazioni della campagna.
+
+La lista comprende:
+
+- **ricerca**: annunci testuali nella SERP di *Google* e dei siti partner
+- **display**: annunci in forma di immagini e video presenti nei siti collegati a questa rete
+- **shopping**: annunci con schede prodotto di un e-commerce
+- **video**: annunci video su *YouTube* e siti partner
+- **app**: annunci per la promozione di app su *Google Play* e altre reti
+- **intelligente**: lasciamo a *Google Ads* il compito di selezionare le reti migliori
+- **pagine locali**: annunci specialmente su *Google Maps* e in ricerca per promuovere le visite presso le sedi locali
+- **discovery**: annunci altamente personalizzati che si basano sui dati di monitoraggio del nostro sito
+
+#### 4.4.3. Campagna
+
+Nelle impostazioni della **campagna** possiamo selezionare i parametri principali della promozione.
+
+Tra le impostazioni che possiamo personalizzare abbiamo:
+
+- rete: ricerca e/o display
+- targeting: possiamo scegliere località, lingue, segmenti di pubblico in base a dati demografici, interessi, remarketing e altro
+- budget: ammontare giornaliero medio da assegnare alla campagna
+- estensioni: link e informazioni supplementari all'annuncio, es. bottone "Chiama ora"
+
+È consigliabile creare una campagna separata per ogni:
+
+- area geografica e/o linguistica
+- necessità di budget differenti
+- tipo di rete
+
+#### 4.4.4. Gruppo di annunci
+
+Nelle impostazioni del **gruppo di annunci** possiamo raggruppare gli annunci in base alle stesse parole chiave e a un tema comune.
+
+*Google Ads* può mostrarci dei suggerimenti per le parole chiave più attinenti.
+
+Le parole chiave possono avere una **corrispondenza**:
+
+- **generica** (es. *parola chiave*): è il metodo predefinito, gli annunci potrebbero essere mostrati a seguito di ricerche correlate alla parola chiave, la corrispondenza è approssimativa
+- **a frase** (es. *"parola chiave"*): gli annunci potrebbero essere mostrati a seguito di ricerche che includono il significato della parola chiave, la corrispondenza è moderata
+- **esatta** (es. *[parola chiave]*): gli annunci potrebbero essere mostrati a seguito di ricerche che hanno lo stesso significato della parola chiave, la corrispondenza è stretta
+
+È possibile escludere una parola chiave aggiungendo il segno meno all'inizio di essa. L'annuncio non verrà mostrato se durante la ricerca è stata inserita quella keyword.
+
+È consigliabile creare un gruppo di annunci separato per ogni:
+
+- categoria o raggruppamento omogeneo di prodotti o servizi
+- ricerca che include il nostro brand
+- ricerca con nomi dei marchi dei principali competitor: non molto corretto ma spesso efficace
+- target di utenza mirato
+- canale display diverso: es. *YouTube*, *Gmail*
+
+#### 4.4.5. Annuncio
+
+L'**annuncio** rappresenta la parte creativa della campagna.
+
+Tra le opzioni di configurazione abbiamo:
+
+- l'URL mostrato nell'annuncio
+- il titolo: è possibile inserirne diversi e questi verranno mostrati a rotazione di volta in volta
+- la descrizione: anch'essa a rotazione
+
+*Google Ads* mostra dei suggerimenti sull'efficacia dell'annuncio e una sua anteprima.
+
+### 4.5. Monitoraggio
+
+Una volta creata una campagna, *Google Ads* permette di monitorarne l'andamento attraverso numerosi parametri.
+
+Tra i vari parametri abbiamo:
+
+- numero di visualizzazioni totali degli annunci (*impressioni*)
+- numero di click sugli annunci
+- rapporto percentuale tra click e visualizzazioni totali (*CTR*)
+- costo totale della campagna
+- costo per click
+- statistiche sulle parole chiave scelte
+- dettagli sui dispositivi utilizzati dagli utenti
+- punteggio di qualità e statistiche sulla pagina di destinazione
+- statistiche sui segmenti di pubblico
+- reti di *Google* e siti dove sono stati pubblicati gli annunci
+
+## 5. PrestaShop
+
+### 5.1. Catalogo
 
 In ***Prodotti*** possiamo modificare un prodotto per poi configurare le opzioni SEO, per es. definire un titolo e una descrizione personalizzata. Se non mettiamo nulla li genera da solo.
 
 Se la pagina di un prodotto è indicizzata da un motore di ricerca, cosa succede se rimuoviamo il prodotto? Abbiamo diverse opzioni, per esempio reindirizziamo l'utente a una categoria o un prodotto correlato. Possiamo farlo temporaneamente se pensiamo che il prodotto mancante ritornerà in vendita oppure permanentemente.
 
-### 4.2. Moduli
+### 5.2. Moduli
 
 Il modulo ***Google Analytics*** permette di collegare il proprio account di *Google Analytics* al nostro e-shop per misurarne l'andamento.
 
@@ -342,7 +557,7 @@ La sitemap si può aggiornare manualmente, ma è ovviamente sconveniente. Possia
 
 Una volta creata la sitemap la possiamo collegare a *Google Search Console*.
 
-### 4.3. Parametri Negozio
+### 5.3. Parametri Negozio
 
 ***Traffico & SEO*** mostra una lista delle pagine principali del sito.
 
@@ -365,7 +580,7 @@ Il file `robots.txt` contiene le regole che indicano a un motore di ricerca qual
 
 Per esempio è certamente utile indicizzare le pagine prodotto, ma non lo è le pagine tecniche che servono per far funzionare la piattaforma.
 
-## 5. WordPress
+## 6. WordPress
 
 ***WordPress*** è un CMS simile a *PrestaShop*, ma è nato in ambito editoriale per poi evolversi come piattaforma per la costruzione di siti.
 
@@ -377,7 +592,7 @@ Oltre ai plugin sono presenti dei **widget**, piccoli elementi che vanno a compl
 
 *Avada* è un **tema** a pagamento che permette di creare pagine dal layout flessibile senza grandi competenze tecniche.
 
-### 5.1. Yoast SEO
+### 6.1. Yoast SEO
 
 ***Yoast SEO*** è un plugin per il SEO tra i più usati. Fornisce molte indicazioni su come scrivere un articolo in ottica SEO e leggibilità. È gratuito, ma la versione a pagamento aggiunge altre funzionalità.
 
@@ -394,6 +609,16 @@ Nome file: ok
 
 <!--
 Data: 19/06/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+<!--
+Data: 25/06/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
