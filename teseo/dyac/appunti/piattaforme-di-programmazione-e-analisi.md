@@ -12,6 +12,11 @@
     - [1.2.1. Filtri di ricerca](#121-filtri-di-ricerca)
     - [1.2.2. Tipi di ricerca](#122-tipi-di-ricerca)
     - [1.2.3. Snippet](#123-snippet)
+- [2. WordPress](#2-wordpress)
+  - [2.1. Yoast SEO](#21-yoast-seo)
+- [3. Immagini](#3-immagini)
+  - [3.1. Dimensione e risoluzione](#31-dimensione-e-risoluzione)
+  - [3.2. Formato](#32-formato)
 
 ## 1. Motori di ricerca
 
@@ -155,6 +160,69 @@ Nome file: ok
 
 <!--
 Data: 09/06/2021
+Pagina: ok
+Apostrofi: ok
+Lint: ok
+Grammatica: ok
+Codice: ok
+Numeri sezione: ok
+-->
+
+## 2. WordPress
+
+***WordPress*** è un CMS che permette di creare siti web in maniera piuttosto rapida. Già di base ha molte funzionalità, ma queste possono essere estese installando dei plugin.
+
+Un aspetto importante da considerare è continuare ad aggiornare i contenuti di un sito. Questo perché a *Google* piacciono i nuovi contenuti, mentre i siti che hanno contenuti costantemente fissi tendono a scendere nelle posizioni della SERP.
+
+*Google* non è in grado di capire il contenuto testuale di un'immagine. L'attributo `alt` del tag `img` permette di inserire delle parole che lo aiutano a capire l'argomento dell'immagine. In *WordPress* viene chiamato *testo alternativo*.
+
+*WordPress* non ha una grande organizzazione dei file multimediali. Un plugin chiamato *FileBird* permette di creare cartelle per organizzare meglio.
+
+### 2.1. Yoast SEO
+
+È molto importante cercare di creare contenuti che siano ottimizzati per il SEO. Ci può venire in aiuto un plugin chiamato ***Yoast SEO***. Fornisce suggerimenti utili sia per la  leggibilità dei contenuti sia per il SEO.
+
+La *frase chiave* è una o più parole che riassumono il contenuto della pagina. Tutti gli elementi della pagina e dello snippet devono rispecchiare in qualche modo la *frase chiave*.
+
+I suggerimenti permettono di focalizzare l'attenzione sui problemi principali. Non è sempre facile seguirli tutti.
+
+Tra i consigli abbiamo:
+
+- coerenza delle parole chiave nei contenuti e nello snippet
+- giusta lunghezza di titolo e descrizione
+- articoli troppo lunghi non vanno bene perché difficilmente verranno letti, ma è indispensabile che contengano almeno un minimo di caratteri
+
+Abbiamo inoltre una sezione dedicata ai social che permette di configurare il titolo e l'immagine di anteprima dell'articolo quando viene condiviso per es. su *Facebook*.
+
+Un plugin alternativo a *Yoast SEO* si chiama *All in One SEO*. Ha funzionalità molto simili.
+
+## 3. Immagini
+
+Un'**immagine** è composta da tanti quadratini colorati, chiamati **pixel**. Ciascun pixel può avere un solo colore.
+
+Gli schermi di un PC o smartphone utilizzano il modello *RGB* per generare i colori. Le stampanti utilizzano invece il modello *CMYK*.
+
+### 3.1. Dimensione e risoluzione
+
+La **dimensione** di un'immagine corrisponde al numero di pixel in larghezza e altezza, es. 1920 x 1080.
+
+La **risoluzione** è la quantità di pixel inseriti in un pollice e viene espressa in **DPI** (Dots Per Inch).
+
+Una risoluzione comune per i siti web è 72 DPI. Le immagini per la stampa necessitano di un DPI più alto, in genere tra i 150 e i 300.
+
+### 3.2. Formato
+
+Quando inseriamo delle immagini nelle pagine di un sito, è importante considerare il **formato** da usare. Non tutti i formati sono supportati.
+
+Tra i formati principali abbiamo:
+
+- **jpg** (o jpeg): funziona un po' come gli mp3, vengono rimossi dettagli generalmente non importanti in modo da risparmiare
+spazio mantenendo comunque una buona qualità
+- **png**: ha una qualità leggermente superiore a jpg ma occupa anche più spazio, la sua particolarità è il supporto al *canale alfa* che permette di rendere un colore trasparente
+- **gif**: a differenza degli altri formati supporta le animazioni
+
+<!--
+Data: 25/06/2021
 Pagina: ok
 Apostrofi: ok
 Lint: ok
